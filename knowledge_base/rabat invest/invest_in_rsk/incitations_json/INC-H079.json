@@ -1,0 +1,74 @@
+{
+  "id": "INC-H079",
+  "nom": "INMAA",
+  "nom_court": "INMAA",
+  "axe": "",
+  "type_incitation": "financement",
+  "description_courte": "Appui à la micro entreprise marocaine par l’offre des services financiers et l’accompagnement de proximité\nacteur de référence dans le micro crédit et un fournisseur de produits financiers adaptés aux besoins des micro-entrepreneurs et des activités génératrices de revenus.",
+  "description_complete": "Appui à la micro entreprise marocaine par l’offre des services financiers et l’accompagnement de proximité\nacteur de référence dans le micro crédit et un fournisseur de produits financiers adaptés aux besoins des micro-entrepreneurs et des activités génératrices de revenus.",
+  "avantages": [
+    "Appui à la micro entreprise marocaine par l’offre des services financiers et l’accompagnement de proximité",
+    "acteur de référence dans le micro crédit et un fournisseur de produits financiers adaptés aux besoins des micro-entrepreneurs et des activités génératrices de revenus."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "micro"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Femme entrepreneuse"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Être une institution à vocation nationale, financièrement viable",
+    "Donner la priorité aux zones rurales et à la femme",
+    "Outre le micro-crédit solidaire, développer de nouveaux produits financiers adaptés aux besoins des secteurs économiques porteurs et créateurs d’emploi",
+    "Développer des relations de partenariat avec différentes organisations locales, nationales et internationales afin d’assurer la complémentarité des actions dans les régions ciblées."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Angle Salah Eddine et Oued El Makhazin , Immeuble INMAA, (En face café Myst) Kenitra, Maroc"
+  ],
+  "organisation": {
+    "nom": "Institution Marocaine d'Appui à la micro-ebtreprise",
+    "telephone": "",
+    "site_web": "",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "crédit",
+    "IS"
+  ],
+  "secteurs_map": [
+    "tech",
+    "services",
+    "agriculture"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "crédit",
+    "IS"
+  ]
+}

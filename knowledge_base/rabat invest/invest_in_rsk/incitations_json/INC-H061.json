@@ -1,0 +1,79 @@
+{
+  "id": "INC-H061",
+  "nom": "Impôt sur les Sociétés\nTaxe sur la Valeur Ajoutée",
+  "nom_court": "Impôt sur les Sociétés\nTaxe sur la Valeur Ajoutée",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Impôt sur les Sociétés\nLes fédérations et les associations sportives reconnues d’utilité publique bénéficient de :\n• l’exonération permanente de l’impôt sur les sociétés, pour l’ensemble de leurs activités ou opérations et pour les revenus éventuels y afférents;\n• la déduction des dons en argent ...",
+  "description_complete": "Impôt sur les Sociétés\nLes fédérations et les associations sportives reconnues d’utilité publique bénéficient de :\n• l’exonération permanente de l’impôt sur les sociétés, pour l’ensemble de leurs activités ou opérations et pour les revenus éventuels y afférents;\n• la déduction des dons en argent ou en nature octroyés au Comité olympique national marocain et aux fédérations sportives régulièrement constituées.\n\nTaxe sur la Valeur Ajoutée\n• Exonération sans droit à déduction de la taxe sur la valeur ajoutée de l’ensemble des activités et opérations réalisées par les fédérations sportives reconnues d’utilité publique, ainsi que les sociétés sportives constituées conformément aux dispositions de la loi n° 30-09 relative à l’éducation physique et aux sports ;\n• Exonération à l’importation des biens et équipements de sport destinés à être livrés à titre de don aux fédérations sportives ou à la Fédération Nationale du Sport Scolaire ou à la Fédération Nationale des Sports Universitaires, régies par la loi n° 30-09 relative à l’éducation physique et aux sports.",
+  "avantages": [
+    "Impôt sur les Sociétés",
+    "Les fédérations et les associations sportives reconnues d’utilité publique bénéficient de :",
+    "l’exonération permanente de l’impôt sur les sociétés, pour l’ensemble de leurs activités ou opérations et pour les revenus éventuels y afférents;",
+    "la déduction des dons en argent ou en nature octroyés au Comité olympique national marocain et aux fédérations sportives régulièrement constituées.",
+    "Taxe sur la Valeur Ajoutée",
+    "Exonération sans droit à déduction de la taxe sur la valeur ajoutée de l’ensemble des activités et opérations réalisées par les fédérations sportives reconnues d’utilité publique, ainsi que les sociétés sportives constituées conformément aux dispositions de la loi n° 30-09 relative à l’éducation physique et aux sports ;",
+    "Exonération à l’importation des biens et équipements de sport destinés à être livrés à titre de don aux fédérations sportives ou à la Fédération Nationale du Sport Scolaire ou à la Fédération Nationale des Sports Universitaires, régies par la loi n° 30-09 relative à l’éducation physique et aux sports."
+  ],
+  "montant_ou_taux": "",
+  "duree": "permanent",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "IS",
+    "IR"
+  ]
+}

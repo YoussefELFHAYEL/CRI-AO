@@ -1,0 +1,82 @@
+{
+  "id": "INC-H031",
+  "nom": "REGIME DE CHANGE",
+  "nom_court": "REGIME DE CHANGE",
+  "axe": "",
+  "type_incitation": "autre",
+  "description_courte": "Possibilité d’ouverture de comptes en devises\nPossibilité d’ouverture de comptes en dirhams convertibles. Ces comptes sont ouverts soit au nom de la clientèle soit au nom des correspondants étrangers des banques marocaines\nPossibilité d’ouverture de comptes spéciaux libellés en dirhams\nPossibilit...",
+  "description_complete": "Possibilité d’ouverture de comptes en devises\nPossibilité d’ouverture de comptes en dirhams convertibles. Ces comptes sont ouverts soit au nom de la clientèle soit au nom des correspondants étrangers des banques marocaines\nPossibilité d’ouverture de comptes spéciaux libellés en dirhams\nPossibilité d’utilisation des dirhams billets de banque pour procéder à des règlements uniquement au profit des résidents au titre des dépenses suivantes :\n. salaires et autres émoluments sans limitation de montant\n. frais de transport, de réparation, de travaux et fourniture de produits en provenance du territoire assujetti et ce, dans la limite de 5000 dirhams par opération et d’un plafond de 150.000 dirhams par an et par opérateur.",
+  "avantages": [
+    "Possibilité d’ouverture de comptes en devises",
+    "Possibilité d’ouverture de comptes en dirhams convertibles. Ces comptes sont ouverts soit au nom de la clientèle soit au nom des correspondants étrangers des banques marocaines",
+    "Possibilité d’ouverture de comptes spéciaux libellés en dirhams",
+    "Possibilité d’utilisation des dirhams billets de banque pour procéder à des règlements uniquement au profit des résidents au titre des dépenses suivantes :",
+    ". salaires et autres émoluments sans limitation de montant",
+    ". frais de transport, de réparation, de travaux et fourniture de produits en provenance du territoire assujetti et ce, dans la limite de 5000 dirhams par opération et d’un plafond de 150.000 dirhams par an et par opérateur."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Au moins 70% du chiffre d’affaires doit être réalisé à l’export.",
+    "Les dirhams introduits dans les ZAI doivent provenir seulement de comptes étrangers en dirhams convertibles ou en devises ouverts auprès des banques intermédiaires agréées au nom des opérateurs installés dans ces zones."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": 70,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "vert",
+    "IS",
+    "IR",
+    "transport"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "vert",
+    "IS",
+    "IR",
+    "transport"
+  ]
+}

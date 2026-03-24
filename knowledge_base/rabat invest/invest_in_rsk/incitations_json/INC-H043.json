@@ -1,0 +1,76 @@
+{
+  "id": "INC-H043",
+  "nom": "TAXE DE SERVICES COMMUNAUX",
+  "nom_court": "TAXE DE SERVICES COMMUNAUX",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "En plus de la taxe d’habitation, vous devez acquitter une taxe de services communaux applicable aux immeubles, quelle que soit leur destination. Lorsque l’immeuble est destiné à l’habitation principale, vous bénéficiez d’un abattement de 75% de la valeur locative servant de base\nà son calcul, au ...",
+  "description_complete": "En plus de la taxe d’habitation, vous devez acquitter une taxe de services communaux applicable aux immeubles, quelle que soit leur destination.\nLorsque l’immeuble est destiné à l’habitation principale, vous bénéficiez d’un abattement de 75% de la valeur locative servant de base\nà son calcul, au même titre que pour la taxe d’habitation.\n\nTaux applicables\n• 10,50% de la valeur locative pour les locaux situés dans le périmètre des communes urbaines, des centres délimités, des stations\nestivales, hivernales et thermales ;\n• 6,50% de la valeur locative pour les locaux situés dans les zones périphériques des communes urbaines.",
+  "avantages": [
+    "En plus de la taxe d’habitation, vous devez acquitter une taxe de services communaux applicable aux immeubles, quelle que soit leur destination.",
+    "Lorsque l’immeuble est destiné à l’habitation principale, vous bénéficiez d’un abattement de 75% de la valeur locative servant de base",
+    "à son calcul, au même titre que pour la taxe d’habitation.",
+    "Taux applicables",
+    "10,50% de la valeur locative pour les locaux situés dans le périmètre des communes urbaines, des centres délimités, des stations",
+    "estivales, hivernales et thermales ;",
+    "6,50% de la valeur locative pour les locaux situés dans les zones périphériques des communes urbaines."
+  ],
+  "montant_ou_taux": "75%; 50%; 50%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "MRE"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre",
+    "En matière de taxe de services communaux, vous êtes soumis aux mêmes",
+    "obligations déclaratives prévues pour la taxe d’habitation, en cas d’achèvement des travaux de construction ou de changement d’affectation d’immeubles ou de changement de propriété.",
+    "Au titre de la taxe de services communaux, vous ne pouvez bénéficier de l’exonération de cinq (5) ans prévue en matière de taxe d’habitation."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "En matière de taxe de services communaux, vous êtes soumis aux mêmes\nobligations déclaratives prévues pour la taxe d’habitation, en cas d’achèvement des travaux de construction ou de changement d’affectation d’immeubles ou de changement de propriété.\n\nAu titre de la taxe de services communaux, vous ne pouvez bénéficier de l’exonération de cinq (5) ans prévue en matière de taxe d’habitation.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [],
+  "secteurs_map": [
+    "btp",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": "INC-J005",
+  "nom": "ANAPEC- Aide à la formation aux secteurs – Secteur de l’Offshoring",
+  "nom_court": "ANAPEC- Aide à la formation aux secteurs – Secteur de l’O...",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Contribution de l’Etat aux frais de formation pouvant atteindre 65 000dh selon les filières et sur une période de trois années. Le barème de remboursement se présente comme suit :\nFilière Niveau Formation à l’embauche Formation continue\nManagement\\* Bac+3 et plus 30.000 30.000\nInformation Technol...",
+  "description_complete": "Contribution de l’Etat aux frais de formation pouvant atteindre 65 000dh selon les filières et sur une période de trois années.\nLe barème de remboursement se présente comme suit :\nFilière Niveau Formation à l’embauche Formation continue\nManagement\\* Bac+3 et plus 30.000 30.000\nInformation Technology Outsourcing (ITO), Ingénieur 35.000 30.000\nEngineering Service Outsourcing (ESO), Technicien ou Bac+2 30.000 20.000\net plus\nKnowledge Process Outsourcing (KPO)\nBusiness Process Outsourcing (BPO) Bac+2 et plus 24.000 16 000\n(hors centres d’appels)\nCentres d’appel Diplômé ou Bac et plus 6000 6 000",
+  "avantages": [
+    "Contribution de l’Etat aux frais de formation pouvant atteindre 65 000dh selon les filières et sur une période de trois années.",
+    "Le barème de remboursement se présente comme suit :",
+    "Filière Niveau Formation à l’embauche Formation continue",
+    "Management\\* Bac+3 et plus 30.000 30.000",
+    "Information Technology Outsourcing (ITO), Ingénieur 35.000 30.000",
+    "Engineering Service Outsourcing (ESO), Technicien ou Bac+2 30.000 20.000",
+    "Knowledge Process Outsourcing (KPO)",
+    "Business Process Outsourcing (BPO) Bac+2 et plus 24.000 16 000",
+    "(hors centres d’appels)",
+    "Centres d’appel Diplômé ou Bac et plus 6000 6 000"
+  ],
+  "montant_ou_taux": "65 000dh",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Chercheurs d’emplois diplômés de nationalité marocaine et recrutés par un employeur opérant dans les métiers de l’offshoring",
+    "Entreprises installées dans les plateformes industrielles Intégrées dédiées à l’offshoring",
+    "Entreprises installées en dehors des P2I offshoring ayant un certificat d’éligibilité à validité annuelle délivré par le comité technique de l’offshoring.",
+    "Les formation dispensées à distance sont éligibles selon les modalités définies par le comité technique de l’offshoring",
+    "La formation peut être assurée au Maroc ou à l’étranger"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "www.anapec.org/"
+  ],
+  "organisation": {
+    "nom": "Agence Régionale de l’ANAPEC – Rabat",
+    "telephone": "05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "site_web": "www.anapec.org/",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "IS"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "IS"
+  ]
+}

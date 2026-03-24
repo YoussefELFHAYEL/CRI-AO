@@ -1,0 +1,73 @@
+{
+  "id": "INC-D002",
+  "nom": "FINEA -AVANCES SUR MARCHES PRIVES",
+  "nom_court": "FINEA -AVANCES SUR MARCHES PRIVES",
+  "axe": "",
+  "type_incitation": "subvention",
+  "description_courte": "Avance pré-facturation\nIl s’agit de pré-financements conçus pour couvrir toutes dépenses engagées ou à engager par la TPME pour l’exécution de son marché avant facturation. Avance facturation\nCette avance est destinée à financer les prestations livrées, ouvrant droit à paiement sur présentation d...",
+  "description_complete": "Avance pré-facturation\nIl s’agit de pré-financements conçus pour couvrir toutes dépenses engagées ou à engager par la TPME pour l’exécution de son marché avant facturation.\n\nAvance facturation\nCette avance est destinée à financer les prestations livrées, ouvrant droit à paiement sur présentation de factures, afin de couvrir les délais de règlement par le donneur d’ordre.",
+  "avantages": [
+    "Avance pré-facturation",
+    "Il s’agit de pré-financements conçus pour couvrir toutes dépenses engagées ou à engager par la TPME pour l’exécution de son marché avant facturation.",
+    "Avance facturation",
+    "Cette avance est destinée à financer les prestations livrées, ouvrant droit à paiement sur présentation de factures, afin de couvrir les délais de règlement par le donneur d’ordre."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "TPME adjudicataires de marchés privés"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "http://www.finea.ma/sites/default/files/2020-10/PSFE-FR14-V08-Formulaire Demande de Financement Nouvelle affaire et Renouvellement (1).pdf"
+  ],
+  "organisation": {
+    "nom": "FINEA",
+    "telephone": "05 20 30 35 30",
+    "site_web": "www.finea.ma/",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nhttp://www.finea.ma/sites/default/files/2020-10/PSFE-FR14-V08-Formulaire Demande de Financement Nouvelle affaire et Renouvellement (1).pdf",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "financement",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "financement",
+    "IS",
+    "IR"
+  ]
+}

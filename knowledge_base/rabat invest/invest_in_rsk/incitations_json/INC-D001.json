@@ -1,0 +1,75 @@
+{
+  "id": "INC-D001",
+  "nom": "FINEA-AVANCES SUR MARCHES PUBLICS",
+  "nom_court": "FINEA-AVANCES SUR MARCHES PUBLICS",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Avance pré-facturation\nCette avance peut atteindre 70% de la prévision de facturation accordée sur la base d’une demande de financement, en vue de renforcer la trésorerie de la TPME. L’objectif est de couvrir l’ensemble de ses dépenses engagées ou à engager pour l’exécution de son marché avant fa...",
+  "description_complete": "Avance pré-facturation\nCette avance peut atteindre 70% de la prévision de facturation accordée sur la base d’une demande de financement, en vue de renforcer la trésorerie de la TPME. L’objectif est de couvrir l’ensemble de ses dépenses engagées ou à engager pour l’exécution de son marché avant facturation.\n\nAvance facturation\nElle couvre le délai nécessaire pour l’obtention de l’attestation de droits constatés. L’avance mobilise 80% du montant des factures/décomptes, représentant les créances nées ouvrant droit à paiement et non encore reconnues par le donneur d’ordre.\n\nAvance droits constatés\nCette avance mobilise à 90% une créance née et reconnue par l’administration.",
+  "avantages": [
+    "Avance pré-facturation",
+    "Cette avance peut atteindre 70% de la prévision de facturation accordée sur la base d’une demande de financement, en vue de renforcer la trésorerie de la TPME. L’objectif est de couvrir l’ensemble de ses dépenses engagées ou à engager pour l’exécution de son marché avant facturation.",
+    "Avance facturation",
+    "Elle couvre le délai nécessaire pour l’obtention de l’attestation de droits constatés. L’avance mobilise 80% du montant des factures/décomptes, représentant les créances nées ouvrant droit à paiement et non encore reconnues par le donneur d’ordre.",
+    "Avance droits constatés",
+    "Cette avance mobilise à 90% une créance née et reconnue par l’administration."
+  ],
+  "montant_ou_taux": "70%; 80%; 90%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "TPME adjudicataires de marchés publics"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "http://www.finea.ma/sites/default/files/2020-10/PSFE-FR14-V08-Formulaire Demande de Financement Nouvelle affaire et Renouvellement (1).pdf"
+  ],
+  "organisation": {
+    "nom": "FINEA",
+    "telephone": "05 20 30 35 30",
+    "site_web": "www.finea.ma/",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nhttp://www.finea.ma/sites/default/files/2020-10/PSFE-FR14-V08-Formulaire Demande de Financement Nouvelle affaire et Renouvellement (1).pdf",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "financement",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "financement",
+    "IS",
+    "IR"
+  ]
+}

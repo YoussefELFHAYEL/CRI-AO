@@ -1,0 +1,80 @@
+{
+  "procedure": {
+    "titre": "Autorisation de cession de terrain du domaine privé de l'état y compris les terrains agricoles ou à vocation agricole et fixation de la valeur vénale",
+    "description": "Cette procédure permet statuer sur la cession d'un terrain relevant du domaine privé de l'Etat pour la réalisation d'un projet d'investissement. Elle se conclut par la fixation du prix de cession du terrain."
+  },
+  "delai_moyen_indicatif_realisation": [
+    {
+      "jours": 1,
+      "etape": "Dépôt du dossier"
+    },
+    {
+      "jours": 3,
+      "etape": "Retour sur la complétude du dossier"
+    },
+    {
+      "jours": 28,
+      "etape": "Avis de la CRUI"
+    },
+    {
+      "jours": 48,
+      "etape": "Obtention de l'arrêté de cession et du cahier des charges",
+      "note": "(+ délai de réponse au prix proposé)"
+    }
+  ],
+  "constitution_dossier": {
+    "titre": "Quelles pièces sont nécessaires à la constitution du dossier ?",
+    "pieces_requises": [
+      {
+        "document": "Certificat de propriété récent (moins de 3 mois) ou attestation justifiant la propriété du terrain ou contrat d'achat ou location du terrain ou compromis de vente",
+        "note": "Prix payé à la Conservation foncière : 100 MAD"
+      },
+      {
+        "document": "Demande adressée au Président de la CRUI, précisant les actes et autorisations demandées"
+      },
+      {
+        "document": "Engagement de l'investisseur à respecter la réalisation de son projet dans les délais convenus"
+      },
+      {
+        "document": "Note de renseignement",
+        "note": "Prix payé à l'Agence Urbaine : Variant de 200 à 600 MAD"
+      },
+      {
+        "document": "Plan cadastral",
+        "note": "Prix payé au Cadastre : variant de 60 MAD/tirage à 115 MAD/tirage"
+      },
+      {
+        "document": "Plan de situation"
+      },
+      {
+        "document": "Plaquette en fonction de la nature du projet"
+      },
+      {
+        "document": "Levé topographique"
+      }
+    ],
+    "remarque": "Pour la liste exacte des pièces, veuillez vous référer à votre espace investisseur personnel"
+  },
+  "referentiel_juridique": [
+    "1- Dahir n°1-19-18 du 13 février 2019 (7 joumada II 1440) portant promulgation de la loi 47-18 portant réforme des centres régionaux d'investissement et création des commissions régionales unifiées d'investissement (B.O. 6754 du 21 février 2019)",
+    "2- Décret Royal n°330-66 du 10 moharrem 1387 (21 avril 1967) portant Règlement Général de Comptabilité Publique",
+    "3- Dahir du 12 Juillet 1948 (5 Ramadan 1367) approuvant un nouveau cahier des charges et conditions générales, à imposer aux cessionnaires de lots domaniaux urbains",
+    "4- Circulaire n°193 du 02 octobre 1967 relative à la vente d'immeubles domaniaux",
+    "5- Lettre royale du 9 janvier 2002 adressée au Premier Ministre relative à la gestion déconcentrée de l'investissement (BO n° 4970 17 janvier 2002)",
+    "6- Décret n° 2-02-185 du 5 mars 2002 modifiant et complétant le décret royal n° 330-66 du 21 avril 1967 portant règlement général de comptabilité publique (B.O. n° 4984 du 7 mars 2002, pages 140 à 141)",
+    "7- Dahir n°1-04-255 du 16 kaada 1425(29 décembre 2004 portant promulgation de la loi de finances n°26.04 pour l'année budétaire 2005",
+    "8- Décret n°2.07.995 du 23 chaoual 1429 (23 Octobre 2008) relatif aux attributions et à l'organisation du Ministère de l'Economie et des Finances (Article 13)",
+    "9- Décret n°2-09-471 du 20 hija 1430 (8 décembre 2009) modifiant l'article 82 du décret royal n°330-66 du 10 moharrem 1387 (21 avril 1967) portant Règlement Général de Comptabilité Publique",
+    "10- Dahir n°1-11-179 du 25 hija 1432 (22 novembre 2011) portant promulgation de la loi n° 32-09 relative à l'organisation de la profession de notaire",
+    "11- Décret n° 2-13-424 du 13 rejeb 1434 (24 mai 2013) approuvant le règlement général de construction fixant la forme et les conditions de délivrance des autorisations et des pièces exigibles en application de la législation relative à l'urbanisme et aux lotissements, groupes d'habitations et morcellements ainsi que des textes pris pour leur application",
+    "12- Décret n°2-13-909 du 23 Rajeb 1435 (23 Mai 2014), modifiant et complétant le Décret Royal n°330-66 du 10 Moharram 1387 (21 Avril 1967), portant règlement de la comptabilité publique",
+    "13- Décret n°2-13-18 du 16 ramadan 1435 (14 juillet 2014) du relatif aux formalités de l'immatriculation foncière (article 27, 28 et 29)",
+    "14- Arrêté du Ministre de l'Economie, des Finances, de la Privatisation et du Tourisme n°2893-14 du 4 choual 1435 (1 août 2014) portant délégation de pouvoirs aux walis des régions pour la location des immeubles du Domaine Privé de l'Etat devant recevoir projets d'investissement",
+    "15- Décret n°2-16-375 du 13 Chaoual 1437 (18 juillet 2016) fixant le tarif des droits de conservation foncière",
+    "16- Dahir n° 1-18-104 du 20 décembre 2018 portant promulgation de la loi de finances n° 80.18 pour l'année budgétaire 2019"
+  ],
+  "demarrer_procedure": {
+    "titre": "Comment démarrer la procédure ?",
+    "instructions": "Vous pouvez lancer la procédure Autorisation de cession de terrain du domaine privé de l'état y compris les terrains agricoles ou à vocation agricole et fixation de la valeur vénale en créant un compte sur notre plateforme ou en vous adressant directement à nos conseillers."
+  }
+}

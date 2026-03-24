@@ -1,0 +1,71 @@
+{
+  "id": "INC-C013",
+  "nom": "INNOV IDEA",
+  "nom_court": "INNOV IDEA",
+  "axe": "",
+  "type_incitation": "autre",
+  "description_courte": "100.000 DH par porteur de projet\n200.000 DH en cas d’entreprise constituée par deux ou plusieurs associés",
+  "description_complete": "100.000 DH par porteur de projet\n200.000 DH en cas d’entreprise constituée par deux ou plusieurs associés",
+  "avantages": [
+    "100.000 DH par porteur de projet",
+    "200.000 DH en cas d’entreprise constituée par deux ou plusieurs associés"
+  ],
+  "montant_ou_taux": "100.000 DH; 200.000 DH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "porteur de projet"
+    ],
+    "secteurs": [
+      "technologie"
+    ],
+    "profils_speciaux": [
+      "Jeune entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Sont finançables par la subvention, les dépenses couvrant forfaitairement les divers frais liés au projet innovant et engagés par la cible éligible (frais liés à la souscription d’une assurance, frais de déplacements, frais de communication, d’abonnement à des bases de données…).",
+    "Sont également finançables toutes autres dépenses nécessaires à l’accompagnement de la cible éligible (frais de location, assistance, formation…) auprès d’une structure labellisée par la CCG."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05377-16868",
+    "www.tamwilcom.ma"
+  ],
+  "organisation": {
+    "nom": "TAMWILCOM",
+    "telephone": "05377-16868",
+    "site_web": "www.tamwilcom.ma",
+    "adresse": ""
+  },
+  "modalites": "A qui s'adresser ?\nAux structures labellisées par la CCG :\nStart Up Maroc / Zineb RHARRASE : +212 537 20 53 07 / N°07, Rue Jabal Toubkal, Apt 08, Etg 03, Agdal, Rabat\nRéseau entreprendre Rabat / Chaimae LEGDALI : +212 700 06 01 31 / clegdali@reseau-entreprendre.org / Bureau R103, 10 avenue Ghandi Technopark, Hassan - Rabat\nENACTUS / Majid  KAISSAR El GHAIB : +212 537 738 717 / melghaib@yahoo.fr  / N R701, Technopark -10.Rue Ghandi, Hassan Rabat – Maroc\nMoroccan CISE : Adnane ADDIOUI / a.addioui@mcise.org",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "IS"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "IS"
+  ]
+}

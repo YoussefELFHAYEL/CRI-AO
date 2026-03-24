@@ -1,0 +1,90 @@
+{
+  "id": "INC-B011",
+  "nom": "MOWAKABA\nDéveloppement de marchés/produits",
+  "nom_court": "MOWAKABA\nDéveloppement de marchés/produits",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%. Apport de Maroc PME\nPrise en charge le coût de la prestation de service à hauteur de\n80% pour les PME\n90% pour les TPE\n\nBesoins :\nDévelopper les marché...",
+  "description_complete": "Accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%.\n\nApport de Maroc PME\nPrise en charge le coût de la prestation de service à hauteur de\n80% pour les PME\n90% pour les TPE\n\nBesoins :\nDévelopper les marchés de l’entreprise localement\nCréer, développer et protéger les marques de l’entreprise\nDévelopper les ventes de l’entreprise\nFidéliser les clients de l’entreprise\nDévelopper les canaux de distribution de l’entreprise\nInternationaliser l'offre de l’entreprise\nAnalyser le potentiel de l’offre à l'export de l’entreprise\nRenforcer les capacités de l’entreprise pour son internationalisation\nDévelopper des relations avec les donneurs d'ordre\nDévelopper des partenariats de sourcing (nationaux et internationaux)\nDévelopper le parrainage ou l'essaimage par des donneurs d'ordre\nRépondre à une RFQ",
+  "avantages": [
+    "Accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%.",
+    "Apport de Maroc PME",
+    "Prise en charge le coût de la prestation de service à hauteur de",
+    "80% pour les PME",
+    "90% pour les TPE",
+    "Développer les marchés de l’entreprise localement",
+    "Créer, développer et protéger les marques de l’entreprise",
+    "Développer les ventes de l’entreprise",
+    "Fidéliser les clients de l’entreprise",
+    "Développer les canaux de distribution de l’entreprise",
+    "Internationaliser l'offre de l’entreprise",
+    "Analyser le potentiel de l’offre à l'export de l’entreprise",
+    "Renforcer les capacités de l’entreprise pour son internationalisation",
+    "Développer des relations avec les donneurs d'ordre",
+    "Développer des partenariats de sourcing (nationaux et internationaux)"
+  ],
+  "montant_ou_taux": "90%; 80%; 90%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "très petite",
+      "petite ou moyenne",
+      "moyenne entreprise"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Entreprises existantes ou en amorçage",
+    "chiffre d’affaires annuel est inférieur ou égal à 200 MDH",
+    "secteur industriel ou une activité liée à l’industrie"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 57 44\u000bwww.marocpme.gov.ma"
+  ],
+  "organisation": {
+    "nom": "MAROC PME",
+    "telephone": "05 37 57 44",
+    "site_web": "www.marocpme.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "export",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "export",
+    "IS",
+    "IR"
+  ]
+}

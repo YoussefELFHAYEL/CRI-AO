@@ -1,0 +1,83 @@
+{
+  "id": "INC-C001",
+  "nom": "LIGNE FRANCAISE",
+  "nom_court": "LIGNE FRANCAISE",
+  "axe": "",
+  "type_incitation": "subvention",
+  "description_courte": "Cofinancement avec les banques des projets portant sur l’achat de biens et services français ainsi que des prestations d’étude et de formation en faveur des entreprises marocaines. Taux d’intérêt : 2% par an hors TVA en dirhams pour la part de la ligne française",
+  "description_complete": "Cofinancement avec les banques des projets portant sur l’achat de biens et services français ainsi que des prestations d’étude et de formation en faveur des entreprises marocaines.\n\nTaux d’intérêt : 2% par an hors TVA en dirhams pour la part de la ligne française. Le taux du crédit bancaire est librement négociable\nDurée : 12 ans maximum dont 5 ans maximum de franchise en principal\nSuretés : Pari-passu entre la CCG et la Banque.",
+  "avantages": [
+    "Cofinancement avec les banques des projets portant sur l’achat de biens et services français ainsi que des prestations d’étude et de formation en faveur des entreprises marocaines.",
+    "Taux d’intérêt : 2% par an hors TVA en dirhams pour la part de la ligne française. Le taux du crédit bancaire est librement négociable",
+    "Durée : 12 ans maximum dont 5 ans maximum de franchise en principal",
+    "Suretés : Pari-passu entre la CCG et la Banque."
+  ],
+  "montant_ou_taux": "2%",
+  "duree": "12 ans",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Programmes finançables:",
+    "L'acquisition auprès de fournisseur(s) français de biens et services d'origine française. Le contrat avec le(s) fournisseur(s) français peut inclure des biens et services d'origine marocaine et/ou étrangère dans une limite de 30% des concours mis en place ;",
+    "Les prestations d’étude et de formation liées à l’activité de l’entreprise bénéficiaire et réalisées par des entreprises françaises ou filiales marocaines d’entreprises françaises. Ces prestations sont financées par don."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05377-16868",
+    "www.tamwilcom.ma"
+  ],
+  "organisation": {
+    "nom": "TAMWILCOM",
+    "telephone": "05377-16868",
+    "site_web": "www.tamwilcom.ma",
+    "adresse": ""
+  },
+  "modalites": "Ligne française :\nEntre 100.000 € et 2 M€ sans excéder 60% du financement externe total, hors don ;\nEntre 100.000€ et 3 M€  sans excéder 75% du financement externe total hors don pour les projets relevant des secteurs agricole et agroalimentaire ou visant à développer les exportations vers l’Afrique.\nCrédit bancaire :\n​​Minimum 40% du financement externe total hors Don;\nMinimum 25% du financement externe total hors Don pour les projets relevant des secteurs agricole et agroalimentaire ou visant à développer les exportations vers l’Afrique.\n​Fonds propres : reliquat du financement du projet.\nDon : 19% au maximum du montant du prêt « ligne française » pour financer des prestations d’étude et de formation le cas échéant.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "crédit",
+    "financement",
+    "formation",
+    "TVA",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "crédit",
+    "financement",
+    "formation",
+    "TVA",
+    "IS",
+    "IR"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "INC-H021",
+  "nom": "Programme des contrats de croissance à l’export",
+  "nom_court": "Programme des contrats de croissance à l’export",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Ce programme consiste à accompagner les entreprises marocaines exportatrices, ou celles s’engageant à le devenir, dans la mise en œuvre de leurs projets de croissance à l’export. Il s’agit de contrats de croissance Etat-Entreprise d’une durée de 3 ans et consiste à prendre en charge certaines act...",
+  "description_complete": "Ce programme consiste à accompagner les entreprises marocaines exportatrices, ou celles s’engageant à le devenir, dans la mise en œuvre de leurs projets de croissance à l’export. Il s’agit de contrats de croissance Etat-Entreprise d’une durée de 3 ans et consiste à prendre en charge certaines actions de marketing et de commercialisation à destination des marchés étrangers pour le développement à l’export des entreprises bénéficiaires, selon des modalités de financement et des critères d’éligibilité du programme.\nCe programme a pour objectifs de :\n► Générer des exportations additionnelles ;\n► Permettre aux entreprises exportatrices d’accéder à certains moyens nécessaires au développement de leurs produits sur les marchés cibles ;\n► Renforcer le positionnement des entreprises exportatrices sur les marchés cibles ;\n► Convertir des entreprises exportatrices occasionnelles en entreprises exportatrices professionnelles et régulières.\nL’appui de l’Etat consiste à financer les frais de réalisation et de mise en œuvre du plan d’actions marketing ou commercial visant à développer les exportations de l’entreprise bénéficiaire dans ses marchés cibles, à l’exception des salaires du personnel de l’entreprise anciennement ou nouvellement recruté et des investissements matériels (immobilisations matérielles: locaux, machines, …). Cet appui n’est pas cumulable avec tout autre appui, de même nature, alloué par un organisme public.\nLe montant annuel de l’appui accordé par l’Etat est plafonné à 5 millions de DH.\nCette subvention augmente en fonction du chiffre d’affaires réalisé à l’export dans la limite de 5 MDH:\nPour un CAE≤3% : la part de la contribution est de 0%, pour 3%20% : la part est de 90%.",
+  "avantages": [
+    "Ce programme consiste à accompagner les entreprises marocaines exportatrices, ou celles s’engageant à le devenir, dans la mise en œuvre de leurs projets de croissance à l’export. Il s’agit de contrats de croissance Etat-Entreprise d’une durée de 3 ans et consiste à prendre en charge certaines actions de marketing et de commercialisation à destination des marchés étrangers pour le développement à l’export des entreprises bénéficiaires, selon des modalités de financement et des critères d’éligibilité du programme.",
+    "Ce programme a pour objectifs de :",
+    "► Générer des exportations additionnelles ;",
+    "► Permettre aux entreprises exportatrices d’accéder à certains moyens nécessaires au développement de leurs produits sur les marchés cibles ;",
+    "► Renforcer le positionnement des entreprises exportatrices sur les marchés cibles ;",
+    "► Convertir des entreprises exportatrices occasionnelles en entreprises exportatrices professionnelles et régulières.",
+    "L’appui de l’Etat consiste à financer les frais de réalisation et de mise en œuvre du plan d’actions marketing ou commercial visant à développer les exportations de l’entreprise bénéficiaire dans ses marchés cibles, à l’exception des salaires du personnel de l’entreprise anciennement ou nouvellement recruté et des investissements matériels (immobilisations matérielles: locaux, machines, …). Cet appui n’est pas cumulable avec tout autre appui, de même nature, alloué par un organisme public.",
+    "Le montant annuel de l’appui accordé par l’Etat est plafonné à 5 millions de DH.",
+    "Cette subvention augmente en fonction du chiffre d’affaires réalisé à l’export dans la limite de 5 MDH:",
+    "Pour un CAE≤3% : la part de la contribution est de 0%, pour 3%20% : la part est de 90%."
+  ],
+  "montant_ou_taux": "3%; 0%; 3%; 5 MDH",
+  "duree": "3 ans",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Tous les secteurs"
+    ],
+    "profils_speciaux": [
+      "Exportateur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Les entreprises doivent être de droit marocain et posséder au moins deux années d’activité au moment du dépôt de la demande",
+    "Les entreprises, personnes morales uniquement, soumissionnant à titre individuel, ou dans le cadre d’un consortium ou d’un groupement d’entreprises.",
+    "Les soumissionnaires doivent avoir un chiffre d’affaires moyen à l’export supérieur à 5 millions de dirhams et inférieur ou égal à 500 millions de dirhams sur les trois dernières années",
+    "Les entreprises inscrites au registre de commerce et ayant une situation régulière vis-à-vis du de l’administration fiscale et de la CNSS",
+    "Disposer d’un projet de croissance à l’export",
+    "Les coopératives disposant d’un agrément, ayant une situation régulière vis-à-vis de l’administration fiscale et de la CNSS et étant en activité depuis au moins deux années au moment du dépôt de la demande",
+    "Tous les secteurs d’activités sont éligibles au programme. Les entreprises membres des écosystèmes industriels retenus dans le cadre du plan d’accélération industrielle bénéficient d’un accès prioritaire au programme. Ces entreprises sont exemptées du dépôt de dossier administratif."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : +212 5 37 70 18 46",
+    "www.mce.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Secrétariat d’Etat chargé du Commerce Extérieur",
+    "telephone": "+212 5 37 70 18 46",
+    "site_web": "www.mce.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "subvention",
+    "financement",
+    "export",
+    "investissement",
+    "vert",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "services",
+    "agriculture",
+    "tech",
+    "btp",
+    "commerce"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "subvention",
+    "financement",
+    "export",
+    "investissement",
+    "vert",
+    "IS",
+    "IR"
+  ]
+}

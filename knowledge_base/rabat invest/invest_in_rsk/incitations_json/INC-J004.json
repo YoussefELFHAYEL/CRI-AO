@@ -1,0 +1,87 @@
+{
+  "id": "INC-J004",
+  "nom": "PROGRAMME INCITATIF A L’EMPLOI « TAHFIZ »",
+  "nom_court": "PROGRAMME INCITATIF A L’EMPLOI « TAHFIZ »",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "• Prise en charge par l’Etat de la cotisation due par l’employeur à la CNSS :\n– La prise en charge par l’Etat pour une durée de 24 mois de la part patronale au titre de la cotisation due à la CNSS et de la taxe de formation professionnelle. – L’entreprise ou l’association est libre de choisir les...",
+  "description_complete": "• Prise en charge par l’Etat de la cotisation due par l’employeur à la CNSS :\n– La prise en charge par l’Etat pour une durée de 24 mois de la part patronale au titre de la cotisation due à la CNSS et de la taxe de formation professionnelle.\n– L’entreprise ou l’association est libre de choisir les 10 salariés pouvant bénéficier en même temps des deux avantages précités.\n• Exonération de l’impôt sur le revenu (IR) :\n– L’exonération de l’IR du salaire mensuel brut plafonné à dix mille dirhams (10.000,00DH) pour une durée de vingt-quatre (24) mois à compter de la date de recrutement du salarié.",
+  "avantages": [
+    "Prise en charge par l’Etat de la cotisation due par l’employeur à la CNSS :",
+    "– La prise en charge par l’Etat pour une durée de 24 mois de la part patronale au titre de la cotisation due à la CNSS et de la taxe de formation professionnelle.",
+    "– L’entreprise ou l’association est libre de choisir les 10 salariés pouvant bénéficier en même temps des deux avantages précités.",
+    "Exonération de l’impôt sur le revenu (IR) :",
+    "– L’exonération de l’IR du salaire mensuel brut plafonné à dix mille dirhams (10.000,00DH) pour une durée de vingt-quatre (24) mois à compter de la date de recrutement du salarié."
+  ],
+  "montant_ou_taux": "00DH",
+  "duree": "24 mois",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Coopérative"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Le salaire doit être versé par l’entreprise ou l’association ou la coopérative créée durant la période allant du 1er janvier 2015 au 31 décembre 2022.",
+    "Le salarié doit être recruté dans le cadre d’un contrat de travail à durée indéterminée",
+    "Les recrutements doivent être effectués dans les deux premières années, à compter de la date du début d’exploitation de l’entreprise ou de l’association ou de la coopérative.",
+    "Le recrutement du demandeur d’emploi doit avoir lieu durant les cinq premières années à compter de la date de création de l’entreprise ou de l’association ou la coopérative.",
+    "Le salaire versé par l’entreprise ne doit pas dépasser dix mille dirhams bruts (10.000,00 DH).",
+    "L’entreprise ou l’association ou la coopérative bénéficie de la prise en charge précitée dans la limite de (10) salariés."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "www.anapec.org/"
+  ],
+  "organisation": {
+    "nom": "Agence Régionale de l’ANAPEC – Rabat",
+    "telephone": "05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "site_web": "www.anapec.org/",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "formation",
+    "emploi",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "formation",
+    "emploi",
+    "IS",
+    "IR"
+  ]
+}

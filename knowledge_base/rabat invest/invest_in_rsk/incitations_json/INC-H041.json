@@ -1,0 +1,104 @@
+{
+  "id": "INC-H041",
+  "nom": "CONTRIBUTION SOCIALE DE SOLIDARITE\nSUR LES LIVRAISONS A SOI-MEME DE\nCONSTRUCTION D’HABITATION PRINCIPALE",
+  "nom_court": "CONTRIBUTION SOCIALE DE SOLIDARITE\nSUR LES LIVRAISONS A S...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Si vous vous livrez une unité de logement à usage d’habitation principale dont la superficie construite n’excède pas 300 m2, vous serez\nexonérés de la contribution sociale de solidarité sur les livraisons à soi-même de construction d’habitation principale. Toutefois, si la superficie construite e...",
+  "description_complete": "Si vous vous livrez une unité de logement à usage d’habitation principale dont la superficie construite n’excède pas 300 m2, vous serez\nexonérés de la contribution sociale de solidarité sur les livraisons à soi-même de construction d’habitation principale.\nToutefois, si la superficie construite est supérieur à 300 m2, vous êtes passible de cette contribution sur la totalité de la superficie couverte.\nBarème\nLe montant de la contribution sociale de solidarité sur les livraisons à soi-même de construction d’habitation personnelle est déterminé selon\nun barème proportionnel fixé, par unité de logement, comme suit:\n\nSuperficie couverte en m2 Tarif en DH\n0 - 300 exonéré\n301 - 400 60\n401 – 500 100\nAu-delà de 500 150\n\nVos obligations pour les constructions excédant la superficie couverte de 300 m2\n\nDéclaration annuelle du coût de construction\nVous devez déposer d’une manière électronique, une déclaration annuelle du coût de construction avant la fin du mois de février de chaque année, à partir de la date de début des travaux jusqu’à la date de l’obtention du permis d’habiter.\nCette déclaration doit être accompagnée d’un état détaillé contenant les informations suivantes:\n\n• la référence de la facture ou les états comptables lorsque la construction est édifiée dans le cadre d’un marché clé en main ;\n• le nom et prénom si le fournisseur est une personne physique, et sa raison sociale s’il estune personne morale ;\n• l’identifiant fiscal ;\n• l’identifiant commun de l’entreprise ;\n• la désignation des marchandises, travaux et services ;\n• le montant hors taxe sur la valeur ajoutée ;\n• le montant de la taxe mentionné dans la facture ;\n• le mode et les références de paiement\n\nDéclaration de la contribution sociale de solidarité\nVous devez déposer, en même temps que le versement, auprès du receveur de l’administration fiscale du lieu de construction de l’habitation objet de la contribution, votre déclaration\nétablie d’après un imprimé modèle3 , précisant la superficie couverte, ainsi que le montant de la contribution y afférente, accompagnée du permis d’habiter et de l’autorisation de construire. Cette déclaration doit être déposée dans le délai de 90 jours suivant la date de délivrance du permis d’habiter par l’autorité compétente.",
+  "avantages": [
+    "Si vous vous livrez une unité de logement à usage d’habitation principale dont la superficie construite n’excède pas 300 m2, vous serez",
+    "exonérés de la contribution sociale de solidarité sur les livraisons à soi-même de construction d’habitation principale.",
+    "Toutefois, si la superficie construite est supérieur à 300 m2, vous êtes passible de cette contribution sur la totalité de la superficie couverte.",
+    "Le montant de la contribution sociale de solidarité sur les livraisons à soi-même de construction d’habitation personnelle est déterminé selon",
+    "un barème proportionnel fixé, par unité de logement, comme suit:",
+    "Superficie couverte en m2 Tarif en DH",
+    "0 - 300 exonéré",
+    "301 - 400 60",
+    "401 – 500 100",
+    "Au-delà de 500 150",
+    "Vos obligations pour les constructions excédant la superficie couverte de 300 m2",
+    "Déclaration annuelle du coût de construction",
+    "Vous devez déposer d’une manière électronique, une déclaration annuelle du coût de construction avant la fin du mois de février de chaque année, à partir de la date de début des travaux jusqu’à la date de l’obtention du permis d’habiter.",
+    "Cette déclaration doit être accompagnée d’un état détaillé contenant les informations suivantes:",
+    "la référence de la facture ou les états comptables lorsque la construction est édifiée dans le cadre d’un marché clé en main ;"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "MRE"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre",
+    "Déclaration annuelle du coût de construction",
+    "La déclaration déposée au titre de la première année des travaux doit être accompagnée",
+    "d’une attestation délivrée par un architecte spécialisé contenant le coût estimé des travaux,",
+    "ou d’une copie du contrat du marché lorsque la construction est édifiée dans le cadre d’un marché clé en main.",
+    "Les déclarations annuelles du coût de construction déposées au titre des années",
+    "suivant la première année des travaux, doivent, en outre, reporter le cumul du coût des travaux.",
+    "La dernière déclaration au titre de l’année de l’obtention du permis d’habiter doit faire ressortir le coût global de la construction.",
+    "La déclaration du coût est obligatoire pour les opérations de constructions d’habitation personnelle dont l’autorisation de construire est délivrée à partir du 1er janvier 2019.",
+    "Déclaration de la contribution sociale de solidarité",
+    "Les logements construits occasionnellement, dont la superficie couverte n’excède pas",
+    "300 m2 et destinés à la vente ou à la location ne sont pas passibles de la contribution sociale de solidarité sur les livraisons à soi-même de construction."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Déclaration annuelle du coût de construction\n\\*La déclaration déposée au titre de la première année des travaux doit être accompagnée\nd’une attestation délivrée par un architecte spécialisé contenant le coût estimé des travaux,\nou d’une copie du contrat du marché lorsque la construction est édifiée dans le cadre d’un marché clé en main.\n\\*Les déclarations annuelles du coût de construction déposées au titre des années\nsuivant la première année des travaux, doivent, en outre, reporter le cumul du coût des travaux.\n\\\\* La dernière déclaration au titre de l’année de l’obtention du permis d’habiter doit faire ressortir le coût global de la construction.\n\\*La déclaration du coût est obligatoire pour les opérations de constructions d’habitation personnelle dont l’autorisation de construire est délivrée à partir du 1er janvier 2019.\n\nDéclaration de la contribution sociale de solidarité\n\\\\* Les logements construits occasionnellement, dont la superficie couverte n’excède pas\n300 m2 et destinés à la vente ou à la location ne sont pas passibles de la contribution sociale de solidarité sur les livraisons à soi-même de construction.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "vert",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "btp",
+    "tech",
+    "industrie",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "vert",
+    "IS",
+    "IR"
+  ]
+}

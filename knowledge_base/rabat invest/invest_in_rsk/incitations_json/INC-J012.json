@@ -1,0 +1,101 @@
+{
+  "id": "INC-J012",
+  "nom": "Centres Techniques Industriels – Centre Technique et Matériaux de Construction (CETEMCO)",
+  "nom_court": "Centres Techniques Industriels – Centre Technique et Maté...",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Missions du CETEMCO :\nLe CETEMCO offre pour le secteur de la construction, un outil d’assistance technique, de collaboration et de recherche technologique grâce à des moyens collectifs d’expérimentation, de documentation et d’amélioration des techniques. Le CETEMCO a une double mission :\nMission ...",
+  "description_complete": "Missions du CETEMCO :\nLe CETEMCO offre pour le secteur de la construction, un outil d’assistance technique, de collaboration et de recherche technologique grâce à des moyens collectifs d’expérimentation, de documentation et d’amélioration des techniques. Le CETEMCO a une double mission :\nMission auprès des industriels: Contribuer au progrès technique, à l’amélioration de la productivité et au développement de la qualité\nMission auprès des entreprises: contribuer au rehaussement du niveau de qualité d'hygiène et de sécurité du cadre bâti.\n\nLes services offerts par le CETEMCO comprennent :\nEssais de laboratoire\nEtalonnage\nAnalyses environnementales\nAudit énergétique\nSuivi de chantier de construction : études géotechniques, étude de sols et des fondations, formulation du béton, suivi de la qualité du béton\nAccompagnement dans la démarche qualité, produit (NM) et système de management ISO 9001\nAccompagnement dans les démarches de système de management environnemental ISO 14000, santé et sécurité au travail\nDiagnostic technologique\nFormation continue\nElaboration de guides et manuels techniques",
+  "avantages": [
+    "Missions du CETEMCO :",
+    "Le CETEMCO offre pour le secteur de la construction, un outil d’assistance technique, de collaboration et de recherche technologique grâce à des moyens collectifs d’expérimentation, de documentation et d’amélioration des techniques. Le CETEMCO a une double mission :",
+    "Mission auprès des industriels: Contribuer au progrès technique, à l’amélioration de la productivité et au développement de la qualité",
+    "Mission auprès des entreprises: contribuer au rehaussement du niveau de qualité d'hygiène et de sécurité du cadre bâti.",
+    "Les services offerts par le CETEMCO comprennent :",
+    "Essais de laboratoire",
+    "Analyses environnementales",
+    "Audit énergétique",
+    "Suivi de chantier de construction : études géotechniques, étude de sols et des fondations, formulation du béton, suivi de la qualité du béton",
+    "Accompagnement dans la démarche qualité, produit (NM) et système de management ISO 9001",
+    "Accompagnement dans les démarches de système de management environnemental ISO 14000, santé et sécurité au travail",
+    "Diagnostic technologique",
+    "Formation continue",
+    "Elaboration de guides et manuels techniques"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "construction"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Les actions du CETEMCO couvrent les branches industrielles suivantes :",
+    "Béton prêt à l’emploi,",
+    "Rond à béton,",
+    "Produits industriels en béton,",
+    "Sable et granulats,",
+    "Céramique (carreaux, sanitaire, vaisselle),",
+    "Briques et tuiles en terre cuite,",
+    "Pierre naturelle",
+    "Feuilles d’étanchéité",
+    "Sacs à ciment en papier",
+    "Verre de construction"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05 22 32 10 78 / 05 22 33 58 94",
+    "www.cetemco.ma"
+  ],
+  "organisation": {
+    "nom": "CETEMCO",
+    "telephone": "05 22 32 10 78 / 05 22 33 58 94",
+    "site_web": "www.cetemco.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "IS",
+    "IR",
+    "industrie",
+    "environnement"
+  ],
+  "secteurs_map": [
+    "btp",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "IS",
+    "IR",
+    "industrie",
+    "environnement"
+  ]
+}

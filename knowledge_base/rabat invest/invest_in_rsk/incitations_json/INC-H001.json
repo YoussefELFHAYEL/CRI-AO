@@ -1,0 +1,95 @@
+{
+  "id": "INC-H001",
+  "nom": "EXONERATIONS DE LA TVA ET DU DROIT D'IMPORTATION",
+  "nom_court": "EXONERATIONS DE LA TVA ET DU DROIT D'IMPORTATION",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Exonération du droit d’importation :\n\nExonération du droit d'importation applicable aux biens d'équipement, matériels et outillages nécessaires à la réalisation de leur projet et importés directement par ces entreprises ou pour leur compte pendant une durée de 36 mois +24 mois à compter de la dat...",
+  "description_complete": "Exonération du droit d’importation :\n\nExonération du droit d'importation applicable aux biens d'équipement, matériels et outillages nécessaires à la réalisation de leur projet et importés directement par ces entreprises ou pour leur compte pendant une durée de 36 mois +24 mois à compter de la date de la première opération d’importation effectuée dans le cadre de la convention d’investissement en cours de validité. Cette exonération est également accordée aux parties, pièces détachées et accessoires importés en même temps que les biens d'équipements, matériels et outillages auxquels ils sont destinés.\n\nExonération de la TVA:\n\nArticle 92 (-I- 6°) du Code Général des Impots (CGI):  Exonération de la TVA sur les biens d’investissement nécessaires à la réalisation de projets d’investissement à inscrire dans un compte d’immobilisation et ouvrant droit à la déduction, prévus aux articles 101 et 102 du CGI, et acquis par la société pendant une durée de 36 mois soit à compter de la date de signature de la convention d’investissement, soit à compter de celle de la délivrance de l’autorisation de construire pour les entreprises qui procèdent aux constructions liées à leurs projets.\n\nArticle 123 -22°-b) du CGI:  Exonération de la TVA à l’importation sur les biens d’équipement, matériels et outillages nécessaires à la réalisation des projets d’investissement et acquis par les assujettis pendant une durée de trente six (36) mois à compter de la date de la première opération d’importation effectuée dans le cadre de ladite convention, avec possibilité de proroger ce délai de vingt-quatre (24) mois. Cette exonération est accordée également aux parties, pièces détachées et accessoires importés en même temps que les équipements précités",
+  "avantages": [
+    "Exonération du droit d’importation :",
+    "Exonération du droit d'importation applicable aux biens d'équipement, matériels et outillages nécessaires à la réalisation de leur projet et importés directement par ces entreprises ou pour leur compte pendant une durée de 36 mois +24 mois à compter de la date de la première opération d’importation effectuée dans le cadre de la convention d’investissement en cours de validité. Cette exonération est également accordée aux parties, pièces détachées et accessoires importés en même temps que les biens d'équipements, matériels et outillages auxquels ils sont destinés.",
+    "Exonération de la TVA:",
+    "Article 92 (-I- 6°) du Code Général des Impots (CGI):  Exonération de la TVA sur les biens d’investissement nécessaires à la réalisation de projets d’investissement à inscrire dans un compte d’immobilisation et ouvrant droit à la déduction, prévus aux articles 101 et 102 du CGI, et acquis par la société pendant une durée de 36 mois soit à compter de la date de signature de la convention d’investissement, soit à compter de celle de la délivrance de l’autorisation de construire pour les entreprises qui procèdent aux constructions liées à leurs projets.",
+    "Article 123 -22°-b) du CGI:  Exonération de la TVA à l’importation sur les biens d’équipement, matériels et outillages nécessaires à la réalisation des projets d’investissement et acquis par les assujettis pendant une durée de trente six (36) mois à compter de la date de la première opération d’importation effectuée dans le cadre de ladite convention, avec possibilité de proroger ce délai de vingt-quatre (24) mois. Cette exonération est accordée également aux parties, pièces détachées et accessoires importés en même temps que les équipements précités"
+  ],
+  "montant_ou_taux": "",
+  "duree": "36 mois",
+  "cible": {
+    "tailles": [
+      "PME",
+      "sociétés",
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Exonérations douanières Programme d’investissement égal ou supérieur à 50 Millions MAD",
+    "Signature avec l’Etat d’une convention d’investissement approuvée par la Commission des Investissements",
+    "Exonérations fiscales: Montant d’investissement hors taxes égal ou supérieur à 50 MDH affecté à la réalisation d’opérations soumises à la TVA et ouvrant droit à déduction sous réserve de l'approbation de la Commission des Investissements"
+  ],
+  "conditions": {
+    "investissement_min": 50000000,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Demande adressée au Président de la CRUI de conclusion d’une convention d’investissement",
+    "Délégation de pouvoirs dans le cas où le demandeur n’est pas le représentant légal",
+    "Statuts de la personne morale OU PV de l’AGO / AGE",
+    "Modèle J du RC et attestation Identifiant fiscal",
+    "Attestation de régularité fiscale de la DGI",
+    "Attestation de régularité CNSS pour les sociétés existantes en activité",
+    "\\. Un rapport sur le projet d’investissement (incluant Business Plan détaillé sur 5 ans) élaboré",
+    "selon le canevas retenu",
+    "\\. Contrat ou lettre de l’accord de financement et/ou attestation de capacité financière de",
+    "fonds propres dédiés au projet d’investissement",
+    "\\. Foncier privé",
+    "Privé : compromis de vente OU contrat d’achat et le certificat de propriété si disponible",
+    "Privé locatif : contrat de bail récent",
+    "\\. Foncier public : accord de principe et Plan de situation rattaché aux coordonnées Lambert"
+  ],
+  "organisation": {
+    "nom": "Centre Régional d'Investissement - Région Rabat-Salé-Kénitra",
+    "telephone": "",
+    "site_web": "www.rabatinvest.ma",
+    "adresse": ""
+  },
+  "modalites": "Signature d'une convention ou d'un contrat d'investissement avec le Gouvernemet après approbation par la Commission des Investissements",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "investissement",
+    "TVA",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "btp"
+  ],
+  "tailles_map": [
+    "ge",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "investissement",
+    "TVA",
+    "IS",
+    "IR"
+  ]
+}

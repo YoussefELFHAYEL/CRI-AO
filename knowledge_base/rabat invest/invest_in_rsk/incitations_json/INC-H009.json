@@ -1,0 +1,79 @@
+{
+  "id": "INC-H009",
+  "nom": "Régime de change",
+  "nom_court": "Régime de change",
+  "axe": "",
+  "type_incitation": "garantie",
+  "description_courte": "• Garantie de transfert, sans limitation dans le montant ou dans le temps et après paiement des impôts et taxes en vigueur au Maroc, des revenus produits par leurs investissements au Maroc, tels :\n\\- Les dividendes ou parts de bénéfices distribués par les sociétés marocaines ;\n\\- Les jetons de pr...",
+  "description_complete": "• Garantie de transfert, sans limitation dans le montant ou dans le temps et après paiement des impôts et taxes en vigueur au Maroc, des revenus produits par leurs investissements au Maroc, tels :\n\\- Les dividendes ou parts de bénéfices distribués par les sociétés marocaines ;\n\\- Les jetons de présence et tantièmes ;\n\\- Les bénéfices réalisés par les succursales au Maroc de sociétés étrangères ;\n\\- Les revenus locatifs ;\n\\- Les intérêts produits par les prêts contractés conformément à la réglementation des\nchanges en vigueur.\n• Garantie de transfert du produit de cession ou de liquidation des investissements y compris\nles plus-values.",
+  "avantages": [
+    "Garantie de transfert, sans limitation dans le montant ou dans le temps et après paiement des impôts et taxes en vigueur au Maroc, des revenus produits par leurs investissements au Maroc, tels :",
+    "Les dividendes ou parts de bénéfices distribués par les sociétés marocaines ;",
+    "Les jetons de présence et tantièmes ;",
+    "Les bénéfices réalisés par les succursales au Maroc de sociétés étrangères ;",
+    "Les revenus locatifs ;",
+    "Les intérêts produits par les prêts contractés conformément à la réglementation des",
+    "changes en vigueur.",
+    "Garantie de transfert du produit de cession ou de liquidation des investissements y compris",
+    "les plus-values."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME",
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Prendre contact avec un Expert Comptable."
+  ],
+  "organisation": {
+    "nom": "Office des changes",
+    "telephone": "05372-66363",
+    "site_web": "www.oc.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nPrendre contact avec un Expert Comptable.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "garantie",
+    "investissement",
+    "IS"
+  ],
+  "secteurs_map": [
+    "tech",
+    "commerce"
+  ],
+  "tailles_map": [
+    "ge",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "garantie",
+    "investissement",
+    "IS"
+  ]
+}

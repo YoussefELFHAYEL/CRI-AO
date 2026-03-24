@@ -1,0 +1,91 @@
+{
+  "id": "INC-J014",
+  "nom": "Centres Techniques Industriels – Centre Technique des Industries Agroalimentaires (CETIA)",
+  "nom_court": "Centres Techniques Industriels – Centre Technique des Ind...",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Missions du CETIA :\nAider les entreprises du secteur agroalimentaire à améliorer leur compétitivité ;\nAssister les entreprises dans leur mise ‡ niveau et le développement de nouveaux produits. Formations :\nTechnologies alimentaires « travaux pratiques », qualité et hygiène en agroalimentaire",
+  "description_complete": "Missions du CETIA :\nAider les entreprises du secteur agroalimentaire à améliorer leur compétitivité ;\nAssister les entreprises dans leur mise ‡ niveau et le développement de nouveaux produits.\nFormations :\nTechnologies alimentaires « travaux pratiques », qualité et hygiène en agroalimentaire.\nSéminaires :\nTraitements thermiques, froid industriel, veille réglementaire et normative en IAA, etc.\nDéveloppement de nouveaux produits :\nProduits de la conserve et semi conserve : plats cuisinés surgelés, en conserve, sauces surgelées ou en conserve, etc. ;\nProduits laitiers et dérivés : yaourts, fromages, etc. ;\nProduits de deuxième transformation de céréales.\nAnalyse :\nPhysicochimiques, microbiologiques et sensorielles\n\nLes services offerts par le CETIA comprennent :\nInformation et veille réglementaire et normative ;\nEtudes de faisabilité de la productivité, de marchés ;\nDiagnostics stratégiques, techniques, qualité et hygiène;\nFormation et ingénierie de formation ;\nAssistance à la mise en place de système qualité selon divers référentiels (HACCP, ISO, IFS, TPM, PLAQ, …)\nElaboration de cahiers des charges (normes, labels, …)\nAnalyses Physicochimiques, Microbiologiques, Sensorielles,\nConception et développement de produits nouveaux ;\nOptimisation des procédés.",
+  "avantages": [
+    "Missions du CETIA :",
+    "Aider les entreprises du secteur agroalimentaire à améliorer leur compétitivité ;",
+    "Assister les entreprises dans leur mise ‡ niveau et le développement de nouveaux produits.",
+    "Formations :",
+    "Technologies alimentaires « travaux pratiques », qualité et hygiène en agroalimentaire.",
+    "Séminaires :",
+    "Traitements thermiques, froid industriel, veille réglementaire et normative en IAA, etc.",
+    "Développement de nouveaux produits :",
+    "Produits de la conserve et semi conserve : plats cuisinés surgelés, en conserve, sauces surgelées ou en conserve, etc. ;",
+    "Produits laitiers et dérivés : yaourts, fromages, etc. ;",
+    "Produits de deuxième transformation de céréales.",
+    "Physicochimiques, microbiologiques et sensorielles",
+    "Les services offerts par le CETIA comprennent :",
+    "Information et veille réglementaire et normative ;",
+    "Etudes de faisabilité de la productivité, de marchés ;"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Essais de laboratoire",
+    "Assistance technique"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "www.cetia.ma"
+  ],
+  "organisation": {
+    "nom": "CETIA",
+    "telephone": "",
+    "site_web": "www.cetia.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "agriculture",
+    "industrie",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

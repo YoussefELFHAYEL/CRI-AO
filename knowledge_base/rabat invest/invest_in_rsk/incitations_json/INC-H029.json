@@ -1,0 +1,83 @@
+{
+  "id": "INC-H029",
+  "nom": "Droits de douane",
+  "nom_court": "Droits de douane",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "• Exonération illimitée de droits de douanes. • Procédures douanières simplifiées.",
+  "description_complete": "• Exonération illimitée de droits de douanes.\n• Procédures douanières simplifiées.",
+  "avantages": [
+    "Exonération illimitée de droits de douanes.",
+    "Procédures douanières simplifiées."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Exportateur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Au moins 70% du chiffre d’affaires doit être réalisé à l’export."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": 70,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Demande de conclusion d’une convention d’investissement (voir canevas)",
+    "Présentation de la société avec chiffres précisant les activités, les références, les actionnaires, organigramme et Délégation de pouvoirs\\* au cas où le demandeur n’est pas le représentant légal",
+    "Descriptif du projet (présentation du projet avec photos aériennes ou satellites du terrain) avec l'étude de marché",
+    "Documents juridiques (Statuts de la société / Dernier PV de l’assemblée générale/ Attestation de l’Identifiant Fiscal/Attestation d’inscription au Registre de commerce / Copie du certificat de l'identifiant commun de l'entreprise (ICE))",
+    "Foncier : certificat de propriété ou contrat de location du terrain support du projet, plan de situation, plan de masse, accord de la Commission Régionale Unifiée d’Investissement faisant ressortir l’accord relatif à la mobilisation en cas de foncier public",
+    "Business plan Excel détaillé par année sur un horizon de 10 ans comportant (cash flows détaillés, CPC prévisionnel, Hypothèses de calcul du BP) (voir canevas) / Plan de financement avec précision des lignes et conditions de crédit et précision du mode de Financement des équipements et du financement en devises le cas échéant / Programme d’investissement hors taxes détaillé par composantes (coûts et rubriques ventilées sur les 36 mois de la convention d’investissement) / Planning de réalisation du programme d’investissement sur 36 mois",
+    "Estimation du montant global hors taxes des biens d’équipements à importer en précisant le pourcentage provenant de l’Union Européenne.",
+    "\\* En cas de demande de la subvention au titre des dépenses liées à/aux:",
+    "La formation professionnelle\\*: Estimation des formations (coût et rubriques) nécessaires au projet sur 36 mois (y compris le Plan de formation détaillé par thème de formation et indiquant le nombre de bénéficiaires, les périodes de formation et les coûts de formation par thème et par jour ou forfaitaire le cas échéant.)",
+    "Infrastructures externes\\*: Estimation des infrastructures externes nécessaires au projet avec schématisation sur le plan",
+    "L’acquisition du terrain\\*: Contrat d’achat du terrain ou compromis de vente et justificatifs des frais liés à l’acquisition du terrain",
+    "Contrats de financement du projet et attestation de capacité financière justifiant l’apport en fonds propres le cas échéant\\*",
+    "Emplois directs à créer sur 36 mois (ventilés par catégorie et par année) / Note sur les emplois indirects/ le cas échéant\\* Note sur les emplois induits (à créer à travers les entités devant s’installer dans un centre d’activité ou une zone dédié",
+    "Attestation de régularité fiscale délivrée par la Direction Générale des Impôts",
+    "Autorisation de construire si obtenue (si non encore sollicité, en cours d’obtention ou non applicable, le préciser au niveau de la demande susvisée)\\*"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\n1 Demande de conclusion d’une convention d’investissement (voir canevas)\n2 Présentation de la société avec chiffres précisant les activités, les références, les actionnaires, organigramme et Délégation de pouvoirs\\* au cas où le demandeur n’est pas le représentant légal\n3 Descriptif du projet (présentation du projet avec photos aériennes ou satellites du terrain) avec l'étude de marché\n4 Documents juridiques (Statuts de la société / Dernier PV de l’assemblée générale/ Attestation de l’Identifiant Fiscal/Attestation d’inscription au Registre de commerce / Copie du certificat de l'identifiant commun de l'entreprise (ICE))\n5 Foncier : certificat de propriété ou contrat de location du terrain support du projet, plan de situation, plan de masse, accord de la Commission Régionale Unifiée d’Investissement faisant ressortir l’accord relatif à la mobilisation en cas de foncier public\n6 Business plan Excel détaillé par année sur un horizon de 10 ans comportant (cash flows détaillés, CPC prévisionnel, Hypothèses de calcul du BP) (voir canevas) / Plan de financement avec précision des lignes et conditions de crédit et précision du mode de Financement des équipements et du financement en devises le cas échéant / Programme d’investissement hors taxes détaillé par composantes (coûts et rubriques ventilées sur les 36 mois de la convention d’investissement) / Planning de réalisation du programme d’investissement sur 36 mois\n7 Estimation du montant global hors taxes des biens d’équipements à importer en précisant le pourcentage provenant de l’Union Européenne.\n8\\* En cas de demande de la subvention au titre des dépenses liées à/aux:\n• La formation professionnelle\\*: Estimation des formations (coût et rubriques) nécessaires au projet sur 36 mois (y compris le Plan de formation détaillé par thème de formation et indiquant le nombre de bénéficiaires, les périodes de formation et les coûts de formation par thème et par jour ou forfaitaire le cas échéant.)\n• Infrastructures externes\\*: Estimation des infrastructures externes nécessaires au projet avec schématisation sur le plan\n• L’acquisition du terrain\\*: Contrat d’achat du terrain ou compromis de vente et justificatifs des frais liés à l’acquisition du terrain\n9 Contrats de financement du projet et attestation de capacité financière justifiant l’apport en fonds propres le cas échéant\\*\n10 Emplois directs à créer sur 36 mois (ventilés par catégorie et par année) / Note sur les emplois indirects/ le cas échéant\\* Note sur les emplois induits (à créer à travers les entités devant s’installer dans un centre d’activité ou une zone dédié\n11 Attestation de régularité fiscale délivrée par la Direction Générale des Impôts\n11 Autorisation de construire si obtenue (si non encore sollicité, en cours d’obtention ou non applicable, le préciser au niveau de la demande susvisée)\\*",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "douane"
+  ],
+  "secteurs_map": [
+    "tech",
+    "commerce"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "douane"
+  ]
+}

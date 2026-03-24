@@ -1,0 +1,21 @@
+{
+  "faq_id": "faq_soumission_dossiers",
+  "category": "Soumission des dossiers",
+  "items": [
+    {
+      "question": "Est-ce que je peux me faire représenter pour soumettre mon dossier ?",
+      "answer": "Le dépôt du dossier peut être réalisé par l’investisseur lui-même ou par un représentant dûment mandaté.",
+      "tags": ["représentant", "mandat", "soumission", "dépôt", "investisseur"]
+    },
+    {
+      "question": "Est-ce que je peux annuler mon dossier déjà soumis ?",
+      "answer": "Une fois soumis, un dossier ne peut plus être annulé. Pour toute précision ou assistance, veuillez contacter un conseiller du CRI.",
+      "tags": ["annulation", "dossier soumis", "assistance", "support"]
+    },
+    {
+      "question": "Est-ce que je peux soumettre mon dossier même s’il me manque des documents ?",
+      "answer": "La soumission du dossier n’est possible que lorsque l’ensemble des pièces requises sont rassemblées. La plateforme vous permet de déposer votre dossier progressivement et d’échanger avec un conseiller du CRI afin de vous accompagner dans sa complétude.",
+      "tags": ["documents manquants", "pièces requises", "soumission", "complétude", "accompagnement"]
+    }
+  ]
+}

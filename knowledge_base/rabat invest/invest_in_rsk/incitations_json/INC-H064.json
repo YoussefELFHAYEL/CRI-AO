@@ -1,0 +1,92 @@
+{
+  "id": "INC-H064",
+  "nom": "1- Logement social\n2- Logement à faible valeur immobilière\n3- Logements destinés à la classe moyenne",
+  "nom_court": "1- Logement social\n2- Logement à faible valeur immobilièr...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "1- Logement social\nLes promoteurs immobiliers, personnes morales ou personnes physiques relevant du régime du résultat net réel, sont exonérés pour l’ensemble de leurs actes, activités et revenus afférents à la réalisation de logements sociaux, des impôts et droits suivants :\n• l’impôt sur les so...",
+  "description_complete": "1- Logement social\nLes promoteurs immobiliers, personnes morales ou personnes physiques relevant du régime du résultat net réel, sont exonérés pour l’ensemble de leurs actes, activités et revenus afférents à la réalisation de logements sociaux, des impôts et droits suivants :\n• l’impôt sur les sociétés ;\n• l’impôt sur le revenu ;\n• les droits d’enregistrement et de timbre ;\n• la taxe professionnelle, la taxe sur les terrains urbains non bâtis et la taxe sur les opérations de construction ;\n• la taxe spéciale sur le ciment ;\n• les droits d’inscription sur les titres fonciers.\n2- Logement à faible valeur immobilière\nLes promoteurs immobiliers, personnes morales ou personnes physiques relevant du régime du résultat net réel, sont exonérés pour leurs actes, activités et revenus afférents à la réalisation de logements à faible valeur immobilière, destinés en particulier à la prévention et la lutte contre l’habitat insalubre, des impôts, droits et taxes ci-après :\n• l’impôt sur les sociétés ;\n• l’impôt sur le revenu ;\n• la taxe sur la valeur ajoutée ;\n• les droits d’enregistrement,\n• droits, taxes, redevances et contributions perçus au profit de l’Etat ;\n• droits d’inscription sur les titres fonciers.\n3- Logements destinés à la classe moyenne\nLes promoteurs immobiliers, personnes morales ou personnes physiques relevant du régime du résultat net réel, qui réalisent dans le cadre d’un appel d’offres et d’une convention conclue avec l’Etat, assortie d’un cahier des charges, un programme de construction d’au moins cent cinquante (150) logements, répartis sur une période maximum de cinq (5) ans à compter de la date de délivrance de la première autorisation de construire, doivent céder ces logements aux acquéreurs qui bénéficient de l’exonération des droits d’enregistrement et de timbre, dans les conditions suivantes:\n• le prix de vente du mètre carré couvert ne doit pas excéder six mille (6.000) dirhams, hors taxe sur la valeur ajoutée ;\n• la superficie couverte doit être comprise entre quatre-vingt (80) et cent cinquante (150) mètres carrés.",
+  "avantages": [
+    "1- Logement social",
+    "Les promoteurs immobiliers, personnes morales ou personnes physiques relevant du régime du résultat net réel, sont exonérés pour l’ensemble de leurs actes, activités et revenus afférents à la réalisation de logements sociaux, des impôts et droits suivants :",
+    "l’impôt sur les sociétés ;",
+    "l’impôt sur le revenu ;",
+    "les droits d’enregistrement et de timbre ;",
+    "la taxe professionnelle, la taxe sur les terrains urbains non bâtis et la taxe sur les opérations de construction ;",
+    "la taxe spéciale sur le ciment ;",
+    "les droits d’inscription sur les titres fonciers.",
+    "2- Logement à faible valeur immobilière",
+    "Les promoteurs immobiliers, personnes morales ou personnes physiques relevant du régime du résultat net réel, sont exonérés pour leurs actes, activités et revenus afférents à la réalisation de logements à faible valeur immobilière, destinés en particulier à la prévention et la lutte contre l’habitat insalubre, des impôts, droits et taxes ci-après :",
+    "l’impôt sur les sociétés ;",
+    "l’impôt sur le revenu ;",
+    "la taxe sur la valeur ajoutée ;",
+    "les droits d’enregistrement,",
+    "droits, taxes, redevances et contributions perçus au profit de l’Etat ;"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "vert",
+    "IS",
+    "IR",
+    "foncier",
+    "immobilier"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "btp",
+    "agriculture"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "vert",
+    "IS",
+    "IR",
+    "foncier",
+    "immobilier"
+  ]
+}

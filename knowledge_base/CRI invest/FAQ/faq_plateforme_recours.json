@@ -1,0 +1,32 @@
+{
+  "faq_id": "faq_recours",
+  "category": "Recours",
+  "source": "https://cri-invest.ma/faq",
+  "items": [
+    {
+      "question": "C'est quoi un recours et comment le déposer ?",
+      "answer": "Conformément à la loi n° 22-24, tout investisseur peut contester une décision de rejet émanant de la Commission Régionale Unifiée d’Investissement (CRUI) en déposant une demande de recours, dans les conditions prévues à l’article 37 de ladite loi.\n\nRecours auprès du M. le Wali de la Région : L’investisseur peut introduire un recours auprès du Wali dans un délai de 15 jours à compter de la date de notification de la décision défavorable. M. le Wali statue sur ce recours dans un délai maximal de 15 jours suivant sa saisine.\n\nSaisine de la Commission Ministérielle de Recours : Si M. le Wali confirme la décision de rejet ou ne statue pas dans les délais impartis, l’investisseur peut saisir la Commission Ministérielle de Recours dans un délai de 15 jours. Cette Commission statue sur le recours dans un délai maximum de 45 jours à compter de sa saisine.",
+      "tags": ["recours", "loi 22-24", "CRUI", "Wali", "Commission Ministérielle", "délais", "décision défavorable"]
+    },
+    {
+      "question": "Suite à quelles décisions j’ai droit à déposer recours ?",
+      "answer": "La demande de recours peut être introduite à la suite d’une décision défavorable de la Commission Régionale Unifiée d’Investissement.",
+      "tags": ["décision défavorable", "CRUI", "recours", "conditions"]
+    },
+    {
+      "question": "Quels sont les différents délais de dépôt et de traitement du recours ?",
+      "answer": "L’investisseur peut introduire une demande de recours auprès du M. le Wali de la Région dans un délai n’excédant pas 15 jours à compter de la date à laquelle la décision lui a été notifiée. M. le Wali statue sur les recours introduits dans un délai n’excédant pas 15 jours à compter de la date de sa saisine.\n\nSi M. le Wali maintient un avis défavorable ou ne statue pas dans les délais prévus, l’investisseur peut saisir la Commission Ministérielle de Recours dans un délai ne dépassant pas 15 jours. Celle-ci statue dans un délai n’excédant pas 45 jours à compter de sa saisine.",
+      "tags": ["délais", "15 jours", "45 jours", "Wali", "Commission Ministérielle", "traitement recours"]
+    },
+    {
+      "question": "Combien de fois j’ai droit à déposer recours ?",
+      "answer": "Vous avez le droit de déposer un recours une seule fois.",
+      "tags": ["nombre de recours", "limite", "procédure"]
+    },
+    {
+      "question": "Quelles sont les pièces nécessaires pour déposer une demande de recours ?",
+      "answer": "Que ce soit auprès du M. le Wali de la Région ou de la Commission Ministérielle de Recours, l’investisseur doit obligatoirement déposer une demande de recours via la plateforme. Il peut également joindre tout document complémentaire susceptible d’appuyer sa demande.",
+      "tags": ["pièces", "documents", "demande de recours", "plateforme"]
+    }
+  ]
+}

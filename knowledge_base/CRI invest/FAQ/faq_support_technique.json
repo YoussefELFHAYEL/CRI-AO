@@ -1,0 +1,26 @@
+{
+  "faq_id": "faq_support_technique",
+  "category": "Support technique",
+  "items": [
+    {
+      "question": "Comment créer un compte ?",
+      "answer": "Cliquez sur « créer un compte » au niveau de la page de connexion sur la plateforme. Renseignez l’adresse email et saisissez un mot de passe qui doit contenir au minimum 8 caractères dont un caractère minuscule, un caractère spécial (#$%|{}[]...), un caractère majuscule et un chiffre. Cliquez par la suite sur le bouton « créer le compte ». Un email vous sera envoyé à l’adresse email renseignée. Après activation du compte, vous serez redirigé vers la page de connexion pour accéder à la plateforme.",
+      "tags": ["compte", "inscription", "authentification", "email", "mot de passe"]
+    },
+    {
+      "question": "Que dois-je faire si je n’arrive pas à me connecter ?",
+      "answer": "Si vous n’avez pas créé un compte, veuillez suivre les instructions mentionnées dans la question « comment créer un compte ». Si vous souhaitez vous connecter en utilisant votre adresse mail, assurez-vous d’avoir la même adresse que celle d’origine. Si vous avez oublié votre mot de passe, cliquez sur « mot de passe oublié », saisissez votre adresse mail, un lien de réinitialisation de votre mot de passe vous sera envoyé par la suite. Au cas où le problème persiste, veuillez contacter un conseiller CRI.",
+      "tags": ["connexion", "login", "mot de passe", "support", "erreur"]
+    },
+    {
+      "question": "Comment récupérer mon mot de passe ?",
+      "answer": "Sur la page de connexion à la plateforme, cliquez sur « mot de passe oublié », saisissez votre adresse mail, un lien pour réinitialiser votre mot de passe vous sera envoyé par la suite.",
+      "tags": ["mot de passe", "réinitialisation", "compte", "connexion"]
+    },
+    {
+      "question": "Que dois-je faire au cas où l’accès à l’application prend du temps pour répondre ?",
+      "answer": "Veuillez vérifier votre connexion internet. Si le problème persiste, veuillez vous déconnecter et vous connecter une 2ème fois ou rafraîchir la page (en appuyant sur F5). Si le problème persiste encore, veuillez contacter un conseiller CRI.",
+      "tags": ["performance", "application lente", "connexion", "support technique"]
+    }
+  ]
+}

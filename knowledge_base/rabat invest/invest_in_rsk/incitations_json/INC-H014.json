@@ -1,0 +1,81 @@
+{
+  "id": "INC-H014",
+  "nom": "FONDS DE DEVELOPPEMENT AGRICOLE Subvention équipement des exploitations",
+  "nom_court": "FONDS DE DEVELOPPEMENT AGRICOLE Subvention équipement des...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Subvention équipement des exploitations (matériel agricole, matériel d’élevage, bâtiment d’élevage, installation des serres, filets de protection)\n• Des subventions à hauteur de 20% à 60% sur Matériel agricole (tracteur, matériel d’entretien du sol, matériel de traitement phytosanitaire, moissonn...",
+  "description_complete": "Subvention équipement des exploitations (matériel agricole, matériel d’élevage, bâtiment d’élevage, installation des serres, filets de protection)\n• Des subventions à hauteur de 20% à 60% sur Matériel agricole (tracteur, matériel d’entretien du sol, matériel de traitement phytosanitaire, moissonneuse batteuse, récolteuses, arracheuses, ramasseuses …): Plafond de 1000DH à 720.000DH/Unité.\u000b• 30% Matériel d’élevage (broyeurs, mélangeurs, unités d’aliments de bétail, ensileuses, matériel d’insémination artificielle, système de refroidissement des unités d’élevage …) : Plafond de 300dh à 300.000DH/Unité.\u000b• 25% Construction de bâtiments d’élevage : Plafond de 50DH à 200DH/m²\u000b• 10% Acquisition et installation des serres destinées à la production agricole: Plafond de 1DH à 9DH/m²\u000b• 35% Filets de protection des cultures maraîchères sous serres contre les insectes: Plafond de 12.000DH/Ha\u000b• 40% Filets de protection des plantations fruitières contre la grêle: Plafond de 50.000DH/Ha.",
+  "avantages": [
+    "Subvention équipement des exploitations (matériel agricole, matériel d’élevage, bâtiment d’élevage, installation des serres, filets de protection)",
+    "Des subventions à hauteur de 20% à 60% sur Matériel agricole (tracteur, matériel d’entretien du sol, matériel de traitement phytosanitaire, moissonneuse batteuse, récolteuses, arracheuses, ramasseuses …): Plafond de 1000DH à 720.000DH/Unité.\u000b• 30% Matériel d’élevage (broyeurs, mélangeurs, unités d’aliments de bétail, ensileuses, matériel d’insémination artificielle, système de refroidissement des unités d’élevage …) : Plafond de 300dh à 300.000DH/Unité.\u000b• 25% Construction de bâtiments d’élevage : Plafond de 50DH à 200DH/m²\u000b• 10% Acquisition et installation des serres destinées à la production agricole: Plafond de 1DH à 9DH/m²\u000b• 35% Filets de protection des cultures maraîchères sous serres contre les insectes: Plafond de 12.000DH/Ha\u000b• 40% Filets de protection des plantations fruitières contre la grêle: Plafond de 50.000DH/Ha."
+  ],
+  "montant_ou_taux": "20%; 60%; 30%; 1000DH; 720.000DH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "toutes tailles",
+      "personne physique"
+    ],
+    "secteurs": [
+      "agriculture"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Agriculteur ou société ayant réalisé des investissements en équipement des exploitations.",
+    "La demande de subvention doit être déposée dans un délai n’excédant pas :",
+    "12 mois à compter de la date de l’accord de principe (acquisition de matériel agricole et matériel d’élevage)",
+    "12 mois à compter de la date d’approbation préalable (acquisition, des filets anti-grêle, des serres)",
+    "24 mois à compter de la date de l’approbation préalable (Bâtiment d’élevage)",
+    "6 mois à compter de la date d’acquisition de capsules à phéromones ou des attractants de cératite des agrumes"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Demande d’approbation préalable",
+    "Demande de subvention",
+    "Dossiers juridiques ,techniques ou financiers liés au projet"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale de l’Agriculture",
+    "telephone": "0537 374242",
+    "site_web": "www.agriculture.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nDemande d’approbation préalable\nDemande de subvention\nDossiers juridiques ,techniques ou financiers liés au projet",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "subvention",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "btp",
+    "agriculture"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "subvention",
+    "IS",
+    "IR"
+  ]
+}

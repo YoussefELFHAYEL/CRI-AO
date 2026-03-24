@@ -1,0 +1,82 @@
+{
+  "id": "INC-H032",
+  "nom": "Impôt sur le revenu",
+  "nom_court": "Impôt sur le revenu",
+  "axe": "",
+  "type_incitation": "autre",
+  "description_courte": "Les personnes physiques, exerçant à titre individuel en tant qu’auto-entrepreneurs, sont soumises à l’impôt sur le revenu, en appliquant au chiffre\nd’affaires encaissé l’un des taux suivants :\nR É G I M E F I S C A L D E L’A U T O - E N T R E P R E N E U R\n• 0,5 % sur le montant qui ne dépasse pa...",
+  "description_complete": "Les personnes physiques, exerçant à titre individuel en tant qu’auto-entrepreneurs, sont soumises à l’impôt sur le revenu, en appliquant au chiffre\nd’affaires encaissé l’un des taux suivants :\nR É G I M E F I S C A L D E L’A U T O - E N T R E P R E N E U R\n• 0,5 % sur le montant qui ne dépasse pas\n500 000 DH pour les activités commerciales,\nindustrielles et artisanales ;\n• 1 % sur le montant qui ne dépasse pas 200 000\nDH pour les prestations de service.\nCes taux sont libératoires de l’I.R.",
+  "avantages": [
+    "Les personnes physiques, exerçant à titre individuel en tant qu’auto-entrepreneurs, sont soumises à l’impôt sur le revenu, en appliquant au chiffre",
+    "d’affaires encaissé l’un des taux suivants :",
+    "R É G I M E F I S C A L D E L’A U T O - E N T R E P R E N E U R",
+    "0,5 % sur le montant qui ne dépasse pas",
+    "500 000 DH pour les activités commerciales,",
+    "industrielles et artisanales ;",
+    "1 % sur le montant qui ne dépasse pas 200 000",
+    "DH pour les prestations de service.",
+    "Ces taux sont libératoires de l’I.R."
+  ],
+  "montant_ou_taux": "5 %; 1 %; 500 000 DH; 200 000\nDH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "auto-entrepreneur"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Auto-entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

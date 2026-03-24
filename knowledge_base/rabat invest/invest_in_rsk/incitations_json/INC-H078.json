@@ -1,0 +1,123 @@
+{
+  "id": "INC-H078",
+  "nom": "AMÉLIORER LA COMPÉTITIVITÉ DES ENTREPRISES...\nGIAC Transport et logistique",
+  "nom_court": "AMÉLIORER LA COMPÉTITIVITÉ DES ENTREPRISES...\nGIAC Transp...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Améliorer la compétitivité des entreprises par des actions d'études et de conseils en stratégie de développement et des actions de formation en cours d'emploi\n\n• La performance opérationnelle: 90% des actions d'accompagnement; Plafond de remboursement : 240.000DH TTC/PME\n• Performance supplychain...",
+  "description_complete": "Améliorer la compétitivité des entreprises par des actions d'études et de conseils en stratégie de développement et des actions de formation en cours d'emploi\n\n• La performance opérationnelle: 90% des actions d'accompagnement; Plafond de remboursement : 240.000DH TTC/PME\n• Performance supplychain: 90% des actions d'accompagnement; Plafond de remboursement : 240.000DH TTC/PME\n• Outsourcing: 90% des actions d'accompagnement; Plafond de remboursement : 240.000DH TTC/PME\n• Digitalisation de la supplychain phase d'étude: 70% des actions d'accompagnement; Plafond de remboursement : 120.000DH TTC/PME\n• Digitalisation de la supplychain phase de déploiement: 70% des actions d'accompagnement; Plafond de remboursement : 480.000DH TTC/PME\n• Certification et labélisation: 90% des actions d'accompagnement dans la certification et labélisation, Plafond de remboursement : 120.000DH/PME\n• 90% des actions d'audit de certification ou labélisation ,Plafond de remboursement : 24.000DH TTC/PME\n• Certification des compétences: 90% des actions; Plafond de remboursement : 30.000DH/personne\n• Best practices: 100% des actions de formation ,Plafond de remboursement : 3600DH/personne\nFormation:\n100% des actions de formation plafonnées par thème:\n\\- Préparateur de commande: 3000DH/personne pour 2 jours de formation si effectif <6; 15600DH si effectif entre 6 et 8\n\\- Formation des formateurs: 6000DH/personne pour 5 jours de formation/groupe inférieur ou égale à 8 personnes\n\\- Transport routier de marchandises dangereuses\n\\- Formation de base:4500 MAD / personne pour 3 jours de formation si effectif < 6 ; 22800 MAD si effectif entre 6 et 8\n\\- Recyclage: 3000 MAD / personne pour 3 jours de formation si effectif < 6; 15600 MAD si effectif entre 6 et 8\n\\- Transport routier de denrées périssables:3000 MAD / personne pour 2 jours de formation si effectif < 6; 15600 MAD si effectif entre 6 et 8\n\\- Eco-conduite:1 500 MAD / personne pour 1 jour de formation si effectif < 6; 8400 MAD si effectif entre 6 et 8\n\\- Cariste d'entrepôt:3000 MAD / personne pour 2 jours de formation si effectif <6; 15600 MAD si effectif entre 6 et 8\n\\- Conseiller à la sécurité:7 200 / personne sur 5 jours de formation.",
+  "avantages": [
+    "Améliorer la compétitivité des entreprises par des actions d'études et de conseils en stratégie de développement et des actions de formation en cours d'emploi",
+    "La performance opérationnelle: 90% des actions d'accompagnement; Plafond de remboursement : 240.000DH TTC/PME",
+    "Performance supplychain: 90% des actions d'accompagnement; Plafond de remboursement : 240.000DH TTC/PME",
+    "Outsourcing: 90% des actions d'accompagnement; Plafond de remboursement : 240.000DH TTC/PME",
+    "Digitalisation de la supplychain phase d'étude: 70% des actions d'accompagnement; Plafond de remboursement : 120.000DH TTC/PME",
+    "Digitalisation de la supplychain phase de déploiement: 70% des actions d'accompagnement; Plafond de remboursement : 480.000DH TTC/PME",
+    "Certification et labélisation: 90% des actions d'accompagnement dans la certification et labélisation, Plafond de remboursement : 120.000DH/PME",
+    "90% des actions d'audit de certification ou labélisation ,Plafond de remboursement : 24.000DH TTC/PME",
+    "Certification des compétences: 90% des actions; Plafond de remboursement : 30.000DH/personne",
+    "Best practices: 100% des actions de formation ,Plafond de remboursement : 3600DH/personne",
+    "100% des actions de formation plafonnées par thème:",
+    "Préparateur de commande: 3000DH/personne pour 2 jours de formation si effectif <6; 15600DH si effectif entre 6 et 8",
+    "Formation des formateurs: 6000DH/personne pour 5 jours de formation/groupe inférieur ou égale à 8 personnes",
+    "Transport routier de marchandises dangereuses",
+    "Formation de base:4500 MAD / personne pour 3 jours de formation si effectif < 6 ; 22800 MAD si effectif entre 6 et 8"
+  ],
+  "montant_ou_taux": "90%; 90%; 90%; 240.000DH; 240.000DH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME",
+      "TPE",
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Etre adhérent au GIAC de transport et logistique",
+    "Etre assujetties à la Taxe de la Formation Professionnelle et présentant une attestation d’éligibilité au CSF justifiant qu’elles sont en situation régulière au titre de cette taxe.",
+    "Opérer dans le secteur de transport et logistique",
+    "De droit marocain",
+    "En situation régulière vis à vis de la CNSS",
+    "En situation régulière fiscale",
+    "Ne faisant pas l'objet de redressement ou de liquidation judiciaire",
+    "Les actions finançables par les GIAC sont:",
+    "1 - Les études d’analyse stratégique (DS) comprenant :",
+    "La détermination d’une stratégie de développement à moyen terme",
+    "La détermination des moyens opérationnels nécessaires à sa réalisation",
+    "L’identification des besoins en compétences qui en découlent.",
+    "2 - Les études d’ingénierie de formation en cours d’emploi (IF) comprenant :",
+    "L’identification des besoins en formation",
+    "L’élaboration des plans de formation qui en découlent."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Demande de financement/subvention:",
+    "Justification de la cotisation, bulletin d'adhésion (G1)",
+    "Attestation d'accès au CSF valable pour l'année en cours de l'entreprise et de l'organisme de conseil",
+    "Attestation de la CNSS",
+    "Attestation fiscale",
+    "Attestation du chiffre d'affaires",
+    "Statuts ou PV de nomination",
+    "Fiche de renseignement sur l'entreprise (G2)",
+    "Fiche de renseignement sur l'organisme de conseil (G3)",
+    "Fiche de renseignement de l'étude (diagnostique ou ingénierie de formation) (G4)",
+    "Déclaration sur l'honneur pour l'étude légalisée (G5)",
+    "Déclaration de réalisation des actions de formation (G6)",
+    "Proposition d'intervention (G7)",
+    "Demande de remboursement",
+    "Avis de réalisation (G8)",
+    "Facture (G10)",
+    "Rapport de l'étude avec 4 copies et le CD (G11)",
+    "Mode de règlement (copie du chèque, virement ,avis de débit ,relevé bancaire)",
+    "Coordonnées"
+  ],
+  "organisation": {
+    "nom": "Association Professionnelle",
+    "telephone": "",
+    "site_web": "",
+    "adresse": ""
+  },
+  "modalites": "Cotisation 3000DH/an.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "emploi",
+    "digital",
+    "IS",
+    "transport"
+  ],
+  "secteurs_map": [
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge",
+    "tpe",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "emploi",
+    "digital",
+    "IS",
+    "transport"
+  ]
+}

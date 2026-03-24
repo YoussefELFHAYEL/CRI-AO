@@ -1,0 +1,109 @@
+{
+  "id": "INC-H044",
+  "nom": "IMPOT SUR LE REVENU",
+  "nom_court": "IMPOT SUR LE REVENU",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "1- Pension de retraite de source étrangère\nSi vous choisissez de vous installer au Maroc et que vous disposez d’une pension de retraite de source étrangère, vous bénéficiez :\n• d’un abattement forfaitaire de 60% ou 40% selon le cas, sur le montant brut imposable de votre pension et rentes\n• et d’...",
+  "description_complete": "1- Pension de retraite de source étrangère\nSi vous choisissez de vous installer au Maroc et que vous disposez d’une pension de retraite de source étrangère, vous bénéficiez :\n• d’un abattement forfaitaire de 60% ou 40% selon le cas, sur le montant brut imposable de votre pension et rentes\n• et d’une réduction égale à 80% du montant de l’impôt dû au titre de la pension transférée.\n2- Revenus fonciers\nSi vous disposez d’une habitation que vous louez ou que vous mettez gratuitement à la disposition de personnes autres que vos parents ou vos\nenfants, vous êtes soumis à l’Impôt sur le Revenu, au titre des revenus fonciers. Est exonérés de l’impôt sur le revenu, le montant\ndes revenus fonciers annuels bruts imposables qui n’excède pas trente mille (30 000) dirhams.\nToutefois, cette exonération n’est pas cumulable avec l’exonération du seuil dont bénéficie le contribuable au titre d’autres revenus.\nTaux de l’impôt :\nLes revenus fonciers annuels bruts imposables sont soumis à l’I.R selon les taux libératoires proportionnels suivants :\n• 10% pour les revenus fonciers bruts imposables inférieurs à 120 000 DHS ;\n• 15% pour les revenus fonciers bruts imposables égaux ou supérieurs à 120 000 DHS.\n3-Impôt sur le revenu au titre des profits fonciers\nSi vous cédez une construction ou un terrain, les profits fonciers que vous réaliserez seront soumis à l’impôt sur le revenu.\nToutefois, vous bénéficiez de l’exonération totale de l’impôt sur les profits fonciers pour :\n• le profit réalisé dans l’année civile des cessions d’immeubles dont la valeur totale n’excède\npas cent quarante mille (140.000) dirhams ;\n•le profit réalisé sur la cession d’un immeuble ou partie d’immeuble occupé à titre d’habitation principale depuis au moins six (6) ans au jour\nde cette cession, par son propriétaire ou par les membres des sociétés à objet immobilier réputées fiscalement transparentes. Toutefois,\nune période maximum d’une année à compterde la date de la vacance du logement est accordée au contribuable pour la réalisation\nde l’opération de cession.\nTaux de l’impôt :\nEst soumis au taux de 20%, le profit réalisé à l’occasion de cession des biens immobiliers construits avant l’expiration du délai que confère l’exonération avec un minimum d’imposition même en l’absence de profit, qui ne peut être inférieur à 3% du prix de cession.\nPar ailleurs, si vous réalisez des profits nets à l’occasion de la première cession à titre onéreux d’immeubles non bâtis inclus dans le périmètre urbain, à compter du 1er janvier 2013, ou de la cession à titre onéreux de droits réels immobiliers portant sur de tels immeubles, vous serez soumis à l’impôt sur le revenu au titre de ces profits au taux de 30%.",
+  "avantages": [
+    "1- Pension de retraite de source étrangère",
+    "Si vous choisissez de vous installer au Maroc et que vous disposez d’une pension de retraite de source étrangère, vous bénéficiez :",
+    "d’un abattement forfaitaire de 60% ou 40% selon le cas, sur le montant brut imposable de votre pension et rentes",
+    "et d’une réduction égale à 80% du montant de l’impôt dû au titre de la pension transférée.",
+    "2- Revenus fonciers",
+    "Si vous disposez d’une habitation que vous louez ou que vous mettez gratuitement à la disposition de personnes autres que vos parents ou vos",
+    "enfants, vous êtes soumis à l’Impôt sur le Revenu, au titre des revenus fonciers. Est exonérés de l’impôt sur le revenu, le montant",
+    "des revenus fonciers annuels bruts imposables qui n’excède pas trente mille (30 000) dirhams.",
+    "Toutefois, cette exonération n’est pas cumulable avec l’exonération du seuil dont bénéficie le contribuable au titre d’autres revenus.",
+    "Taux de l’impôt :",
+    "Les revenus fonciers annuels bruts imposables sont soumis à l’I.R selon les taux libératoires proportionnels suivants :",
+    "10% pour les revenus fonciers bruts imposables inférieurs à 120 000 DHS ;",
+    "15% pour les revenus fonciers bruts imposables égaux ou supérieurs à 120 000 DHS.",
+    "3-Impôt sur le revenu au titre des profits fonciers",
+    "Si vous cédez une construction ou un terrain, les profits fonciers que vous réaliserez seront soumis à l’impôt sur le revenu."
+  ],
+  "montant_ou_taux": "60%; 40%; 80%; 120 000 DH; 120 000 DH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "MRE"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre",
+    "2- Revenus Fonciers",
+    "Obligations déclaratives au titre de l’impôt sur le revenu",
+    "Vous êtes tenu de souscrire auprès de l’administration fiscale, par procédé électronique, la déclaration annuelle des revenus fonciers",
+    "et verser l’impôt dû y afférent, avant le 1er mars de l’année suivant celle au cours de laquelle ces revenus ont été acquis sur laquelle sont",
+    "mentionnés les renseignements suivants :",
+    "les prénoms et noms de chaque locataire ;",
+    "le lieu de situation de chaque immeuble donné en location, sa consistance ainsi que le numéro d’article d’imposition à la taxe de services communaux ;",
+    "les loyers annuels pour leur montant brut ;",
+    "le montant de l’impôt retenu à la source au titre des revenus fonciers, le cas échéant.",
+    "3-Impôt sur le revenu au titre des profits fonciers",
+    "Cette exonération est également accordée au contribuable ayant cédé un immeuble ou partie d’immeuble acquis par voie de « Ijara Mountahia",
+    "Bitamlik » et occupé à titre d’habitation principale. La période d’occupation du bien par le contribuable, en tant que locataire, est prise en compte pour le calcul de la période d’une année pour le bénéfice de cette exonération. Cette exonération est également accordée au terrain sur lequel est édifiée la construction dans la limite de 5 fois la superficie couverte.",
+    "les opérations de cession d’un immeuble ou partie d’immeuble occupé à titre d’habitation principale par son propriétaire ou par les membres des sociétés à objet immobilier réputées transparentes, avant l’expiration du délai de six (6) ans, dans les conditions",
+    "suivantes :"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "2- Revenus Fonciers\nObligations déclaratives au titre de l’impôt sur le revenu\nVous êtes tenu de souscrire auprès de l’administration fiscale, par procédé électronique, la déclaration annuelle des revenus fonciers\net verser l’impôt dû y afférent, avant le 1er mars de l’année suivant celle au cours de laquelle ces revenus ont été acquis sur laquelle sont\nmentionnés les renseignements suivants :\n• les prénoms et noms de chaque locataire ;\n• le lieu de situation de chaque immeuble donné en location, sa consistance ainsi que le numéro d’article d’imposition à la taxe de services communaux ;\n• les loyers annuels pour leur montant brut ;\n• le montant de l’impôt retenu à la source au titre des revenus fonciers, le cas échéant.\n3-Impôt sur le revenu au titre des profits fonciers\nCette exonération est également accordée au contribuable ayant cédé un immeuble ou partie d’immeuble acquis par voie de « Ijara Mountahia\nBitamlik » et occupé à titre d’habitation principale. La période d’occupation du bien par le contribuable, en tant que locataire, est prise en compte pour le calcul de la période d’une année pour le bénéfice de cette exonération. Cette exonération est également accordée au terrain sur lequel est édifiée la construction dans la limite de 5 fois la superficie couverte.\n• les opérations de cession d’un immeuble ou partie d’immeuble occupé à titre d’habitation principale par son propriétaire ou par les membres des sociétés à objet immobilier réputées transparentes, avant l’expiration du délai de six (6) ans, dans les conditions\nsuivantes :\n\\\\* l’engagement de réinvestir le prix de cession dans l’acquisition d’un immeuble destiné à l’habitation principale dans un délai ne dépassant pas six (6) mois à compter de la date de cession du premier immeuble destiné à l’habitation principale ;\ne contribuable ne peut bénéficier qu’une\nseule fois de cette exonération ;\n\\\\* le prix de cession de l’immeuble ne doit pas excéder quatre millions (4 000 000) de\ndirhams ;\n\\\\* le montant de l’impôt sur le revenu afférent au profit résultant de la cession de l’immeuble qui aurait dû être payé, doit être conservé auprès du notaire jusqu’à la date de l’acquisition d’un autre immeuble destiné à l’habitation principale.\n• le profit réalisé à l’occasion de la première cession du logement social occupé par son propriétaire à titre d’habitation principale depuis au moins quatre (4) ans au jour de ladite cession dont la superficie couverte est comprise entre 50 et 80 m2 et dont le prix de cession n’excède pas 250.000 dirhams, hors taxe sur la valeur ajoutée ;\n• les cessions à titre gratuit portant sur les biens immeubles ou droits réels immobiliers effectuées entre ascendants et descendants, entre époux ou entre frères et sœurs, et entre la personne assurant la Kafala et l’enfant pris en charge dans le cadre d’une ordonnance du juge des tutelles conformément aux dispositions de la loi n° 15-01 relative à la prise en charge (la kafala) des enfants abandonnés ;\n•le profit réalisé sur la cession de droits indivis d’immeubles agricoles, situés à l’extérieur des périmètres urbains entre cohéritiers.\nCotisation minimale en matière d’impôt sur le revenu au titre des profits fonciers\n• Si vous réalisez des opérations de cession portant sur un immeuble ou partie d’immeuble, vous êtes tenu d’acquitter un minimum d’imposition,\nmême en l’absence de profit, qui ne peut être inférieur à 3 % du prix de cession.\n• Vous devez payer un minimum d’imposition de 3% au titre de la fraction du prix de cession qui excède le montant de 4 000 000 de dirhams pour les opérations de cession portant sur un immeuble ou partie d’immeuble, occupé à titre d’habitation principale et dont le profit est exonéré\nObligation de déclaration des profits fonciers et de paiement de l’IR y afférent, par voie électronique.\nSuite à l’instauration de l’obligation de la télédéclaration et du télépaiement de l’impôt sur\nle revenu au titre des profits fonciers, vous devez :\n• effectuer votre déclaration des profits immobiliers par voie électronique ;\n• s’il y a lieu, télépayer spontanément l’impôt sur le revenu y afférent.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "IS",
+    "IR",
+    "foncier",
+    "immobilier"
+  ],
+  "secteurs_map": [
+    "btp",
+    "tech",
+    "agriculture",
+    "industrie",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "IS",
+    "IR",
+    "foncier",
+    "immobilier"
+  ]
+}

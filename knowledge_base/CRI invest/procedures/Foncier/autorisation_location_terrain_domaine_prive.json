@@ -1,0 +1,73 @@
+{
+  "procedure_id": "autorisation_location_terrain_domaine_prive_etat",
+  "title": "Autorisation de location de terrain du domaine privé de l’État y compris les terrains agricoles ou à vocation agricole et fixation de la valeur vénale",
+  "description": "Cette procédure permet de statuer sur la location d’un terrain relevant du domaine privé de l’État pour la réalisation d’un projet d’investissement. Elle se conclut par la fixation du prix de location du terrain.",
+  "delai_indicatif": {
+    "total_jours": 53,
+    "etapes": [
+      {
+        "etape": "Dépôt du dossier",
+        "duree_jours": 1
+      },
+      {
+        "etape": "Retour sur la complétude du dossier",
+        "duree_jours": 3
+      },
+      {
+        "etape": "Avis de la CRUI",
+        "duree_jours": 28
+      },
+      {
+        "etape": "Obtention de l’arrêté de location et du cahier des charges",
+        "duree_jours": 53,
+        "note": "Délai de réponse au plus proposé"
+      }
+    ]
+  },
+  "pieces_a_fournir": [
+    {
+      "document": "Demande adressée au Président de la CRUI, précisant les actes et autorisations demandées"
+    },
+    {
+      "document": "Engagement de l’investisseur à respecter la réalisation de son projet dans les délais convenus"
+    },
+    {
+      "document": "Note de renseignement",
+      "frais": {
+        "organisme": "Agence Urbaine",
+        "montant": "200 à 600 MAD"
+      }
+    },
+    {
+      "document": "Plan cadastral",
+      "frais": {
+        "organisme": "Cadastre",
+        "montant": "60 à 115 MAD par tirage"
+      }
+    },
+    {
+      "document": "Plan de situation"
+    },
+    {
+      "document": "Plaquette en fonction de la nature du projet"
+    },
+    {
+      "document": "Levée topographique"
+    }
+  ],
+  "referentiel_juridique": [
+    "Dahir n°1-19-18 du 13 février 2019 portant promulgation de la loi 47-18 relative à la réforme des CRI",
+    "Décret Royal n°330-66 du 10 moharrem 1387 (21 avril 1967) portant Règlement Général de Comptabilité Publique",
+    "Lettre royale du 9 janvier 2002 relative à la gestion déconcentrée de l’investissement",
+    "Décret n°2-02-185 du 5 mars 2002 modifiant le décret n°330-66",
+    "Dahir n°1-04-255 du 16 kaada 1425 (2004) portant promulgation de la loi de finances 2005",
+    "Décret n°2.07.995 du 23 chaoual 1429 (23 octobre 2008) relatif aux attributions du Ministère de l’Économie et des Finances",
+    "Décret n°2-09-471 du 20 hija 1430 (8 décembre 2009) modifiant l’article 82 du décret royal n°330-66",
+    "Décret n°2-13-424 du 13 rejeb 1434 (24 mai 2013) approuvant le règlement général de construction",
+    "Décret n°2-13-909 du 23 Rajeb 1435 (23 mai 2014) modifiant le décret Royal n°330-66",
+    "Arrêté du ministre de l’économie n°367-02 du 20 hija 1422 (5 mars 2002) portant délégation de pouvoirs aux walis",
+    "Arrêté du Ministre n°2893-14 du 4 choual 1435 (1 août 2014) portant délégation de pouvoirs aux walis",
+    "Dahir n°1-18-104 du 20 décembre 2018 portant promulgation de la loi de finances 2019"
+  ],
+  "demarrage_procedure": "Créer un compte sur la plateforme dédiée ou s’adresser directement aux conseillers."
+}

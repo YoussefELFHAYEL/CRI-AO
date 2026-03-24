@@ -1,0 +1,98 @@
+{
+  "id": "INC-J002",
+  "nom": "ANAPEC-TAEHIL",
+  "nom_court": "ANAPEC-TAEHIL",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Formation contractualisée pour l’emploi:\nA pour objectif de permettre aux entreprises de réaliser des recrutements pour lesquels elles ont des difficultés à trouver les candidats ayant les compétences requises à travers une contribution de l’État à la formation fixée à 40 DH au maximum par heure ...",
+  "description_complete": "Formation contractualisée pour l’emploi:\nA pour objectif de permettre aux entreprises de réaliser des recrutements pour lesquels elles ont des difficultés à trouver les candidats ayant les compétences requises à travers une contribution de l’État à la formation fixée à 40 DH au maximum par heure et par participant. La formation doit être réalisée dans un délai d’une année au maximum ;\nLa contribution maximale à cette formation est de 10 000 DH par bénéficiaire. Cette contribution maximale peut être supérieure à 10 000 DH sans dépasser le plafond de 24 000 DH par candidat dans les cas suivants :\n• Entreprise nouvellement créée (entreprise ayant au plus une année d’existence à la date de la demande) ;\n• Entreprise qui opère dans l’un des nouveaux métiers (Émergence, TIC, …) ou\n• Entreprise nationale ou étrangère qui lance un projet d’investissement.\nFormation Qualifiante ou de reconversion :\nS’adresse aux jeunes diplômés en difficulté d’insertion et vise à adapter leur profil aux besoins du marché de l’emploi et faciliter par conséquent leur insertion dans la vie active, à travers :\n• Dans le cas d’un appel d’offres: une contribution de l’Etat à la Formation fixée à 30 DH au maximum par heure et par participant (y compris les taxes si l’opérateur est éligible à la TVA) ;\n• Dans le cas d’un appel à projets ouverts ou projets déposés par les opérateurs de formation une contribution de l’État à la Formation fixée à 36 DH au maximum par heure et par participant (y compris les taxes si l’opérateur est éligible à la TVA).La formation doit être réalisée dans un délai d’une année au maximum. La contribution maximale à cette formation est de 10 000 DH par bénéficiaire (y compris les taxes si l’opérateur est éligible à la TVA). Cette contribution maximale peut être supérieure à 10 000 DH sans dépasser le plafond de 18 000 DH par candidat (y compris les taxes si l’opérateur est éligible à la TVA) dans les cas suivants :\n• Formation dans l’un des nouveaux métiers (métiers du programme Émergence,\nTIC, …) ou ;\n• Anticipation des besoins en formation pour des projets d’investissement régionaux\net sectoriels\n• Formation contractualisée pour l’emploi : les entreprises marocaines ou étrangères (dans le cadre du placement à l’international). Les actions peuvent être montées par un employeur ou un groupement d’employeurs, recrutant des chercheurs d’emploi inscrits à l’ANAPEC, titulaires d’un baccalauréat au moins ou lauréats de la formation professionnelle et sélectionnés par l’employeur dans le cadre d’une action de recrutement.\n• Formation qualifiante ou de reconversion : Bénéficient de cette formation, les chercheurs d’emploi inscrits à l’ANAPEC, titulaires d’un baccalauréat au moins ou diplômés de la formation professionnelle, ayant besoin d’une réorientation vers des formations permettant de développer des compétences demandées par les entreprises.",
+  "avantages": [
+    "Formation contractualisée pour l’emploi:",
+    "A pour objectif de permettre aux entreprises de réaliser des recrutements pour lesquels elles ont des difficultés à trouver les candidats ayant les compétences requises à travers une contribution de l’État à la formation fixée à 40 DH au maximum par heure et par participant. La formation doit être réalisée dans un délai d’une année au maximum ;",
+    "La contribution maximale à cette formation est de 10 000 DH par bénéficiaire. Cette contribution maximale peut être supérieure à 10 000 DH sans dépasser le plafond de 24 000 DH par candidat dans les cas suivants :",
+    "Entreprise nouvellement créée (entreprise ayant au plus une année d’existence à la date de la demande) ;",
+    "Entreprise qui opère dans l’un des nouveaux métiers (Émergence, TIC, …) ou",
+    "Entreprise nationale ou étrangère qui lance un projet d’investissement.",
+    "Formation Qualifiante ou de reconversion :",
+    "S’adresse aux jeunes diplômés en difficulté d’insertion et vise à adapter leur profil aux besoins du marché de l’emploi et faciliter par conséquent leur insertion dans la vie active, à travers :",
+    "Dans le cas d’un appel d’offres: une contribution de l’Etat à la Formation fixée à 30 DH au maximum par heure et par participant (y compris les taxes si l’opérateur est éligible à la TVA) ;",
+    "Dans le cas d’un appel à projets ouverts ou projets déposés par les opérateurs de formation une contribution de l’État à la Formation fixée à 36 DH au maximum par heure et par participant (y compris les taxes si l’opérateur est éligible à la TVA).La formation doit être réalisée dans un délai d’une année au maximum. La contribution maximale à cette formation est de 10 000 DH par bénéficiaire (y compris les taxes si l’opérateur est éligible à la TVA). Cette contribution maximale peut être supérieure à 10 000 DH sans dépasser le plafond de 18 000 DH par candidat (y compris les taxes si l’opérateur est éligible à la TVA) dans les cas suivants :",
+    "Formation dans l’un des nouveaux métiers (métiers du programme Émergence,",
+    "TIC, …) ou ;",
+    "Anticipation des besoins en formation pour des projets d’investissement régionaux",
+    "et sectoriels",
+    "Formation contractualisée pour l’emploi : les entreprises marocaines ou étrangères (dans le cadre du placement à l’international). Les actions peuvent être montées par un employeur ou un groupement d’employeurs, recrutant des chercheurs d’emploi inscrits à l’ANAPEC, titulaires d’un baccalauréat au moins ou lauréats de la formation professionnelle et sélectionnés par l’employeur dans le cadre d’une action de recrutement."
+  ],
+  "montant_ou_taux": "40 DH; 10 000 DH; 10 000 DH; plafond de 24 000 DH; plafond de 18 000 DH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME",
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "www.anapec.org/"
+  ],
+  "organisation": {
+    "nom": "Agence Régionale de l’ANAPEC – Rabat",
+    "telephone": "05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "site_web": "www.anapec.org/",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "emploi",
+    "investissement",
+    "vert",
+    "jeune",
+    "TVA",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "emploi",
+    "investissement",
+    "vert",
+    "jeune",
+    "TVA",
+    "IS",
+    "IR"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "procedure": {
+    "titre": "Etude d'impact sur l'environnement",
+    "description": "Cette procédure permet d'examiner l'étude d'impact sur l'environnement et de fournir à l'investisseur un avis sur l'acceptabilité environnementale de son projet d'investissement. L'avis favorable de la commission régionale unifiée d'investissement est sanctionné par une attestation d'acceptabilité environnementale remise à l'investisseur sur présentation du programme de suivi et de surveillance environnementale."
+  },
+  "delai_moyen_indicatif_realisation": [
+    {
+      "jours": 1,
+      "etape": "Dépôt du dossier"
+    },
+    {
+      "jours": 66,
+      "etape": "Résultat de l'enquête publique"
+    },
+    {
+      "jours": 91,
+      "etape": "Avis de la CRUI"
+    },
+    {
+      "jours": 98,
+      "etape": "Obtention de l'attestation d'acceptabilité"
+    }
+  ],
+  "constitution_dossier": {
+    "titre": "Quelles pièces sont nécessaires à la constitution du dossier ?",
+    "pieces_requises": [
+      "Demande d'ouverture de l'enquête publique",
+      "Etude d'impact sur l'Environnement élaborée par un BET agréé et Plan de surveillance de sécurité environnementale (PSSE)",
+      "Plan de situation",
+      "Résumé englobant les informations et les principales données contenues dans l'étude d'impact sur l'environnement concernée par l'enquête publique",
+      "Une fiche descriptive faisant ressortir les principales caractéristiques du projet soumis à enquête publique",
+      "Publication dans les journaux d'annonces légales de l'enquête publique (A délivrer dans 8 jours)"
+    ],
+    "remarque": "Pour la liste exacte des pièces, veuillez vous référer à votre espace investisseur personnel"
+  },
+  "referentiel_juridique": [
+    "1- Dahir n°1-19-18 du 13 février 2019 (7 joumada II 1440) portant promulgation de la loi 47-18 portant réforme des centres régionaux d'investissement et création des commissions régionales unifiées d'investissement (B.O. 6754 du 21 février 2019)",
+    "2- Lettre royale du 9 janvier 2002 adressée au Premier Ministre relative à la gestion déconcentrée de l'investissement (BO n° 4970 17 janvier 2002)",
+    "3- Dahir n° 1-03-59 du 10 rabii I 1424 (12 mai 2003) portant promulgation de la loi n° 11-03 relative à la protection et à la mise en valeur de l'environnement",
+    "4- Dahir n° 1-03-60 du 10 rabii I 1424 (12 mai 2003) portant promulgation de la loi n° 12-03 relative aux études d'impact sur l'environnement.",
+    "5- Décret n° 2-04-563 du 4 novembre 2008 relatif aux attributions et au fonctionnement du comité national et des comités régionaux des études d'impact sur l'environnement",
+    "6- Décret n° 2-04-564 du 4 novembre 2008 fixant les modalités d'organisation et de déroulement de l'enquête publique relative aux projets soumis aux études d'impact sur l'environnement",
+    "7- Circulaire conjointe n° D-1998 du 17 mars 2009 du Ministre de l'Intérieur et du Secrétaire d'Etat auprès du Ministre de l'Energie, des Mines, de l'Eau et de l'Environnement, chargé de l'Eau et de l'Environnement pour la mise en oeuvre des décrets d'application de la loi n°12-03 relative aux études d'impact sur l'environnement",
+    "8- Arrêté du Secrétaire d'Etat auprès du Ministre de l'Energie, des Mines, de l'Eau et de l'Environnement, chargé de l'Eau et de l'Environnement n° 470.08 du 23 février 2009 portant délégation de signature tel qu'il a été modifié et complété par l'arrêté du Secrétaire d'Etat auprès du Ministre de l'Energie, des Mines, de l'Eau et de l'Environnement, chargé de l'Eau et de l'Environnement n° 939.10 du 11 mars 2010",
+    "9- Arrêté conjoint du secrétaire d'Etat auprès du ministre de l'Energie, des Mines, de l'Eau et de l'Environnement, chargé de l'Eau et de l'Environnement et du ministre de l'Economie et des Finances n° 636-10 du 22 février 2010 fixant les tarifs de rémunération des services rendus par l'administration afférents à l'enquête publique relative aux projets soumis aux études d'impact sur l'environnement",
+    "10- Note du Ministère de l'Intérieur n°21.594 du 14 décembre 2011 portant sur la procédure de l'enquête publique relative aux projets assujettis aux études d impact sur l environnement",
+    "11- Loi-cadre n° 99-12 portant Charte Nationale de l'Environnement et du Développement Durable"
+  ],
+  "demarrer_procedure": {
+    "titre": "Comment démarrer la procédure ?",
+    "instructions": "Vous pouvez lancer la procédure Etude d'impact sur l'environnement en créant un compte sur notre plateforme ou en vous adressant directement à nos conseillers."
+  }
+}

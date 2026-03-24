@@ -1,0 +1,94 @@
+{
+  "id": "INC-C003",
+  "nom": "RENOVOTEL",
+  "nom_court": "RENOVOTEL",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Financement conjoint avec les banques des programmes de rénovation des établissements d’hébergement touristique éligibles. Mode de financement des projets\nCatégorie d’établissements d’hébergement touristique 5\\*, 4\\* et HC 3\\*, 2\\*, 1\\*, RH et Maisons d’hôtes\nFonds Propres (minimum) 0,15 0,1\nRENO...",
+  "description_complete": "Financement conjoint avec les banques des programmes de rénovation des établissements d’hébergement touristique éligibles.\n\nMode de financement des projets\nCatégorie d’établissements d’hébergement touristique 5\\*, 4\\* et HC 3\\*, 2\\*, 1\\*, RH et Maisons d’hôtes\nFonds Propres (minimum) 0,15 0,1\nRENOVOTEL (maximum) 0,35 0,45\n\nLa part du RENOVOTEL est plafonnée à 20 MDH, par établissement d’hébergement touristique toutes opérations confondues, et ce par période de 10 ans à compter de la date de la dernière opération financée.\nLa part de la BANQUE dans le crédit conjoint peut bénéficier de la garantie de la CCG à hauteur de 60%.\\*\n\nCoûts des programmes de rénovation\n\nLe coût maximum des programmes de rénovation est fixé, par catégorie d’établissements d’hébergement touristique, comme suit :\nCatégorie d’établissements d’hébergement touristique Coût maximum par chambre\nHôtels 5 étoiles 250.000\nHôtels 4 étoiles 200.000\nHôtels 3 étoiles 130.000\nHôtels 2 étoiles 100.000\nHôtels 1 étoile 80.000\nHôtels Clubs ( HC) 200.000\nRésidences hôtellières (RH) 130.000\nMaisons d'hôtes 100.000",
+  "avantages": [
+    "Financement conjoint avec les banques des programmes de rénovation des établissements d’hébergement touristique éligibles.",
+    "Mode de financement des projets",
+    "Catégorie d’établissements d’hébergement touristique 5\\*, 4\\* et HC 3\\*, 2\\*, 1\\*, RH et Maisons d’hôtes",
+    "Fonds Propres (minimum) 0,15 0,1",
+    "RENOVOTEL (maximum) 0,35 0,45",
+    "La part du RENOVOTEL est plafonnée à 20 MDH, par établissement d’hébergement touristique toutes opérations confondues, et ce par période de 10 ans à compter de la date de la dernière opération financée.",
+    "La part de la BANQUE dans le crédit conjoint peut bénéficier de la garantie de la CCG à hauteur de 60%.\\*",
+    "Coûts des programmes de rénovation",
+    "Le coût maximum des programmes de rénovation est fixé, par catégorie d’établissements d’hébergement touristique, comme suit :",
+    "Catégorie d’établissements d’hébergement touristique Coût maximum par chambre",
+    "Hôtels 5 étoiles 250.000",
+    "Hôtels 4 étoiles 200.000",
+    "Hôtels 3 étoiles 130.000",
+    "Hôtels 2 étoiles 100.000",
+    "Hôtels 1 étoile 80.000"
+  ],
+  "montant_ou_taux": "60%; 20 MDH",
+  "duree": "10 ans",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Programmes de financement éligibles",
+    "Tous les investissements matériels et immatériels de mise à niveau et de repositionnement du produit ayant pour objectif la création de valeur ajoutée, l’amélioration de la qualité des prestations et la prise en compte des problématiques environnementales.",
+    "Les investissements ayant pour but l’augmentation de la capacité litière ne sont pas éligibles au financement.",
+    "Conditions du crédit conjoint",
+    "Durée de remboursement : Jusqu’à 12 ans dont un différé pouvant atteindre 2 ans ;",
+    "Taux d’intérêt : 2% l’an hors TVA pour la part du RENOVOTEL. Le taux du crédit bancaire est librement négociable.",
+    "Sûretés : Pari-passu entre la CCG et la banque intervenante"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05377-16868",
+    "www.tamwilcom.ma"
+  ],
+  "organisation": {
+    "nom": "TAMWILCOM",
+    "telephone": "05377-16868",
+    "site_web": "www.tamwilcom.ma",
+    "adresse": ""
+  },
+  "modalites": "Par l’intermédiaire de la banque.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "garantie",
+    "crédit",
+    "financement",
+    "IS",
+    "hôtel"
+  ],
+  "secteurs_map": [
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "garantie",
+    "crédit",
+    "financement",
+    "IS",
+    "hôtel"
+  ]
+}

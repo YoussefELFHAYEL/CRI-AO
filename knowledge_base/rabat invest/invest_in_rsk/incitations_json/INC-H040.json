@@ -1,0 +1,86 @@
+{
+  "id": "INC-H040",
+  "nom": "TAXE SUR LA VALEUR AJOUTEE",
+  "nom_court": "TAXE SUR LA VALEUR AJOUTEE",
+  "axe": "",
+  "type_incitation": "garantie",
+  "description_courte": "Demande de mainlevée d’hypothèque si vous êtes propriétaire de logement social. Si vous avez consenti au profit de l’Etat une hypothèque de premier ou de deuxième rang, en garantie du paiement de la TVA versée par\nl’Etat lors de l’acquisition d’un logement social, affecté à votre habitation princ...",
+  "description_complete": "Demande de mainlevée d’hypothèque si vous êtes propriétaire de logement social.\nSi vous avez consenti au profit de l’Etat une hypothèque de premier ou de deuxième rang, en garantie du paiement de la TVA versée par\nl’Etat lors de l’acquisition d’un logement social, affecté à votre habitation principale pendant\nune durée de quatre ans, vous pouvez obtenir la mainlevée en vous adressant à la Recette de l’Administration Fiscale du lieu de situation de\nvotre logement, muni des pièces suivantes:\n• une demande sur imprimé modèle;\n• une copie du contrat de vente;\n• une copie de la carte nationale d’identité comportant l’adresse du logement objet de l’hypothèque ou un certificat de résidence indiquant la durée d’habitation effective à cette adresse ;\n• les copies des quittances de paiement de la taxe de services communaux.",
+  "avantages": [
+    "Demande de mainlevée d’hypothèque si vous êtes propriétaire de logement social.",
+    "Si vous avez consenti au profit de l’Etat une hypothèque de premier ou de deuxième rang, en garantie du paiement de la TVA versée par",
+    "l’Etat lors de l’acquisition d’un logement social, affecté à votre habitation principale pendant",
+    "une durée de quatre ans, vous pouvez obtenir la mainlevée en vous adressant à la Recette de l’Administration Fiscale du lieu de situation de",
+    "votre logement, muni des pièces suivantes:",
+    "une demande sur imprimé modèle;",
+    "une copie du contrat de vente;",
+    "une copie de la carte nationale d’identité comportant l’adresse du logement objet de l’hypothèque ou un certificat de résidence indiquant la durée d’habitation effective à cette adresse ;",
+    "les copies des quittances de paiement de la taxe de services communaux."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "MRE"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "garantie",
+    "TVA",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "btp",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "garantie",
+    "TVA",
+    "IS",
+    "IR"
+  ]
+}

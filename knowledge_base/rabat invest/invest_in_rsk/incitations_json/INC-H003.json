@@ -1,0 +1,91 @@
+{
+  "id": "INC-H003",
+  "nom": "Fiscalité / Banques Offshore",
+  "nom_court": "Fiscalité / Banques Offshore",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Impôt sur le revenu\n20% libératoire de l’IR pour :. Les jetons de présence et toutes autres rémunérations brutes versés aux administrateurs",
+  "description_complete": "Impôt sur le revenu\n20% libératoire de l’IR pour :\n. Les jetons de présence et toutes autres rémunérations brutes versés aux administrateurs\n. Les traitements, émoluments et salaires bruts versés par les banques offshore à leur personnel salarié17\nImpôt sur les sociétés\n. Sur option durant les 15 premières années qui suivent la date d’obtention de l’agrément18\no soit à l’imposition au taux réduit de 10 %,\no soit au paiement de la contre-valeur en DH de 25.000 $US/an libératoire de tous autres impôts et taxes frappant les bénéfices ou revenus de ces banques\n. Exonération permanente des dividendes distribués aux actionnaires\n. Exonération permanente des intérêts et autres produits similaires servis aux titulaires des dépôts et autres placements effectués en monnaies étrangères convertibles auprès des banques offshore\nTaxe sur la valeur ajoutée\nExonération avec bénéfice du droit à déduction pour :\nLes intérêts et commissions sur les opérations de prêt et de toutes autres prestations de service effectuées par ces banques ;\nLes intérêts servis par les dépôts et autres placements effectués en monnaies étrangères convertibles auprès desdites banques ;\nLes biens d’équipement à l’état neuf nécessaires à l’exploitation acquis localement par lesdites banques ;\nLes fournitures de bureau nécessaires à l’exercice de l’activité desdites banques.\nTaxe professionnelle\n. Exonération permanente au titre des immeubles occupés par les sièges ou agences\nDroits d’enregistrement et de timbre\n. Exonération des actes de constitution et d’augmentation de capital\n. Exonération des acquisitions d’immeubles nécessaires à l’établissement de leurs sièges, agences et succursales 20",
+  "avantages": [
+    "Impôt sur le revenu",
+    "20% libératoire de l’IR pour :",
+    ". Les jetons de présence et toutes autres rémunérations brutes versés aux administrateurs",
+    ". Les traitements, émoluments et salaires bruts versés par les banques offshore à leur personnel salarié17",
+    "Impôt sur les sociétés",
+    ". Sur option durant les 15 premières années qui suivent la date d’obtention de l’agrément18",
+    "o soit à l’imposition au taux réduit de 10 %,",
+    "o soit au paiement de la contre-valeur en DH de 25.000 $US/an libératoire de tous autres impôts et taxes frappant les bénéfices ou revenus de ces banques",
+    ". Exonération permanente des dividendes distribués aux actionnaires",
+    ". Exonération permanente des intérêts et autres produits similaires servis aux titulaires des dépôts et autres placements effectués en monnaies étrangères convertibles auprès des banques offshore",
+    "Taxe sur la valeur ajoutée",
+    "Exonération avec bénéfice du droit à déduction pour :",
+    "Les intérêts et commissions sur les opérations de prêt et de toutes autres prestations de service effectuées par ces banques ;",
+    "Les intérêts servis par les dépôts et autres placements effectués en monnaies étrangères convertibles auprès desdites banques ;",
+    "Les biens d’équipement à l’état neuf nécessaires à l’exploitation acquis localement par lesdites banques ;"
+  ],
+  "montant_ou_taux": "20%; 10 %; 25.000 $",
+  "duree": "permanent",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Obtention d'un agrément délivré par le ministère chargé des Finances après avis de Bank Al-Maghrib",
+    "Exercer comme profession habituelle et principale la réception de dépôts en monnaies étrangères convertibles ;",
+    "Effectuer en ces mêmes monnaies, pour son propre compte ou pour le compte de ses clients toutes opérations financières, de crédit, de bourse ou de change."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "vert",
+    "IS",
+    "IR",
+    "offshore"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "vert",
+    "IS",
+    "IR",
+    "offshore"
+  ]
+}

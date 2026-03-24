@@ -1,0 +1,129 @@
+[
+  {
+    "reference": "INV-2024-001",
+    "nom": "Mohammed Alami",
+    "telephone": "+212600000001",
+    "projet": "Restaurant Traditionnel Rabat",
+    "societe": "Alami Food SARL",
+    "type_projet": "Création",
+    "statut": "En cours d'examen",
+    "etape": "Analyse financière",
+    "date_depot": "15/01/2024",
+    "derniere_maj": "10/03/2024",
+    "ville": "Rabat",
+    "investissement": "2,500,000 MAD",
+    "emplois_prevus": 25,
+    "historique": [
+      {"date": "15/01/2024", "action": "Dépôt du dossier", "note": "Dossier complet"},
+      {"date": "22/01/2024", "action": "Vérification administrative", "note": "Conforme"},
+      {"date": "05/02/2024", "action": "Étude de faisabilité", "note": "En cours"},
+      {"date": "10/03/2024", "action": "Analyse financière", "note": "En attente de documents complémentaires"}
+    ]
+  },
+  {
+    "reference": "INV-2024-002",
+    "nom": "Fatima Zahra Bennani",
+    "telephone": "+212600000002",
+    "projet": "Centre de Formation Numérique",
+    "societe": "DigiLearn Academy SA",
+    "type_projet": "Création",
+    "statut": "Validé",
+    "etape": "Dossier approuvé",
+    "date_depot": "03/12/2023",
+    "derniere_maj": "20/02/2024",
+    "ville": "Salé",
+    "investissement": "5,000,000 MAD",
+    "emplois_prevus": 40,
+    "historique": [
+      {"date": "03/12/2023", "action": "Dépôt du dossier", "note": ""},
+      {"date": "15/12/2023", "action": "Vérification administrative", "note": "Conforme"},
+      {"date": "10/01/2024", "action": "Étude de faisabilité", "note": "Favorable"},
+      {"date": "25/01/2024", "action": "Analyse financière", "note": "Approuvé"},
+      {"date": "20/02/2024", "action": "Validation finale", "note": "Dossier approuvé par la commission"}
+    ]
+  },
+  {
+    "reference": "INV-2024-003",
+    "nom": "Karim El Idrissi",
+    "telephone": "+212600000003",
+    "projet": "Usine de Transformation Agroalimentaire",
+    "societe": "Atlas Agro Industries SARL",
+    "type_projet": "Extension",
+    "statut": "En attente",
+    "etape": "Documents manquants",
+    "date_depot": "20/02/2024",
+    "derniere_maj": "15/03/2024",
+    "ville": "Kénitra",
+    "investissement": "15,000,000 MAD",
+    "emplois_prevus": 120,
+    "historique": [
+      {"date": "20/02/2024", "action": "Dépôt du dossier", "note": "Documents incomplets"},
+      {"date": "01/03/2024", "action": "Demande de compléments", "note": "Attestation fiscale manquante"},
+      {"date": "15/03/2024", "action": "Relance", "note": "En attente de documents"}
+    ]
+  },
+  {
+    "reference": "INV-2024-004",
+    "nom": "Amina Tazi",
+    "telephone": "+212600000004",
+    "projet": "Plateforme E-commerce Artisanat",
+    "societe": "Artisan Connect SAS",
+    "type_projet": "Création",
+    "statut": "Rejeté",
+    "etape": "Non conforme",
+    "date_depot": "10/11/2023",
+    "derniere_maj": "05/01/2024",
+    "ville": "Rabat",
+    "investissement": "800,000 MAD",
+    "emplois_prevus": 8,
+    "historique": [
+      {"date": "10/11/2023", "action": "Dépôt du dossier", "note": ""},
+      {"date": "25/11/2023", "action": "Vérification administrative", "note": "Problème registre commerce"},
+      {"date": "15/12/2023", "action": "Demande de régularisation", "note": ""},
+      {"date": "05/01/2024", "action": "Rejet", "note": "Non-conformité administrative non régularisée"}
+    ]
+  },
+  {
+    "reference": "INV-2024-005",
+    "nom": "Youssef El Mansouri",
+    "telephone": "+212600000005",
+    "projet": "Clinique Dentaire Moderne",
+    "societe": "DentaCare Pro SARL",
+    "type_projet": "Création",
+    "statut": "En cours d'examen",
+    "etape": "Visite technique programmée",
+    "date_depot": "01/03/2024",
+    "derniere_maj": "18/03/2024",
+    "ville": "Rabat",
+    "investissement": "8,500,000 MAD",
+    "emplois_prevus": 35,
+    "historique": [
+      {"date": "01/03/2024", "action": "Dépôt du dossier", "note": "Dossier complet"},
+      {"date": "08/03/2024", "action": "Vérification administrative", "note": "Conforme"},
+      {"date": "18/03/2024", "action": "Visite technique programmée", "note": "Prévue le 25/03/2024"}
+    ]
+  },
+  {
+    "reference": "INV-2023-047",
+    "nom": "Hassan Berrada",
+    "telephone": "+212600000006",
+    "projet": "Hôtel Boutique Médina",
+    "societe": "Riad Luxury Hotels SA",
+    "type_projet": "Rénovation",
+    "statut": "Validé",
+    "etape": "Convention signée",
+    "date_depot": "15/06/2023",
+    "derniere_maj": "10/12/2023",
+    "ville": "Salé",
+    "investissement": "22,000,000 MAD",
+    "emplois_prevus": 65,
+    "historique": [
+      {"date": "15/06/2023", "action": "Dépôt du dossier", "note": ""},
+      {"date": "01/07/2023", "action": "Vérification administrative", "note": "Conforme"},
+      {"date": "20/08/2023", "action": "Étude de faisabilité", "note": "Favorable"},
+      {"date": "15/10/2023", "action": "Analyse financière", "note": "Approuvé"},
+      {"date": "20/11/2023", "action": "Validation commission", "note": "Validé à l'unanimité"},
+      {"date": "10/12/2023", "action": "Signature convention", "note": "Convention d'investissement signée"}
+    ]
+  }
+]

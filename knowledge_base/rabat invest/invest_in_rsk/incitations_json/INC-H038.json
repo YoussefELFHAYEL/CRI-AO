@@ -1,0 +1,77 @@
+{
+  "id": "INC-H038",
+  "nom": "DROITS D’ENREGISTREMENT",
+  "nom_court": "DROITS D’ENREGISTREMENT",
+  "axe": "",
+  "type_incitation": "financement",
+  "description_courte": "Cas des terrains\nSont soumis au taux de 5% , les actes et conventions portant acquisition, à titre onéreux ou gratuit, de terrains nus ou comportant des constructions destinées à être démolies, immatriculés ou non immatriculés, ou de droits réels portant sur de tels terrains. Ce taux est égalemen...",
+  "description_complete": "Cas des terrains\nSont soumis au taux de 5% , les actes et conventions portant acquisition, à titre onéreux ou gratuit, de terrains nus ou comportant des constructions destinées à être démolies, immatriculés ou non immatriculés, ou de droits réels portant sur de tels terrains.\nCe taux est également appliqué aux actes et conventions portant acquisition de terrains nus ou comportant des constructions destinées à être démolies, par les établissements de crédit et organismes assimilés, objet d’opérations commerciales ou financières, dans le cadre d’un\ncontrat « Mourabaha », «Ijara Mountahia Bitamlik» ou « Moucharaka Moutanakissa.",
+  "avantages": [
+    "Cas des terrains",
+    "Sont soumis au taux de 5% , les actes et conventions portant acquisition, à titre onéreux ou gratuit, de terrains nus ou comportant des constructions destinées à être démolies, immatriculés ou non immatriculés, ou de droits réels portant sur de tels terrains.",
+    "Ce taux est également appliqué aux actes et conventions portant acquisition de terrains nus ou comportant des constructions destinées à être démolies, par les établissements de crédit et organismes assimilés, objet d’opérations commerciales ou financières, dans le cadre d’un",
+    "contrat « Mourabaha », «Ijara Mountahia Bitamlik» ou « Moucharaka Moutanakissa."
+  ],
+  "montant_ou_taux": "5%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "MRE"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "crédit",
+    "IS"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "btp",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "crédit",
+    "IS"
+  ]
+}

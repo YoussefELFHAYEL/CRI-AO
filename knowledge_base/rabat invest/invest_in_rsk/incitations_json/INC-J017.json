@@ -1,0 +1,83 @@
+{
+  "id": "INC-J017",
+  "nom": "Centres Techniques Industriels – Centre Technique du Textile et de l’Habillement (CTTH)",
+  "nom_court": "Centres Techniques Industriels – Centre Technique du Text...",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Missions du CTTH :\nAppuyer les entreprises du secteur à gagner en performance et en innovation en leur assurant un accompagnement personnalisé que ce soit dans la création, la gestion, la qualité, la production, la sécurité ou tout autre secteur. Offrir aux industriels du secteur une large gamme ...",
+  "description_complete": "Missions du CTTH :\nAppuyer les entreprises du secteur à gagner en performance et en innovation en leur assurant un accompagnement personnalisé que ce soit dans la création, la gestion, la qualité, la production, la sécurité ou tout autre secteur.\nOffrir aux industriels du secteur une large gamme de tests et essais couvrant l’ensemble des filières depuis la fibre jusqu’à l’article confectionné.\n\nLes services offerts par le CTIBA comprennent :\nRéalisation des essais de conformité sur fils et étoffes textiles.\nRéalisation des essais sur jouets.\nNormalisation\nAssistance technique et optimisation des processus industriels\nAccompagnement pour la mise en place de nouveaux projets.\nAccompagnement Organisationnel des entreprises textiles",
+  "avantages": [
+    "Missions du CTTH :",
+    "Appuyer les entreprises du secteur à gagner en performance et en innovation en leur assurant un accompagnement personnalisé que ce soit dans la création, la gestion, la qualité, la production, la sécurité ou tout autre secteur.",
+    "Offrir aux industriels du secteur une large gamme de tests et essais couvrant l’ensemble des filières depuis la fibre jusqu’à l’article confectionné.",
+    "Les services offerts par le CTIBA comprennent :",
+    "Réalisation des essais de conformité sur fils et étoffes textiles.",
+    "Réalisation des essais sur jouets.",
+    "Normalisation",
+    "Assistance technique et optimisation des processus industriels",
+    "Accompagnement pour la mise en place de nouveaux projets.",
+    "Accompagnement Organisationnel des entreprises textiles"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Assistance technique",
+    "Essais-laboratoire"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 5 22 97 56 93 / 5 22 97 34 72 / 5 22 97 39 95",
+    "www.ctth.ma"
+  ],
+  "organisation": {
+    "nom": "CTTH",
+    "telephone": "5 22 97 56 93 / 5 22 97 34 72 / 5 22 97 39 95",
+    "site_web": "www.ctth.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "innovation",
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "innovation",
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

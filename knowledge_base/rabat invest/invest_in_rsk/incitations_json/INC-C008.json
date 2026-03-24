@@ -1,0 +1,76 @@
+{
+  "id": "INC-C008",
+  "nom": "FONDS PUBLICS PRIVES\nFPP",
+  "nom_court": "FONDS PUBLICS PRIVES\nFPP",
+  "axe": "",
+  "type_incitation": "subvention",
+  "description_courte": "Tamwilcom est le principal investisseur avec des opérateurs professionnels privés dans deux fonds d’investissement 3P FUND et PME CROISSANCE dont l’objet est l’accompagnement et le financement du haut du bilan des PME à fort potentiel dont le chiffre d’affaires ne dépasse pas 100 millions de dirh...",
+  "description_complete": "Tamwilcom est le principal investisseur avec des opérateurs professionnels privés dans deux fonds d’investissement 3P FUND et PME CROISSANCE dont l’objet est l’accompagnement et le financement du haut du bilan des PME à fort potentiel dont le chiffre d’affaires ne dépasse pas 100 millions de dirhams.",
+  "avantages": [
+    "Tamwilcom est le principal investisseur avec des opérateurs professionnels privés dans deux fonds d’investissement 3P FUND et PME CROISSANCE dont l’objet est l’accompagnement et le financement du haut du bilan des PME à fort potentiel dont le chiffre d’affaires ne dépasse pas 100 millions de dirhams."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Développement",
+    "Transmission"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05377-16868",
+    "www.tamwilcom.ma"
+  ],
+  "organisation": {
+    "nom": "TAMWILCOM",
+    "telephone": "05377-16868",
+    "site_web": "www.tamwilcom.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "financement",
+    "investissement",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "financement",
+    "investissement",
+    "IS",
+    "IR"
+  ]
+}

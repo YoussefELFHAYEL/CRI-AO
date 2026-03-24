@@ -1,0 +1,84 @@
+{
+  "id": "INC-B015",
+  "nom": "Nawat Préinvestissement",
+  "nom_court": "Nawat Préinvestissement",
+  "axe": "",
+  "type_incitation": "financement",
+  "description_courte": "Accompagnement pour répondre à vos besoins, dispensée par des partenaires qualifiés dans plusieurs domaines d’entrepreneuriat. \\- Contribution financière de Maroc PME :\nMaroc PME prend en charge le coût total des actions et met à la disposition du bénéficiaire, une expertise reconnue",
+  "description_complete": "Accompagnement pour répondre à vos besoins, dispensée par des partenaires qualifiés dans plusieurs domaines d’entrepreneuriat.\n\\- Contribution financière de Maroc PME :\nMaroc PME prend en charge le coût total des actions et met à la disposition du bénéficiaire, une expertise reconnue.\nBesoins\nAccompagnement au montage du business plan (conseil sur la forme juridique la plus adaptée au projet, étude de marché ciblé, montage financier…) pour créer l’entreprise et lever un financement auprès d'organismes de financement.",
+  "avantages": [
+    "Accompagnement pour répondre à vos besoins, dispensée par des partenaires qualifiés dans plusieurs domaines d’entrepreneuriat.",
+    "Contribution financière de Maroc PME :",
+    "Maroc PME prend en charge le coût total des actions et met à la disposition du bénéficiaire, une expertise reconnue.",
+    "Accompagnement au montage du business plan (conseil sur la forme juridique la plus adaptée au projet, étude de marché ciblé, montage financier…) pour créer l’entreprise et lever un financement auprès d'organismes de financement."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "porteur de projet",
+      "TPE",
+      "auto-entrepreneur"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Jeune entrepreneur",
+      "Auto-entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "o TPE en activité disposant d’un document juridique justifiant son existence et disposant d’un programme d’investissement inférieur à 3 MDH :",
+    "o Auto-entrepreneur",
+    "o Porteur de projet",
+    "o Agissant dans les activités de transformation"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 57 44\u000bwww.marocpme.gov.ma"
+  ],
+  "organisation": {
+    "nom": "MAROC PME",
+    "telephone": "05 37 57 44",
+    "site_web": "www.marocpme.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "financement",
+    "investissement",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "financement",
+    "investissement",
+    "IS",
+    "IR"
+  ]
+}

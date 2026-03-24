@@ -1,0 +1,95 @@
+{
+  "id": "INC-H057",
+  "nom": "Impôt sur les Sociétés\nTaxe sur la Valeur Ajoutée",
+  "nom_court": "Impôt sur les Sociétés\nTaxe sur la Valeur Ajoutée",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Impôt sur les Sociétés\nSont exonérés de l’impôt sur les sociétés retenu à la source, les droits de location et les rémunérations analogues afférents à l’affrètement, la location et la maintenance d’aéronefs affectés au transport international. Taxe sur la Valeur Ajoutée\n• Sont exonérés avec droit...",
+  "description_complete": "Impôt sur les Sociétés\nSont exonérés de l’impôt sur les sociétés retenu à la source, les droits de location et les rémunérations analogues afférents à l’affrètement, la location et la maintenance d’aéronefs affectés au transport international.\nTaxe sur la Valeur Ajoutée\n• Sont exonérés avec droit à déduction :\n\\- les autocars, les camions et les biens d’équipement y afférent à inscrire dans un compte d’immobilisation, acquis par les entreprises de transport international routier. Cette exonération s’applique aux biens acquis pendant 36 mois à partir du début d’activité ;\n\\- les opérations de transport international et les prestations de services qui leur sont liées ainsi que les opérations de réparation, d’entretien, de maintenance, de transformation, d’affrètement et de location portant sur les différents moyens\nde transport international ainsi que les opérations de démantèlement des avions ;\n\\- les opérations de vente, de réparation et de transformation portant sur les bâtiments de mer : bateaux et embarcations capables, par leurs propres moyens, de tenir la mer comme moyen de transport et effectuant une navigation principalement maritime ;\n\\- les véhicules neufs acquis par les personnes physiques et destinés exclusivement à être exploités en tant que voiture de location (taxi) ;\n\\- les opérations d’achat du gasoil utilisé pour les besoins d’exploitation des véhicules de transport collectif routier des personnes et des marchandises ainsi que le transport routier des marchandises effectué par les assujettis pour leur compte et par leurs propres moyens ;\n\\- le gasoil utilisé pour les besoins d’exploitation des véhicules de transport ferroviaire des personnes et des marchandises ;\n\\- le gasoil et kérosène utilisés pour les besoins du transport aérien.\n• les opérations exclues du droit à déduction\nN’ouvre pas droit à déduction, la taxe ayant grevé les véhicules de transport de personnes, à l’exclusion de ceux utilisés pour les besoins du transport public ou du transport collectif du personnel des entreprises ou lorsqu’ils sont livrés ou financés à titre de don.\n• Sont exonérés de la taxe sur la valeur ajoutée à l’importation :\n\\- les bateaux de tout tonnage servant à la pêche maritime ;\n\\- les aéronefs réservés au transport commercial aérien international régulier ainsi que le matériel et les pièces de rechange destinés à la réparation de ces aéronefs ;\n\\- les bâtiments de mer, les navires, bateaux, paquebots et embarcations capables, par leurs propres moyens, de tenir la mer, comme moyens de transport et effectuant une navigation principalement maritime ;\n\\- les autocars, les camions et les biens d’équipement y afférents, à inscrire dans un compte d’immobilisation, acquis par les entreprises de transport international routier ;\n\\- les trains et matériels ferroviaires destinés au transport des voyageurs et des marchandises.\n• L’application du taux réduit du 14% avec droit à déduction\nLes opérations de transport de voyageurs et de marchandises bénéficient de l’application du taux réduit de TVA de 14% à l’exclusion des opérations de transport ferroviaire.",
+  "avantages": [
+    "Impôt sur les Sociétés",
+    "Sont exonérés de l’impôt sur les sociétés retenu à la source, les droits de location et les rémunérations analogues afférents à l’affrètement, la location et la maintenance d’aéronefs affectés au transport international.",
+    "Taxe sur la Valeur Ajoutée",
+    "Sont exonérés avec droit à déduction :",
+    "les autocars, les camions et les biens d’équipement y afférent à inscrire dans un compte d’immobilisation, acquis par les entreprises de transport international routier. Cette exonération s’applique aux biens acquis pendant 36 mois à partir du début d’activité ;",
+    "les opérations de transport international et les prestations de services qui leur sont liées ainsi que les opérations de réparation, d’entretien, de maintenance, de transformation, d’affrètement et de location portant sur les différents moyens",
+    "de transport international ainsi que les opérations de démantèlement des avions ;",
+    "les opérations de vente, de réparation et de transformation portant sur les bâtiments de mer : bateaux et embarcations capables, par leurs propres moyens, de tenir la mer comme moyen de transport et effectuant une navigation principalement maritime ;",
+    "les véhicules neufs acquis par les personnes physiques et destinés exclusivement à être exploités en tant que voiture de location (taxi) ;",
+    "les opérations d’achat du gasoil utilisé pour les besoins d’exploitation des véhicules de transport collectif routier des personnes et des marchandises ainsi que le transport routier des marchandises effectué par les assujettis pour leur compte et par leurs propres moyens ;",
+    "le gasoil utilisé pour les besoins d’exploitation des véhicules de transport ferroviaire des personnes et des marchandises ;",
+    "le gasoil et kérosène utilisés pour les besoins du transport aérien.",
+    "les opérations exclues du droit à déduction",
+    "N’ouvre pas droit à déduction, la taxe ayant grevé les véhicules de transport de personnes, à l’exclusion de ceux utilisés pour les besoins du transport public ou du transport collectif du personnel des entreprises ou lorsqu’ils sont livrés ou financés à titre de don.",
+    "Sont exonérés de la taxe sur la valeur ajoutée à l’importation :"
+  ],
+  "montant_ou_taux": "14%; 14%",
+  "duree": "36 mois",
+  "cible": {
+    "tailles": [
+      "sociétés"
+    ],
+    "secteurs": [
+      "transport"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "formation",
+    "TVA",
+    "IS",
+    "IR",
+    "transport",
+    "pêche"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "btp",
+    "tech",
+    "agriculture",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "formation",
+    "TVA",
+    "IS",
+    "IR",
+    "transport",
+    "pêche"
+  ]
+}

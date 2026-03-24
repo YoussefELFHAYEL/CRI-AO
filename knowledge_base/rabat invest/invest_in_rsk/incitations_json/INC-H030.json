@@ -1,0 +1,90 @@
+{
+  "id": "INC-H030",
+  "nom": "Fiscalité",
+  "nom_court": "Fiscalité",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Impôt sur les sociétés\n0% pendant 5 ans, puis 8.75% pendant 20 ans pour les entreprises qui e pour les entreprises qui exercent leurs activités dans les ZFE\n0% pendant 5 ans, puis 8.75% pendant 20 ans pour les opérations réalisées entre les entreprises installées dans la même ZFE et entre les ent...",
+  "description_complete": "Impôt sur les sociétés\n0% pendant 5 ans, puis 8.75% pendant 20 ans pour les entreprises qui e pour les entreprises qui exercent leurs activités dans les ZFE\n0% pendant 5 ans, puis 8.75% pendant 20 ans pour les opérations réalisées entre les entreprises installées dans la même ZFE et entre les entre les entreprises installées dans différentes ZFE (Loi de Finances 2012)\nExonération permanente des dividendes et autres produits de participations similaires versés, mis à la disposition ou inscrits en compte des non-résidents, provenant d’activités exercées par les sociétés installées dans les zones franches d’exportation\nImpôt sur le revenu\n0% pendant 5 ans, puis réduction d’impôt de 80 % pendant 20 ans (au titre des revenus professionnels)\n0% pendant 5 ans, puis réduction d’impôt de 80 % pendant 20 ans pour les opérations réalisées entre les entreprises installées dans la même ZFE et entre les entre les entreprises installées dans différentes ZFE (Loi de Finances2012)\nTaxe professionnelle13\nExonération pendant 15 ans\nTaxe sur la valeur ajoutée\nExonération au titre des produits livrés et les prestations de services rendues aux zones franches d’exportation et provenant du territoire assujetti\nDroits d’enregistrement et de timbre\nExonération des actes de constitution et d’augmentation de capital\nExonération des acquisitions de terrains nécessaires à la réalisation du projet d’investissement",
+  "avantages": [
+    "Impôt sur les sociétés",
+    "0% pendant 5 ans, puis 8.75% pendant 20 ans pour les entreprises qui e pour les entreprises qui exercent leurs activités dans les ZFE",
+    "0% pendant 5 ans, puis 8.75% pendant 20 ans pour les opérations réalisées entre les entreprises installées dans la même ZFE et entre les entre les entreprises installées dans différentes ZFE (Loi de Finances 2012)",
+    "Exonération permanente des dividendes et autres produits de participations similaires versés, mis à la disposition ou inscrits en compte des non-résidents, provenant d’activités exercées par les sociétés installées dans les zones franches d’exportation",
+    "Impôt sur le revenu",
+    "0% pendant 5 ans, puis réduction d’impôt de 80 % pendant 20 ans (au titre des revenus professionnels)",
+    "0% pendant 5 ans, puis réduction d’impôt de 80 % pendant 20 ans pour les opérations réalisées entre les entreprises installées dans la même ZFE et entre les entre les entreprises installées dans différentes ZFE (Loi de Finances2012)",
+    "Taxe professionnelle13",
+    "Exonération pendant 15 ans",
+    "Taxe sur la valeur ajoutée",
+    "Exonération au titre des produits livrés et les prestations de services rendues aux zones franches d’exportation et provenant du territoire assujetti",
+    "Droits d’enregistrement et de timbre",
+    "Exonération des actes de constitution et d’augmentation de capital",
+    "Exonération des acquisitions de terrains nécessaires à la réalisation du projet d’investissement"
+  ],
+  "montant_ou_taux": "0%; 75%; 0%",
+  "duree": "5 ans",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Exportateur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Au moins 70% du chiffre d’affaires doit être réalisé à l’export."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": 70,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "export",
+    "investissement",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "export",
+    "investissement",
+    "IS",
+    "IR"
+  ]
+}

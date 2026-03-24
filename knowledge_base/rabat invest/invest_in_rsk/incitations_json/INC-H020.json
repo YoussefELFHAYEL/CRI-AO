@@ -1,0 +1,84 @@
+{
+  "id": "INC-H020",
+  "nom": "Fonds de Développement Agricole : Subvention promotion et diversification des exportations",
+  "nom_court": "Fonds de Développement Agricole : Subvention promotion et...",
+  "axe": "",
+  "type_incitation": "subvention",
+  "description_courte": "Subvention promotion et diversification des exportations\nSubvention accordée par type de produit agricole pour la promotion de l’exportation:\nProduits frais végétaux (agrumes ,tomate ,fraise): 500DH/T à 750DH/T exportée\nProduits valorisés (Huile d’olives conditionnés, olives de table conditionnés...",
+  "description_complete": "Subvention promotion et diversification des exportations\nSubvention accordée par type de produit agricole pour la promotion de l’exportation:\nProduits frais végétaux (agrumes ,tomate ,fraise): 500DH/T à 750DH/T exportée\nProduits valorisés (Huile d’olives conditionnés, olives de table conditionnés, abricot conditionné ou surgelé, autres produits): 750DH/T à 4000DH/T exportée.\nFruits et légumes frais, fleurs coupées et plantes ornementales exportés par voie aérienne: 1DH/KG à 4,5DH/KG.",
+  "avantages": [
+    "Subvention promotion et diversification des exportations",
+    "Subvention accordée par type de produit agricole pour la promotion de l’exportation:",
+    "Produits frais végétaux (agrumes ,tomate ,fraise): 500DH/T à 750DH/T exportée",
+    "Produits valorisés (Huile d’olives conditionnés, olives de table conditionnés, abricot conditionné ou surgelé, autres produits): 750DH/T à 4000DH/T exportée.",
+    "Fruits et légumes frais, fleurs coupées et plantes ornementales exportés par voie aérienne: 1DH/KG à 4,5DH/KG."
+  ],
+  "montant_ou_taux": "500DH; 750DH; 750DH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Exportateur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Exportateurs de produits agricoles;",
+    "La demande de subvention doit être déposée dans un délai n’excédant pas :",
+    "12 mois à compter de la date de fin de la campagne d’exportation des produits agricoles d’origine végétale.",
+    "12 mois à compter de la date d’exportation des produits agricoles d’origine animale, des fruites et légumes frais, des fleurs coupées et des plantes ornementales.",
+    "24 mois à compter de la date d’exportation des fruits et légumes frais, fleurs coupées et les plantes ornementales pour les transporteurs aériens"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Demande d’approbation préalable",
+    "Demande de subvention",
+    "Dossiers juridiques ,techniques ou financiers liés au projet"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale de l’Agriculture",
+    "telephone": "0537 374242",
+    "site_web": "www.agriculture.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nDemande d’approbation préalable\nDemande de subvention\nDossiers juridiques ,techniques ou financiers liés au projet",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "subvention",
+    "export",
+    "IS"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services",
+    "agriculture"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "subvention",
+    "export",
+    "IS"
+  ]
+}

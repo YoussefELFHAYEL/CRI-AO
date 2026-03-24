@@ -1,0 +1,79 @@
+{
+  "id": "INC-C014",
+  "nom": "INNOV START",
+  "nom_court": "INNOV START",
+  "axe": "",
+  "type_incitation": "financement",
+  "description_courte": "Le financement est octroyé sous forme de prêt d’honneur (prêt sans suretés et sans intérêts) plafonné à :\n250.000 DH par porteur de projet\n500.000 DH en cas de projet présenté par deux candidats ou plus\nLe financement est conditionné par la conclusion d’une convention d’accompagnement entre la ci...",
+  "description_complete": "Le financement est octroyé sous forme de prêt d’honneur (prêt sans suretés et sans intérêts) plafonné à :\n250.000 DH par porteur de projet\n500.000 DH en cas de projet présenté par deux candidats ou plus\nLe financement est conditionné par la conclusion d’une convention d’accompagnement entre la cible éligible et la structure labélisée.",
+  "avantages": [
+    "Le financement est octroyé sous forme de prêt d’honneur (prêt sans suretés et sans intérêts) plafonné à :",
+    "250.000 DH par porteur de projet",
+    "500.000 DH en cas de projet présenté par deux candidats ou plus",
+    "Le financement est conditionné par la conclusion d’une convention d’accompagnement entre la cible éligible et la structure labélisée."
+  ],
+  "montant_ou_taux": "250.000 DH; 500.000 DH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "porteur de projet"
+    ],
+    "secteurs": [
+      "technologie"
+    ],
+    "profils_speciaux": [
+      "Jeune entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Sont finançables par le prêt d’honneur au titre d’un projet innovant, les dépenses liées notamment aux éléments suivants :",
+    "Prototypage et de tests",
+    "Location/mise à disposition de facilités techniques, de laboratoires, de serveurs…",
+    "Sondage et étude de marché",
+    "Elaboration de la stratégie et du business modèle/business plan…"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05377-16868",
+    "www.tamwilcom.ma"
+  ],
+  "organisation": {
+    "nom": "TAMWILCOM",
+    "telephone": "05377-16868",
+    "site_web": "www.tamwilcom.ma",
+    "adresse": ""
+  },
+  "modalites": "Période de différé de 2 ans à partir de la réalisation et exploitation du projet\nRemboursement sur une durée de 5 ans",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "financement",
+    "IS"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "financement",
+    "IS"
+  ]
+}

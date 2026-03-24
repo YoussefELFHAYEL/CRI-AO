@@ -1,0 +1,89 @@
+{
+  "id": "INC-H022",
+  "nom": "PROGRAMME D’APPUI AUX CONSORTIUMS...",
+  "nom_court": "PROGRAMME D’APPUI AUX CONSORTIUMS...",
+  "axe": "",
+  "type_incitation": "autre",
+  "description_courte": "Programme d’appui aux consortiums d’exportation dans les phases de:\n\nDémarrage et de structuration\nDéveloppement à l'international\nConsolidation\n\nAppui financier plafonné à 1,5 millions de dirhams par consortium sur une durée de 24 mois, destiné à couvrir les frais de mise en place de la structur...",
+  "description_complete": "Programme d’appui aux consortiums d’exportation dans les phases de:\n\nDémarrage et de structuration\nDéveloppement à l'international\nConsolidation\n\nAppui financier plafonné à 1,5 millions de dirhams par consortium sur une durée de 24 mois, destiné à couvrir les frais de mise en place de la structure du consortium ainsi que les actions entrant dans le cadre de son développement et de sa consolidation à l’international.\nIl est octroyé selon les quotités suivantes :\n• Quote-part de l’Etat : 65% du coût des actions engagées par le consortium,\n• Quote-part du consortium d’exportation: 35% du coût des actions engagées par le consortium.\n• Le plafond est fixé à 500.000DH TTC pour chaque phase :démarrage ,développement et consolidation.",
+  "avantages": [
+    "Programme d’appui aux consortiums d’exportation dans les phases de:",
+    "Démarrage et de structuration",
+    "Développement à l'international",
+    "Consolidation",
+    "Appui financier plafonné à 1,5 millions de dirhams par consortium sur une durée de 24 mois, destiné à couvrir les frais de mise en place de la structure du consortium ainsi que les actions entrant dans le cadre de son développement et de sa consolidation à l’international.",
+    "Il est octroyé selon les quotités suivantes :",
+    "Quote-part de l’Etat : 65% du coût des actions engagées par le consortium,",
+    "Quote-part du consortium d’exportation: 35% du coût des actions engagées par le consortium.",
+    "Le plafond est fixé à 500.000DH TTC pour chaque phase :démarrage ,développement et consolidation."
+  ],
+  "montant_ou_taux": "65%; 35%; 500.000DH",
+  "duree": "24 mois",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPE",
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Entreprises et/ou de coopératives exportatrices ou potentiellement exportatrices, tous secteurs confondus, qui remplissent les conditions suivantes :",
+    "Faire partie d’un consortium constitué d’au moins 3 entreprises de droit marocain ou coopératives",
+    "Etre en situation régulière vis-à-vis de la CNSS et de l’administration fiscale",
+    "Réaliser un chiffre d’affaires inférieur ou égal à 175 millions de dirhams hors taxes par an."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : +212 5 37 70 18 46",
+    "www.mce.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Secrétariat d’état chargé du Commerce Extérieur",
+    "telephone": "+212 5 37 70 18 46",
+    "site_web": "www.mce.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "export",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "services",
+    "agriculture",
+    "tech",
+    "btp",
+    "commerce"
+  ],
+  "tailles_map": [
+    "ge",
+    "tpe",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "export",
+    "IS",
+    "IR"
+  ]
+}

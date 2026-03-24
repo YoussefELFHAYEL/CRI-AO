@@ -1,0 +1,94 @@
+{
+  "id": "INC-J016",
+  "nom": "Centres Techniques Industriels – Centre Technique de Plasturgie et de Caoutchouc (CTPC)",
+  "nom_court": "Centres Techniques Industriels – Centre Technique de Plas...",
+  "axe": "",
+  "type_incitation": "garantie",
+  "description_courte": "Missions du CTPC :\nL'amélioration de la productivité, des techniques et des performances,\nLa promotion et la garantie de la qualité des produits et services,\nLa diffusion et le développement des nouvelles technologies au sein des entreprises,\nLa contribution ‡\nLa contribution à l'amélioration de ...",
+  "description_complete": "Missions du CTPC :\nL'amélioration de la productivité, des techniques et des performances,\nLa promotion et la garantie de la qualité des produits et services,\nLa diffusion et le développement des nouvelles technologies au sein des entreprises,\nLa contribution ‡\nLa contribution à l'amélioration de la créativité et l‘élaboration de nouveaux produits.\n\nLes services offerts par le CTPC comprennent :\nEssais de conformité selon les normes et la réglementation en vigueur\nCertification produit\nAssistance technique\nAmélioration de la productivité\nInnovation et R&D\nVeille normative, réglementaire et technologique\nFormations spécifiques",
+  "avantages": [
+    "Missions du CTPC :",
+    "L'amélioration de la productivité, des techniques et des performances,",
+    "La promotion et la garantie de la qualité des produits et services,",
+    "La diffusion et le développement des nouvelles technologies au sein des entreprises,",
+    "La contribution ‡",
+    "La contribution à l'amélioration de la créativité et l‘élaboration de nouveaux produits.",
+    "Les services offerts par le CTPC comprennent :",
+    "Essais de conformité selon les normes et la réglementation en vigueur",
+    "Certification produit",
+    "Assistance technique",
+    "Amélioration de la productivité",
+    "Innovation et R&D",
+    "Veille normative, réglementaire et technologique",
+    "Formations spécifiques"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Analyses mécaniques et rhéologiques",
+    "Analyses chimiques et physico-chimiques",
+    "Caractérisation des matériaux;",
+    "Etude et expertise",
+    "Optimisation de la production;"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05 22 58 09 77 / 09 50",
+    "www.ctiba.org"
+  ],
+  "organisation": {
+    "nom": "CTPC",
+    "telephone": "05 22 58 09 77 / 09 50",
+    "site_web": "www.ctiba.org",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "garantie",
+    "formation",
+    "innovation",
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "garantie",
+    "formation",
+    "innovation",
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

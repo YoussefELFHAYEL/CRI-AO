@@ -1,0 +1,27 @@
+{
+  "faq_id": "faq_suivi_avancement_dossiers",
+  "category": "Suivi d’avancements des dossiers",
+  "source": "https://cri-invest.ma/faq",
+  "items": [
+    {
+      "question": "Quels sont les moyens par lesquels je serai notifié sur l’état de l’avancement de mon dossier ?",
+      "answer": "Vous serez notifié par l’un des deux moyens suivants : par email ; par notifications via la plateforme CRI-INVEST.",
+      "tags": ["notification", "email", "suivi", "avancement", "plateforme"]
+    },
+    {
+      "question": "Qu’est-ce que je dois faire si je ne reçois pas de retour sur mon dossier ?",
+      "answer": "Si vous ne recevez pas de retour sur votre dossier au-delà des délais réglementaires, nous vous invitons à contacter votre conseiller CRI afin d’obtenir plus d’informations.",
+      "tags": ["retard", "délais réglementaires", "suivi", "contact conseiller"]
+    },
+    {
+      "question": "Est-ce que je peux demander plusieurs actes à la fois ?",
+      "answer": "Vous pouvez demander plusieurs actes à la fois en fonction de la nature de votre projet.",
+      "tags": ["actes", "demande multiple", "procédures", "projet"]
+    },
+    {
+      "question": "Est-ce que je peux modifier mon dossier après réception d’un avis défavorable ?",
+      "answer": "Après un avis défavorable, votre dossier ne peut plus être modifié. Vous avez alors la possibilité d’introduire un recours directement via la plateforme CRI-INVEST.",
+      "tags": ["avis défavorable", "modification", "recours", "plateforme"]
+    }
+  ]
+}

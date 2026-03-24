@@ -1,0 +1,76 @@
+{
+  "id": "INC-D003",
+  "nom": "FINEA– IMEDIA",
+  "nom_court": "FINEA– IMEDIA",
+  "axe": "",
+  "type_incitation": "financement",
+  "description_courte": "Il s’agit d’une avance octroyée par Finéa afin de permettre aux entreprises de disposer dans l’immédiat de liquidités et ce, dans l’objectif de combler les délais nécessaires à la mise en place par les banques partenaires des lignes ASMN Finéa. Finéa Imédia est une alternance de financement efficace",
+  "description_complete": "Il s’agit d’une avance octroyée par Finéa afin de permettre aux entreprises de disposer dans l’immédiat de liquidités et ce, dans l’objectif de combler les délais nécessaires à la mise en place par les banques partenaires des lignes ASMN Finéa.\n\nFinéa Imédia est une alternance de financement efficace. Une fois le financement accordé que ce soit sous forme d’Avance pré-facturation, d’Avance facturation ou encore d’Avance droits constatés, Finéa Imédia représente une alternative de financement efficace en attendant l’ouverture de la ligne de crédit auprès de la banque partenaire. Finéa Imédia s’adresse aux entreprises adjudicataires de marchés publics ou privés éligibles à une avance sur marché.",
+  "avantages": [
+    "Il s’agit d’une avance octroyée par Finéa afin de permettre aux entreprises de disposer dans l’immédiat de liquidités et ce, dans l’objectif de combler les délais nécessaires à la mise en place par les banques partenaires des lignes ASMN Finéa.",
+    "Finéa Imédia est une alternance de financement efficace. Une fois le financement accordé que ce soit sous forme d’Avance pré-facturation, d’Avance facturation ou encore d’Avance droits constatés, Finéa Imédia représente une alternative de financement efficace en attendant l’ouverture de la ligne de crédit auprès de la banque partenaire. Finéa Imédia s’adresse aux entreprises adjudicataires de marchés publics ou privés éligibles à une avance sur marché."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "toutes tailles"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Entreprises adjudicataires de marchés publics ou privés éligibles à une avance sur marché."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "http://www.finea.ma/sites/default/files/2020-10/PSFE-FR14-V08-Formulaire Demande de Financement Nouvelle affaire et Renouvellement (1).pdf"
+  ],
+  "organisation": {
+    "nom": "FINEA",
+    "telephone": "05 20 30 35 30",
+    "site_web": "www.finea.ma/",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nhttp://www.finea.ma/sites/default/files/2020-10/PSFE-FR14-V08-Formulaire Demande de Financement Nouvelle affaire et Renouvellement (1).pdf",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "crédit",
+    "financement",
+    "vert",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "crédit",
+    "financement",
+    "vert",
+    "IS",
+    "IR"
+  ]
+}

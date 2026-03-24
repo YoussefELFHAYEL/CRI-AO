@@ -1,0 +1,96 @@
+{
+  "id": "INC-C012",
+  "nom": "DAMANE ISTITMAR",
+  "nom_court": "DAMANE ISTITMAR",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Crédits bancaires à moyen et long termes et crédits-bails supérieurs à 1 MDH. Concours garantis\nCrédits bancaires à moyen et long termes et crédits-bails supérieurs à 1 MDH",
+  "description_complete": "Crédits bancaires à moyen et long termes et crédits-bails supérieurs à 1 MDH.\n\nConcours garantis\nCrédits bancaires à moyen et long termes et crédits-bails supérieurs à 1 MDH.\nMode de financement des projets/opérations\nJusqu’à 100% du coût du programme ou de l’opération finançable.\nQuotité de garantie\n60% du crédit en principal pour les concours destinés au financement des programmes d’investissement, des opérations de transmission ou de reprise d’affaires ; Cette quotité de garantie peut être augmentée de 10% supplémentaires au titre de l’un des cas suivants : - Les entreprises en création ayant moins de 3 ans d’activité, - Les entreprises industrielles, exportatrices et celles opérant dans l’économie verte ayant réalisé un audit externe concluant sur la gouvernance de l’entreprise ou disposant d’un rapport du CAC certifiant, sans réserve, ses comptes au titre du dernier exercice clos.\n50% du crédit en principal pour les concours destinés au financement des opérations de restructuration financière.\nPlafond de risque de la garantie\n2% flat (HT) calculé sur le montant du crédit. En cas de plafonnement de la garantie, l’assiette à retenir pour le calcul de la commission est l’équivalent du crédit qui correspond à la garantie donnée.",
+  "avantages": [
+    "Crédits bancaires à moyen et long termes et crédits-bails supérieurs à 1 MDH.",
+    "Concours garantis",
+    "Crédits bancaires à moyen et long termes et crédits-bails supérieurs à 1 MDH.",
+    "Mode de financement des projets/opérations",
+    "Jusqu’à 100% du coût du programme ou de l’opération finançable.",
+    "Quotité de garantie",
+    "60% du crédit en principal pour les concours destinés au financement des programmes d’investissement, des opérations de transmission ou de reprise d’affaires ; Cette quotité de garantie peut être augmentée de 10% supplémentaires au titre de l’un des cas suivants : - Les entreprises en création ayant moins de 3 ans d’activité, - Les entreprises industrielles, exportatrices et celles opérant dans l’économie verte ayant réalisé un audit externe concluant sur la gouvernance de l’entreprise ou disposant d’un rapport du CAC certifiant, sans réserve, ses comptes au titre du dernier exercice clos.",
+    "50% du crédit en principal pour les concours destinés au financement des opérations de restructuration financière.",
+    "Plafond de risque de la garantie",
+    "2% flat (HT) calculé sur le montant du crédit. En cas de plafonnement de la garantie, l’assiette à retenir pour le calcul de la commission est l’équivalent du crédit qui correspond à la garantie donnée."
+  ],
+  "montant_ou_taux": "100%; 60%; 10%; 1 MDH; 1 MDH",
+  "duree": "3 ans",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Programmes et opérations finançables",
+    "Programmes d’investissement, opérations de restructuration financière, de transmission ou de reprise d’affaires."
+  ],
+  "conditions": {
+    "investissement_min": 1000000,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05377-16868",
+    "www.tamwilcom.ma"
+  ],
+  "organisation": {
+    "nom": "TAMWILCOM",
+    "telephone": "05377-16868",
+    "site_web": "www.tamwilcom.ma",
+    "adresse": ""
+  },
+  "modalites": "Par l’intermédiaire de la banque ou d’une société de leasing.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "garantie",
+    "crédit",
+    "financement",
+    "export",
+    "investissement",
+    "vert",
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "garantie",
+    "crédit",
+    "financement",
+    "export",
+    "investissement",
+    "vert",
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "INC-J018",
+  "nom": "Centres Techniques Industriels – Centre Technique des Industries du Bois et de l’Ameublement",
+  "nom_court": "Centres Techniques Industriels – Centre Technique des Ind...",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Missions du CTIBA :\nEssai\nFormation\nAssistance\nExpertise\nRecherche et développement\n\nLes services offerts par le CTIBA comprennent un avis d’expert pour :\nChoisir les matériaux et composants conformes. La validation par l’essai des prototypes des nouveaux produits",
+  "description_complete": "Missions du CTIBA :\nEssai\nFormation\nAssistance\nExpertise\nRecherche et développement\n\nLes services offerts par le CTIBA comprennent un avis d’expert pour :\nChoisir les matériaux et composants conformes.\nLa validation par l’essai des prototypes des nouveaux produits.\nLa constitution d’un dossier technique comprenant:\nL’audit de conception vis-à-vis des règles de conception (normes et DTU),\nEssais mécaniques et le classement AEV sur les menuiseries\nLe calcul thermique,\nLes essais acoustiques (en partenariat avec les centres techniques européens)\nOffrir les preuves de conformité de vos produits de point de vue dimensionnelle, durabilité vieillissement, essai physique et mécanique, performances des composants et comportement au feu.\nAccompagnement des entreprises pour la mise en place de vos ateliers de bois et de l’ameublement",
+  "avantages": [
+    "Missions du CTIBA :",
+    "Recherche et développement",
+    "Les services offerts par le CTIBA comprennent un avis d’expert pour :",
+    "Choisir les matériaux et composants conformes.",
+    "La validation par l’essai des prototypes des nouveaux produits.",
+    "La constitution d’un dossier technique comprenant:",
+    "L’audit de conception vis-à-vis des règles de conception (normes et DTU),",
+    "Essais mécaniques et le classement AEV sur les menuiseries",
+    "Le calcul thermique,",
+    "Les essais acoustiques (en partenariat avec les centres techniques européens)",
+    "Offrir les preuves de conformité de vos produits de point de vue dimensionnelle, durabilité vieillissement, essai physique et mécanique, performances des composants et comportement au feu.",
+    "Accompagnement des entreprises pour la mise en place de vos ateliers de bois et de l’ameublement"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Menuiserie (fenêtre, porte, garde-corps, etc…)",
+    "Construction en bois (charpente, fermeture, maison à ossature bois, etc…)",
+    "Ameublement et agencement",
+    "Panneaux (contreplaqués, panneaux de particules, MDF)",
+    "Verres dans la construction",
+    "Finition peinture et vernis",
+    "Scierie et Emballage",
+    "Artisanat, Patrimoine et Métrologie",
+    "Formation et expertise"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05 22 58 23 80 / 05 22 58 09 39",
+    "www.ctiba.org"
+  ],
+  "organisation": {
+    "nom": "CTIBA",
+    "telephone": "05 22 58 23 80 / 05 22 58 09 39",
+    "site_web": "www.ctiba.org",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "btp",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

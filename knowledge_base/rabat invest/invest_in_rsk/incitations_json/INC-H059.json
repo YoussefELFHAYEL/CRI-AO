@@ -1,0 +1,73 @@
+{
+  "id": "INC-H059",
+  "nom": "Impôt sur les Sociétés\nImpot sur le Revenu",
+  "nom_court": "Impôt sur les Sociétés\nImpot sur le Revenu",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Impôt sur les Sociétés\nLes entreprises artisanales dont la production est le résultat d’un travail essentiellement manuel, bénéficient des taux réduits définis dans le barème progressif avec plafonnement du taux marginal de ce barème pour cette catégorie d’entreprises à 20% au titre de l’impôt su...",
+  "description_complete": "Impôt sur les Sociétés\nLes entreprises artisanales dont la production est le résultat d’un travail essentiellement manuel, bénéficient des taux réduits définis dans le barème progressif avec plafonnement du taux marginal de ce barème pour cette catégorie d’entreprises à 20% au titre de l’impôt sur les sociétés, et ce pendant les (5) premiers exercices consécutifs suivant la date du début de leur exploitation.\nImpôt sur le Revenu\nLes entreprises artisanales dont la production est le résultat d’un travail essentiellement manuel bénéficient de l’imposition temporaire au taux réduit de 20% au titre de l’impôt sur le revenu pendant les cinq premiers exercices consécutifs suivant la date du début de leur exploitation.",
+  "avantages": [
+    "Impôt sur les Sociétés",
+    "Les entreprises artisanales dont la production est le résultat d’un travail essentiellement manuel, bénéficient des taux réduits définis dans le barème progressif avec plafonnement du taux marginal de ce barème pour cette catégorie d’entreprises à 20% au titre de l’impôt sur les sociétés, et ce pendant les (5) premiers exercices consécutifs suivant la date du début de leur exploitation.",
+    "Impôt sur le Revenu",
+    "Les entreprises artisanales dont la production est le résultat d’un travail essentiellement manuel bénéficient de l’imposition temporaire au taux réduit de 20% au titre de l’impôt sur le revenu pendant les cinq premiers exercices consécutifs suivant la date du début de leur exploitation."
+  ],
+  "montant_ou_taux": "20%; 20%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "IS",
+    "IR"
+  ]
+}

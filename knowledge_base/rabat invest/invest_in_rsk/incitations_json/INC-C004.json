@@ -1,0 +1,97 @@
+{
+  "id": "INC-C004",
+  "nom": "GREEN INVEST",
+  "nom_court": "GREEN INVEST",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Financement conjoint avec les banques des projets d’acquisition des biens matériels et/ou immatériels ainsi que des installations techniques et des constructions en faveur des entreprises. Quotité de financement\nLes programmes d’investissement seront financés par les fonds propres et/ou l’autofin...",
+  "description_complete": "Financement conjoint avec les banques des projets d’acquisition des biens matériels et/ou immatériels ainsi que des installations techniques et des constructions en faveur des entreprises.\n\nQuotité de financement\nLes programmes d’investissement seront financés par les fonds propres et/ou l’autofinancement et par le crédit conjoint, constitué de la part du GREEN INVEST et de celle de la banque et ce, dans les proportions ci-après :\nFonds propres et/ou autofinancement : 20% au minimum (les dons, subventions, primes d’investissement et prix des concours sont assimilés à des fonds propres) ;\nPart de GREEN INVEST : 40% au maximum avec un plafond de 10 MDH ;\nPart de la banque : le reliquat, sans que cette part ne soit inférieure à la part du GEEN INVEST.",
+  "avantages": [
+    "Financement conjoint avec les banques des projets d’acquisition des biens matériels et/ou immatériels ainsi que des installations techniques et des constructions en faveur des entreprises.",
+    "Quotité de financement",
+    "Les programmes d’investissement seront financés par les fonds propres et/ou l’autofinancement et par le crédit conjoint, constitué de la part du GREEN INVEST et de celle de la banque et ce, dans les proportions ci-après :",
+    "Fonds propres et/ou autofinancement : 20% au minimum (les dons, subventions, primes d’investissement et prix des concours sont assimilés à des fonds propres) ;",
+    "Part de GREEN INVEST : 40% au maximum avec un plafond de 10 MDH ;",
+    "Part de la banque : le reliquat, sans que cette part ne soit inférieure à la part du GEEN INVEST."
+  ],
+  "montant_ou_taux": "20%; 40%; 10 MDH; plafond de 10 MDH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Opérations éligibles:",
+    "L’acquisition des biens matériels et/ou immatériels ainsi que des installations techniques et des constructions à condition que les constructions ne dépassent pas 20% du coût global du projet. Les projets doivent rentrer dans l’une des catégories suivantes et respecter les critères y associés tels que décrits ci-dessous :",
+    "Energie renouvelable",
+    "Efficacité énergétique",
+    "Dépollution et économie des ressources",
+    "Valorisation des déchets",
+    "Fabrication d’équipements liés aux projets éligibles",
+    "Financement éligible:",
+    "Cofinancement jumelé à des prêts accordés par les banques signataires de la convention relative au Fonds TAMWIL avec la CCG.",
+    "Conditions du crédit conjoint",
+    "Durée : 12 ans au maximum dont un différé en principal n’excédant pas    4 ans.",
+    "Taux d’intérêt pour la part du GREEN INVEST : 2,5 % l'an hors TVA, applicable au montant total du crédit.",
+    "Taux du crédit bancaire : librement négociable entre la banque et l’entreprise.",
+    "Sûretés : Pari-passu entre la CCG et la banque intervenante."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05377-16868",
+    "www.tamwilcom.ma"
+  ],
+  "organisation": {
+    "nom": "TAMWILCOM",
+    "telephone": "05377-16868",
+    "site_web": "www.tamwilcom.ma",
+    "adresse": ""
+  },
+  "modalites": "Par l’intermédiaire de la banque.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "subvention",
+    "prime",
+    "crédit",
+    "financement",
+    "investissement",
+    "IS"
+  ],
+  "secteurs_map": [
+    "btp",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "subvention",
+    "prime",
+    "crédit",
+    "financement",
+    "investissement",
+    "IS"
+  ]
+}

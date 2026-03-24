@@ -1,0 +1,68 @@
+{
+  "id": "INC-H016",
+  "nom": "FONDS DE DEVELOPPEMENT AGRICOLE Subvention amélioration génétique",
+  "nom_court": "FONDS DE DEVELOPPEMENT AGRICOLE Subvention amélioration g...",
+  "axe": "",
+  "type_incitation": "subvention",
+  "description_courte": "Subvention amélioration génétique (ovins, bovins, caprins, camelins, abeilles)\n• Ovins: 700DH à 850DH/tête\u000b• Bovins: 4 000 DH/tête née du 1er janvier 2019 au 31 décembre 2020\u000b• Caprins: 550DH à 750DH/tête\u000b• Camelins: 5000DH/tête\u000b• Production des reines d’abeilles reproductrices sélectionnées: 250...",
+  "description_complete": "Subvention amélioration génétique (ovins, bovins, caprins, camelins, abeilles)\n• Ovins: 700DH à 850DH/tête\u000b• Bovins: 4 000 DH/tête née du 1er janvier 2019 au 31 décembre 2020\u000b• Caprins: 550DH à 750DH/tête\u000b• Camelins: 5000DH/tête\u000b• Production des reines d’abeilles reproductrices sélectionnées: 250 DH/Ruchette de « reines » d’abeilles reproductrices sélectionnées pour les éleveurs individuels et 300 DH/Ruchette de « reines » d’abeilles reproductrices sélectionnées pour le groupement d’éleveurs",
+  "avantages": [
+    "Subvention amélioration génétique (ovins, bovins, caprins, camelins, abeilles)",
+    "Ovins: 700DH à 850DH/tête\u000b• Bovins: 4 000 DH/tête née du 1er janvier 2019 au 31 décembre 2020\u000b• Caprins: 550DH à 750DH/tête\u000b• Camelins: 5000DH/tête\u000b• Production des reines d’abeilles reproductrices sélectionnées: 250 DH/Ruchette de « reines » d’abeilles reproductrices sélectionnées pour les éleveurs individuels et 300 DH/Ruchette de « reines » d’abeilles reproductrices sélectionnées pour le groupement d’éleveurs"
+  ],
+  "montant_ou_taux": "700DH; 850DH; 4 000 DH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "personne physique"
+    ],
+    "secteurs": [
+      "agriculture"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Agriculteur ou société ayant réalisé des investissements en amélioration génétique\u000bLa demande de subvention doit être déposée dans un délai n’excédant pas:\u000b• 12 mois à compter de la date d’approbation préalable pour l’acquisition de reproducteurs camelins\u000b• 12 mois à compter de la date du PV de sélection de la production des reproducteurs ovins, bovins, caprins et reines d’abeilles"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Demande d’approbation préalable",
+    "Demande de subvention",
+    "Dossiers juridiques ,techniques ou financiers liés au projet"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale de l’Agriculture",
+    "telephone": "0537 374242",
+    "site_web": "www.agriculture.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nDemande d’approbation préalable\nDemande de subvention\nDossiers juridiques ,techniques ou financiers liés au projet",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "subvention"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "agriculture"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "subvention"
+  ]
+}

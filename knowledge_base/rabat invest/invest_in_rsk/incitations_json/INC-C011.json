@@ -1,0 +1,88 @@
+{
+  "id": "INC-C011",
+  "nom": "DAMANE ATTASYIR",
+  "nom_court": "DAMANE ATTASYIR",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Garantie des crédits bancaires de fonctionnement relatifs au cycle d’exploitation des entreprises à compter de la date de réception du dossier complet par la banque. Besoins finançables:\nLes besoins de financement liés au cycle d’exploitation des entreprises\nConcours garantis\nCrédits de fonctionn...",
+  "description_complete": "Garantie des crédits bancaires de fonctionnement relatifs au cycle d’exploitation des entreprises à compter de la date de réception du dossier complet par la banque.\n\nBesoins finançables:\nLes besoins de financement liés au cycle d’exploitation des entreprises\nConcours garantis\nCrédits de fonctionnement supérieurs à 1 MDH.\nDurée de validité de la garantie\n18 mois à compter de la date de notification de l’accord en cas de non renouvellement\nQuotité de garantie\n60% du crédit en principal.\nCommission de la garantie\n0,5% (HT) par opération calculée sur le montant du crédit à l’émission de la garantie et à chaque renouvellement. En cas de plafonnement de la garantie, l’assiette à retenir est l’équivalent du crédit qui correspond à la garantie donnée",
+  "avantages": [
+    "Garantie des crédits bancaires de fonctionnement relatifs au cycle d’exploitation des entreprises à compter de la date de réception du dossier complet par la banque.",
+    "Besoins finançables:",
+    "Les besoins de financement liés au cycle d’exploitation des entreprises",
+    "Concours garantis",
+    "Crédits de fonctionnement supérieurs à 1 MDH.",
+    "Durée de validité de la garantie",
+    "18 mois à compter de la date de notification de l’accord en cas de non renouvellement",
+    "Quotité de garantie",
+    "60% du crédit en principal.",
+    "Commission de la garantie",
+    "0,5% (HT) par opération calculée sur le montant du crédit à l’émission de la garantie et à chaque renouvellement. En cas de plafonnement de la garantie, l’assiette à retenir est l’équivalent du crédit qui correspond à la garantie donnée"
+  ],
+  "montant_ou_taux": "60%; 5%; 1 MDH",
+  "duree": "18 mois",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre",
+    "Par l’intermédiaire de la banque."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05377-16868",
+    "www.tamwilcom.ma"
+  ],
+  "organisation": {
+    "nom": "TAMWILCOM",
+    "telephone": "05377-16868",
+    "site_web": "www.tamwilcom.ma",
+    "adresse": ""
+  },
+  "modalites": "Par l’intermédiaire de la banque.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "garantie",
+    "crédit",
+    "financement",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "garantie",
+    "crédit",
+    "financement",
+    "IS",
+    "IR"
+  ]
+}

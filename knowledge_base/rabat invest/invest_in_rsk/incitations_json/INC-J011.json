@@ -1,0 +1,90 @@
+{
+  "id": "INC-J011",
+  "nom": "Centres Techniques Industriels – Centre d’Etudes et de Recherches des Industries Métallurgiques, Mécaniques, Electriques et Electroniques (CERIMME)",
+  "nom_court": "Centres Techniques Industriels – Centre d’Etudes et de Re...",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Missions du CERIMME :\nOffrir à l'ensemble des entreprises du secteur des Industries Mécaniques, Métallurgiques, Electriques et Electroniques des moyens d'essais et de contrôle, et un foyer d'assistance, de collaboration, d‘étude et de recherche\nContribuer aux progrès techniques et à l’amélioratio...",
+  "description_complete": "Missions du CERIMME :\nOffrir à l'ensemble des entreprises du secteur des Industries Mécaniques, Métallurgiques, Electriques et Electroniques des moyens d'essais et de contrôle, et un foyer d'assistance, de collaboration, d‘étude et de recherche\nContribuer aux progrès techniques et à l’amélioration de la productivité des entreprises industrielles Marocaines en s’appuyant sur deux ressources (Assistance Technique et moyens Laboratoires) qui jouissent d’une dynamique en constante évolution\n\nLes services offerts par le CERIMME comprennent :\nEssais de conformité aux normes;\nAnalyse des défaillances et expertises;\nOptimisation de la production;\nAccompagnement pour la mise en place du système de gestion de la maintenance industrielle;\nElaboration de bilans énergétiques;\nFormation et gestion des compétences;\nQualification des Modes Opératoires de Soudage;\nCaractérisation des matériaux;\nMétrologie et étalonnage;\nAccompagnement dans l’indentification et la mise en œuvre des besoins en matière de projets de recherche d’innovation ou de développement technologique.",
+  "avantages": [
+    "Missions du CERIMME :",
+    "Offrir à l'ensemble des entreprises du secteur des Industries Mécaniques, Métallurgiques, Electriques et Electroniques des moyens d'essais et de contrôle, et un foyer d'assistance, de collaboration, d‘étude et de recherche",
+    "Contribuer aux progrès techniques et à l’amélioration de la productivité des entreprises industrielles Marocaines en s’appuyant sur deux ressources (Assistance Technique et moyens Laboratoires) qui jouissent d’une dynamique en constante évolution",
+    "Les services offerts par le CERIMME comprennent :",
+    "Essais de conformité aux normes;",
+    "Analyse des défaillances et expertises;",
+    "Optimisation de la production;",
+    "Accompagnement pour la mise en place du système de gestion de la maintenance industrielle;",
+    "Elaboration de bilans énergétiques;",
+    "Formation et gestion des compétences;",
+    "Qualification des Modes Opératoires de Soudage;",
+    "Caractérisation des matériaux;",
+    "Métrologie et étalonnage;",
+    "Accompagnement dans l’indentification et la mise en œuvre des besoins en matière de projets de recherche d’innovation ou de développement technologique."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Le CERIMME est un instrument technologique d’une grande valeur, agissant dans les espaces de la production, de l’innovation et de la recherche et développement au service des professionnels des industries Métallurgiques, Mécaniques, Electriques et Electroniques."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05 22 584 477",
+    "www.cerimme.ma"
+  ],
+  "organisation": {
+    "nom": "CERIMME",
+    "telephone": "05 22 584 477",
+    "site_web": "www.cerimme.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "innovation",
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "innovation",
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

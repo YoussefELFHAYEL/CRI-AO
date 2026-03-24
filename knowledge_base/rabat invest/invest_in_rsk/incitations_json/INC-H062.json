@@ -1,0 +1,83 @@
+{
+  "id": "INC-H062",
+  "nom": "Impôt sur les Sociétés\nImpot sur le Revenu\nTaxe sur la Valeur Ajoutée\nDroits d'enregistrement\nPlus-values constatées ou réalisées en cours ou en fin d’exploitation",
+  "nom_court": "Impôt sur les Sociétés\nImpot sur le Revenu\nTaxe sur la Va...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Impôt sur les Sociétés\nLes sociétés sportives constituées conformément aux dispositions de la loi n°30-09 relative à l’éducation physique et aux sports bénéficient au titre de l’impôt sur les sociétés :\n• de l’exonération totale de l’impôt sur les sociétés pendant une période de cinq (5) exercice...",
+  "description_complete": "Impôt sur les Sociétés\nLes sociétés sportives constituées conformément aux dispositions de la loi n°30-09 relative à l’éducation physique et aux sports bénéficient au titre de l’impôt sur les sociétés :\n• de l’exonération totale de l’impôt sur les sociétés pendant une période de cinq (5) exercices consécutifs, à compter du premier exercice d’exploitation ;\n• des taux réduits définis dans le barème progressif avec plafonnement du taux marginal de ce barème à 20% au-delà de cette période.\nImpôt sur le Revenu\nL’application d’un abattement de 50% pour la détermination du revenu net soumis à l’impôt sur le revenu au titre des salaires versés aux sportifs\nprofessionnels, entraineurs, éducateurs et à l’équipe technique.\nPour bénéficier de cet abattement, les entraineurs, les éducateurs et l’équipe technique doivent être titulaires d’un contrat sportif professionnel au sens des dispositions de la loi n°30-09 relative à l’éducation physique et aux sports et d’une licence délivrée par les fédérations sportives.\nTaxe sur la Valeur Ajoutée\nSont exonérées sans droit à déduction de la taxe sur la valeur ajoutée, l’ensemble des activités et opérations réalisées par les sociétés sportives constituées conformément aux dispositions de la loi n° 30-09 relative à l’éducation physique et aux sports, et ce pendant une durée de cinq (5) années à compter du 1er janvier 2020 jusqu’au 31 décembre 2024.\nDroits d’enregistrement\nSont exonérés des droits d’enregistrement, les actes et écrits par lesquels les associations sportives procèdent à l’apport, d’une partie ou de la totalité de leurs actifs et passifs aux sociétés sportives constituées conformément aux dispositions de la loi n° 30-09 relative à l’éducation physique et aux sports.\nPlus-values constatées ou réalisées en cours ou en fin d’exploitation\nL’opération d’apport par une association sportive d’une partie ou de la totalité de ses actifs et passifs à une société sportive, conformément aux dispositions de la loi n° 30-09 relative à l’éducation physique et aux sports, peut être réalisée sans incidence sur son résultat fiscal, lorsque les éléments apportés sont inscrits dans le bilan de la société sportive concernée à leur valeur figurant au dernier bilan clos de l’association avant cette opération.",
+  "avantages": [
+    "Impôt sur les Sociétés",
+    "Les sociétés sportives constituées conformément aux dispositions de la loi n°30-09 relative à l’éducation physique et aux sports bénéficient au titre de l’impôt sur les sociétés :",
+    "de l’exonération totale de l’impôt sur les sociétés pendant une période de cinq (5) exercices consécutifs, à compter du premier exercice d’exploitation ;",
+    "des taux réduits définis dans le barème progressif avec plafonnement du taux marginal de ce barème à 20% au-delà de cette période.",
+    "Impôt sur le Revenu",
+    "L’application d’un abattement de 50% pour la détermination du revenu net soumis à l’impôt sur le revenu au titre des salaires versés aux sportifs",
+    "professionnels, entraineurs, éducateurs et à l’équipe technique.",
+    "Pour bénéficier de cet abattement, les entraineurs, les éducateurs et l’équipe technique doivent être titulaires d’un contrat sportif professionnel au sens des dispositions de la loi n°30-09 relative à l’éducation physique et aux sports et d’une licence délivrée par les fédérations sportives.",
+    "Taxe sur la Valeur Ajoutée",
+    "Sont exonérées sans droit à déduction de la taxe sur la valeur ajoutée, l’ensemble des activités et opérations réalisées par les sociétés sportives constituées conformément aux dispositions de la loi n° 30-09 relative à l’éducation physique et aux sports, et ce pendant une durée de cinq (5) années à compter du 1er janvier 2020 jusqu’au 31 décembre 2024.",
+    "Droits d’enregistrement",
+    "Sont exonérés des droits d’enregistrement, les actes et écrits par lesquels les associations sportives procèdent à l’apport, d’une partie ou de la totalité de leurs actifs et passifs aux sociétés sportives constituées conformément aux dispositions de la loi n° 30-09 relative à l’éducation physique et aux sports.",
+    "Plus-values constatées ou réalisées en cours ou en fin d’exploitation",
+    "L’opération d’apport par une association sportive d’une partie ou de la totalité de ses actifs et passifs à une société sportive, conformément aux dispositions de la loi n° 30-09 relative à l’éducation physique et aux sports, peut être réalisée sans incidence sur son résultat fiscal, lorsque les éléments apportés sont inscrits dans le bilan de la société sportive concernée à leur valeur figurant au dernier bilan clos de l’association avant cette opération."
+  ],
+  "montant_ou_taux": "20%; 50%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "sociétés"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "IS",
+    "IR"
+  ]
+}

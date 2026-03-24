@@ -1,0 +1,88 @@
+{
+  "id": "INC-H017",
+  "nom": "FONDS DE DEVELOPPEMENT AGRICOLE Subventions aux unités de valorisation des produits agricoles",
+  "nom_court": "FONDS DE DEVELOPPEMENT AGRICOLE Subventions aux unités de...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Subventions aux unités de valorisation de produits agricoles frais d’origine végétale et leurs sous-produits (unités de conditionnement, de stockage, de traitement et de mise en bouteille…):\nTaux de la subvention: de 10 à 30%\nPlafond de la subvention: de 500 000 dhs à 21 000 000 dhs\n\\- Subvention...",
+  "description_complete": "Subventions aux unités de valorisation de produits agricoles frais d’origine végétale et leurs sous-produits (unités de conditionnement, de stockage, de traitement et de mise en bouteille…):\nTaux de la subvention: de 10 à 30%\nPlafond de la subvention: de 500 000 dhs à 21 000 000 dhs\n\\- Subventions aux unités de valorisation de produits agricoles frais d’origine animale et leurs sous-produits (Abattoirs industriels, unités de découpage de viandes, unités de conditionnement des œufs…):\nTaux de la subvention: de 10 à 30%\nPlafond de la subvention: de 500 000 dhs à 18 000 000 dhs\n\\- Centres de collecte de lait pour les coopératives laitières (Equipement en bacs à lait, construction de centre de collecte, équipement en groupe électrogène ou électrification):\nTaux de la subvention: 30%\nPlafond de la subvention: de 39 000 dhs à 60 000 dhs",
+  "avantages": [
+    "Subventions aux unités de valorisation de produits agricoles frais d’origine végétale et leurs sous-produits (unités de conditionnement, de stockage, de traitement et de mise en bouteille…):",
+    "Taux de la subvention: de 10 à 30%",
+    "Plafond de la subvention: de 500 000 dhs à 21 000 000 dhs",
+    "Subventions aux unités de valorisation de produits agricoles frais d’origine animale et leurs sous-produits (Abattoirs industriels, unités de découpage de viandes, unités de conditionnement des œufs…):",
+    "Taux de la subvention: de 10 à 30%",
+    "Plafond de la subvention: de 500 000 dhs à 18 000 000 dhs",
+    "Centres de collecte de lait pour les coopératives laitières (Equipement en bacs à lait, construction de centre de collecte, équipement en groupe électrogène ou électrification):",
+    "Taux de la subvention: 30%",
+    "Plafond de la subvention: de 39 000 dhs à 60 000 dhs"
+  ],
+  "montant_ou_taux": "30%; 30%; 30%; 500 000 dh; 21 000 000 dh",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "toutes tailles",
+      "GE"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Agriculteur ou société exploitant des unités Agro-industrielles.",
+    "La demande de subvention doit être déposée dans un délai n’excédant pas:",
+    "12 mois à compter de la date de l’approbation préalable pour les unités de valorisation.",
+    "24 mois à compter de la date de l’approbation préalable pour les centres de collecte de lait."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Demande d’approbation préalable",
+    "Demande de subvention",
+    "Dossiers juridiques ,techniques ou financiers liés au projet"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale de l’Agriculture",
+    "telephone": "0537 374242",
+    "site_web": "www.agriculture.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nDemande d’approbation préalable\nDemande de subvention\nDossiers juridiques ,techniques ou financiers liés au projet",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "subvention",
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "btp",
+    "agriculture"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "subvention",
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

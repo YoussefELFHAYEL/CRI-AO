@@ -1,0 +1,93 @@
+{
+  "id": "INC-H066",
+  "nom": "Taxe sur la Valeur Ajoutée( A l'intérieur/ A l'importation)",
+  "nom_court": "Taxe sur la Valeur Ajoutée( A l'intérieur/ A l'importation)",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Taxe sur la Valeur Ajoutée\n\nA l’intérieur\n• Exonération sans droit à déduction :\ndu sucre brut, on doit entendre le sucre de betterave, de canne et les sucres analogues (saccharose) ;\ndes dattes conditionnées produites au Maroc ;\ndes pompes à eau qui fonctionnent à l’énergie solaire ou à toute au...",
+  "description_complete": "Taxe sur la Valeur Ajoutée\n\nA l’intérieur\n• Exonération sans droit à déduction :\ndu sucre brut, on doit entendre le sucre de betterave, de canne et les sucres analogues (saccharose) ;\ndes dattes conditionnées produites au Maroc ;\ndes pompes à eau qui fonctionnent à l’énergie solaire ou à toute autre énergie renouvelable utilisée dans le secteur agricole.\n• Exonération avec droit à déduction des :\nengrais et les mélanges composés de produits antiparasitaires, de micro-éléments et d’engrais, dans lesquels ces derniers sont prédominants ;\néquipements listés à l’article 92-5° du code général des impôts, lorsqu’ils sont destinés à usage exclusivement agricole.\n• Application de la TVA au taux réduit de 10% :\naux aliments destinés à l’alimentation du bétail et des animaux de basse-cour ainsi que les tourteaux servant à leur fabrication à l’exclusion des autres aliments simples tels que céréales, issues, pulpes, drêches et pailles ;\nau matériel à usage exclusivement agricole listé à l’article 99 - 2° du code général des impôts\nA l’importation\nL’application de la taxe sur la valeur ajoutée à l’importation incombe à l’administration des douanes et impôts indirects, conformément aux dispositions du code général des impôts.\n• Application de la TVA au taux réduit de 10% :\nau matériel à usage exclusivement agricole listé à l’article 99-2 du code général des impôts ;\n\\- aux huiles fluides alimentaires à l’exclusion de l’huile de palme, raffinées ou non raffinées, ainsi que les graines, les fruits oléagineux et les huiles végétales utilisés pour la fabrication desdites huiles fluides alimentaires ;\n\\- au maïs et à l’orge ;\n\\- aux tourteaux et aux aliments simples tels que : issues, pulpes, drêches, pailles, coques de soja, drêches et fibres de maïs, pulpes sèches de betterave, luzernes déshydratées et le son pellitisé, destinés à l’alimentation du bétail et des animaux de basse-cour ;\n\\- au manioc et au sorgho à grain.",
+  "avantages": [
+    "Taxe sur la Valeur Ajoutée",
+    "A l’intérieur",
+    "Exonération sans droit à déduction :",
+    "du sucre brut, on doit entendre le sucre de betterave, de canne et les sucres analogues (saccharose) ;",
+    "des dattes conditionnées produites au Maroc ;",
+    "des pompes à eau qui fonctionnent à l’énergie solaire ou à toute autre énergie renouvelable utilisée dans le secteur agricole.",
+    "Exonération avec droit à déduction des :",
+    "engrais et les mélanges composés de produits antiparasitaires, de micro-éléments et d’engrais, dans lesquels ces derniers sont prédominants ;",
+    "équipements listés à l’article 92-5° du code général des impôts, lorsqu’ils sont destinés à usage exclusivement agricole.",
+    "Application de la TVA au taux réduit de 10% :",
+    "aux aliments destinés à l’alimentation du bétail et des animaux de basse-cour ainsi que les tourteaux servant à leur fabrication à l’exclusion des autres aliments simples tels que céréales, issues, pulpes, drêches et pailles ;",
+    "au matériel à usage exclusivement agricole listé à l’article 99 - 2° du code général des impôts",
+    "A l’importation",
+    "L’application de la taxe sur la valeur ajoutée à l’importation incombe à l’administration des douanes et impôts indirects, conformément aux dispositions du code général des impôts.",
+    "Application de la TVA au taux réduit de 10% :"
+  ],
+  "montant_ou_taux": "10%; 10%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "TVA",
+    "IS",
+    "IR",
+    "douane",
+    "énergie"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "agriculture",
+    "industrie",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "TVA",
+    "IS",
+    "IR",
+    "douane",
+    "énergie"
+  ]
+}

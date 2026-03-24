@@ -1,0 +1,22 @@
+{
+  "faq_id": "faq_rendez_vous",
+  "category": "Rendez-vous",
+  "source": "https://cri-invest.ma/faq",
+  "items": [
+    {
+      "question": "Comment prendre un rendez-vous sur la plateforme CRI-INVEST ?",
+      "answer": "Vous pouvez prendre rendez-vous avec un conseiller du CRI directement depuis la plateforme, selon deux cas de figure :\n\n- Si vous n’êtes pas encore connecté(e) : cliquez sur l’onglet « S’inscrire », puis sélectionnez l’option « Je préfère vous rencontrer d’abord » pour programmer un rendez-vous avant de finaliser votre inscription.\n\n- Si vous êtes déjà connecté(e) : accédez à l’onglet « Rendez-vous », cliquez sur « Nouveau rendez-vous », puis complétez le formulaire en précisant l’objet de votre demande et vos besoins.",
+      "tags": ["rendez-vous", "prise de rendez-vous", "conseiller CRI", "inscription", "plateforme"]
+    },
+    {
+      "question": "Puis-je annuler mon rendez-vous ou modifier sa date ?",
+      "answer": "Pour toute modification ou annulation de rendez-vous, veuillez contacter directement le conseiller CRI en charge de votre dossier.",
+      "tags": ["annulation", "modification", "rendez-vous", "contact conseiller"]
+    },
+    {
+      "question": "Dans quels cas je peux demander un rendez-vous avec mon conseiller CRI ?",
+      "answer": "La demande de rendez-vous est ouverte à tous les utilisateurs de la plateforme (investisseurs, architectes, mandataires, etc.) souhaitant obtenir des informations sur les procédures, les incitations, les conventions d’investissement, ou bénéficier de conseils pour la préparation de leur dossier.",
+      "tags": ["utilisateurs", "investisseurs", "architectes", "mandataires", "information", "accompagnement"]
+    }
+  ]
+}

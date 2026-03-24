@@ -1,0 +1,80 @@
+{
+  "id": "INC-C016",
+  "nom": "INNOV DEV",
+  "nom_court": "INNOV DEV",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Le financement est octroyé sous forme de prêt participatif suivant les conditions suivantes :\nMontant du prêt : 3.000.000 DH maximum sans pour autant dépasser 50% des apports des investisseurs externes (fonds de capital risque, investisseurs providentiels…)\nRemboursement : sur une durée maximale ...",
+  "description_complete": "Le financement est octroyé sous forme de prêt participatif suivant les conditions suivantes :\nMontant du prêt : 3.000.000 DH maximum sans pour autant dépasser 50% des apports des investisseurs externes (fonds de capital risque, investisseurs providentiels…)\nRemboursement : sur une durée maximale de 8 ans avec 2 ans de différé.\nTaux d’intérêt : 2% l’an Hors Taxes\n\nPlafond global d’engagements\n4.000.000 DH sur une même entreprise, tous concours confondus au titre de la composante 2 (avances et prêts) du \"FII\".",
+  "avantages": [
+    "Le financement est octroyé sous forme de prêt participatif suivant les conditions suivantes :",
+    "Montant du prêt : 3.000.000 DH maximum sans pour autant dépasser 50% des apports des investisseurs externes (fonds de capital risque, investisseurs providentiels…)",
+    "Remboursement : sur une durée maximale de 8 ans avec 2 ans de différé.",
+    "Taux d’intérêt : 2% l’an Hors Taxes",
+    "Plafond global d’engagements",
+    "4.000.000 DH sur une même entreprise, tous concours confondus au titre de la composante 2 (avances et prêts) du \"FII\"."
+  ],
+  "montant_ou_taux": "50%; 2%; 3.000.000 DH; 4.000.000 DH",
+  "duree": "8 ans",
+  "cible": {
+    "tailles": [
+      "PME"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Sont finançables par le prêt participatif dans le cadre d’un projet innovant, les dépenses immatérielles et/ou matérielles liées notamment aux éléments suivants :",
+    "Mise en place des installations de production",
+    "Marketing et commercialisation",
+    "Prospection de nouveaux marchés, notamment à l’export ;",
+    "Développement de nouvelles variantes de produits ;",
+    "Besoin en fonds de roulement…"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05377-16868",
+    "www.tamwilcom.ma"
+  ],
+  "organisation": {
+    "nom": "TAMWILCOM",
+    "telephone": "05377-16868",
+    "site_web": "www.tamwilcom.ma",
+    "adresse": ""
+  },
+  "modalites": "http://www.ccg.ma/innovation/partenaires.php",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "financement",
+    "IS"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "financement",
+    "IS"
+  ]
+}

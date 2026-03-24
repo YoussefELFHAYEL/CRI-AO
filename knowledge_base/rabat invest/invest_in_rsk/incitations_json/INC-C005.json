@@ -1,0 +1,90 @@
+{
+  "id": "INC-C005",
+  "nom": "INTELAKA\nSTART-TPE",
+  "nom_court": "INTELAKA\nSTART-TPE",
+  "axe": "",
+  "type_incitation": "financement",
+  "description_courte": "Prêt d’honneur destiné à financer des besoins en fonds de roulement liés à des crédits bancaires à moyen et long terme accordés en faveur des entreprises éligibles. Besoins :\nBesoins en fonds de roulement liés au crédit bancaire à moyen et long terme susvisé.",
+  "description_complete": "Prêt d’honneur destiné à financer des besoins en fonds de roulement liés à des crédits bancaires à moyen et long terme accordés en faveur des entreprises éligibles.\n\nBesoins :\nBesoins en fonds de roulement liés au crédit bancaire à moyen et long terme susvisé.",
+  "avantages": [
+    "Prêt d’honneur destiné à financer des besoins en fonds de roulement liés à des crédits bancaires à moyen et long terme accordés en faveur des entreprises éligibles.",
+    "Besoins en fonds de roulement liés au crédit bancaire à moyen et long terme susvisé."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "très petite",
+      "personne physique"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Jeune entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre",
+    "déblocage du prêt",
+    "Après utilisation par l’entreprise de l’intégralité du crédit bancaire à moyen et long terme susvisé.",
+    "caractéristiques du prêt",
+    "Les caractéristiques du prêt « Start-TPE » se présentent comme suit :",
+    "Part 20% max du montant du crédit bancaire à moyen et long terme susvisé",
+    "Plafond 50 000 DH",
+    "Taux d’intérêt 0",
+    "Sûretés Aucune sûreté n’est exigée",
+    "Durée de Remboursable en une seule fois après une franchise de 5 abs max",
+    "remboursement",
+    "Fréquence d’octroi du crédit START-TPE ?",
+    "Chaque entreprise ne peut bénéficier de ce prêt qu’une seule fois",
+    "traitement des dossiers",
+    "Le traitement des dossiers se fait à travers une délégation à la banque avec échange électronique de données."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05377-16868",
+    "www.tamwilcom.ma"
+  ],
+  "organisation": {
+    "nom": "TAMWILCOM",
+    "telephone": "05377-16868",
+    "site_web": "www.tamwilcom.ma",
+    "adresse": ""
+  },
+  "modalites": "déblocage du prêt\nAprès utilisation par l’entreprise de l’intégralité du crédit bancaire à moyen et long terme susvisé.\ncaractéristiques du prêt\nLes caractéristiques du prêt « Start-TPE » se présentent comme suit :\n\nPart 20% max du montant du crédit bancaire à moyen et long terme susvisé\nPlafond 50 000 DH\nTaux d’intérêt 0\nSûretés Aucune sûreté n’est exigée\nDurée de Remboursable en une seule fois après une franchise de 5 abs max\nremboursement\n\nFréquence d’octroi du crédit START-TPE ?\nChaque entreprise ne peut bénéficier de ce prêt qu’une seule fois\ntraitement des dossiers\nLe traitement des dossiers se fait à travers une délégation à la banque avec échange électronique de données.\nMode de présentation de la demande\nPar l’intermédiaire de la banque ayant mis en place le crédit moyen et long terme susvisé.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "crédit",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services",
+    "agriculture"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "crédit",
+    "IS",
+    "IR"
+  ]
+}

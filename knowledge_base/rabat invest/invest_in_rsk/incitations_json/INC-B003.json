@@ -1,0 +1,94 @@
+{
+  "id": "INC-B003",
+  "nom": "ISTITMAR",
+  "nom_court": "ISTITMAR",
+  "axe": "",
+  "type_incitation": "prime",
+  "description_courte": "Le programme ISTITMAR est mis en place dans le cadre du Plan d’Accélération Industrielle qui vise notamment à développer des écosystèmes industriels performants et à contribuer à la création d’emplois & de valeur ajoutée industrielle. Ainsi, « Istitmar » soutient les entreprises à fort potentiel ...",
+  "description_complete": "Le programme ISTITMAR est mis en place dans le cadre du Plan d’Accélération Industrielle qui vise notamment à développer des écosystèmes industriels performants et à contribuer à la création d’emplois & de valeur ajoutée industrielle. Ainsi, « Istitmar » soutient les entreprises à fort potentiel de croissance, disposant de projets de développement, à travers l’octroi d’une prime à l’investissement matériel et/ou immatériel, en vue de permettre à ces entreprises :\nd’atteindre des paliers supérieurs en termes soit de chiffre d’affaires réalisé sur le marché intérieur ou à l’exportation, soit de création d’emplois, soit de création de valeur ajoutée, ou\nd’introduire de nouvelles technologies, ou\nd’induire un impact structurant sur la branche dans laquelle elles opèrent.\n\nPartenaires clés :\nArab Bank\nBanque Populaire\nBMCE\nAWB\nBMCI\nCIH BANK\nCrédit Agricole\nCrédit du Maroc\nSociété Générale\nWAFABAIL\nSOGELEASE\nBMCI Leasing\nMAGHREBAIL",
+  "avantages": [
+    "Le programme ISTITMAR est mis en place dans le cadre du Plan d’Accélération Industrielle qui vise notamment à développer des écosystèmes industriels performants et à contribuer à la création d’emplois & de valeur ajoutée industrielle. Ainsi, « Istitmar » soutient les entreprises à fort potentiel de croissance, disposant de projets de développement, à travers l’octroi d’une prime à l’investissement matériel et/ou immatériel, en vue de permettre à ces entreprises :",
+    "d’atteindre des paliers supérieurs en termes soit de chiffre d’affaires réalisé sur le marché intérieur ou à l’exportation, soit de création d’emplois, soit de création de valeur ajoutée, ou",
+    "d’introduire de nouvelles technologies, ou",
+    "d’induire un impact structurant sur la branche dans laquelle elles opèrent.",
+    "Partenaires clés :",
+    "Banque Populaire",
+    "Crédit Agricole",
+    "Crédit du Maroc",
+    "Société Générale",
+    "BMCI Leasing"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPE"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre",
+    "Lancement via appels à projet avec une fixation préalable des dates limites de dépôt de candidature"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 57 44\u000bwww.marocpme.gov.ma"
+  ],
+  "organisation": {
+    "nom": "MAROC PME",
+    "telephone": "05 37 57 44",
+    "site_web": "www.marocpme.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Lancement via appels à projet avec une fixation préalable des dates limites de dépôt de candidature",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "prime",
+    "crédit",
+    "emploi",
+    "export",
+    "investissement",
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "agriculture",
+    "industrie",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "prime",
+    "crédit",
+    "emploi",
+    "export",
+    "investissement",
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

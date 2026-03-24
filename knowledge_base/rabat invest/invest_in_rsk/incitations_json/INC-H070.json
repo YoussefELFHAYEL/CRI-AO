@@ -1,0 +1,73 @@
+{
+  "id": "INC-H070",
+  "nom": "ANAPEC - Programme AWRACH",
+  "nom_court": "ANAPEC - Programme AWRACH",
+  "axe": "",
+  "type_incitation": "autre",
+  "description_courte": "Le programme gouvernemental de création d'emploi «Awrach», doté de 2,25 milliards de dirhams (MMDH) et qui devra profiter à 125 000 personnes en 2022. Le programme profitera sur une période de deux ans à un total de 250 000 Marocaines et Marocains au niveau de l’ensemble des régions et provinces ...",
+  "description_complete": "Le programme gouvernemental de création d'emploi «Awrach», doté de 2,25 milliards de dirhams (MMDH) et qui devra profiter à 125 000 personnes en 2022. Le programme profitera sur une période de deux ans à un total de 250 000 Marocaines et Marocains au niveau de l’ensemble des régions et provinces du Royaume.",
+  "avantages": [
+    "Le programme gouvernemental de création d'emploi «Awrach», doté de 2,25 milliards de dirhams (MMDH) et qui devra profiter à 125 000 personnes en 2022. Le programme profitera sur une période de deux ans à un total de 250 000 Marocaines et Marocains au niveau de l’ensemble des régions et provinces du Royaume."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Coopérative"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Personnes ayant perdu leur emploi en raison de la pandémie covid19,",
+    "Personnes n’ayant jamais travaillé ou celle inscrites à l’Anapec depuis plus de deux ans,",
+    "Personnes ayant figuré sur les listes de l’opération Tadamon (versement par sms de 800 dh à 1200 dh pendant le confinement)."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées"
+  ],
+  "organisation": {
+    "nom": "Cible",
+    "telephone": "",
+    "site_web": "",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\n\nCoordonnées",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "emploi",
+    "IR"
+  ],
+  "secteurs_map": [
+    "tech",
+    "commerce",
+    "agriculture"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "emploi",
+    "IR"
+  ]
+}

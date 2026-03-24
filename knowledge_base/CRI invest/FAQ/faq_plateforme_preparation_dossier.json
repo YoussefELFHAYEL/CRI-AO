@@ -1,0 +1,31 @@
+{
+  "faq_id": "faq_preparation_dossier",
+  "category": "Préparation de dossier",
+  "items": [
+    {
+      "question": "Comment je peux connaître les procédures pour constituer mon dossier d’investissement ?",
+      "answer": "Dès que les informations relatives à votre projet d’investissement sont renseignées dans le formulaire de cadrage, la plateforme vous propose automatiquement les procédures à accomplir pour la concrétisation de votre projet. En cas de besoin, vous pouvez également échanger directement avec un conseiller du CRI via la plateforme.",
+      "tags": ["procédures", "dossier", "investissement", "formulaire de cadrage", "accompagnement"]
+    },
+    {
+      "question": "Où est-ce que je peux retrouver la liste des documents à fournir pour la soumission de mon dossier ?",
+      "answer": "Dans l’onglet « Procédures et incitations » de la plateforme, vous trouverez la liste des documents à télécharger pour chaque procédure sélectionnée. De plus, lors de la soumission de votre dossier d’investissement, la liste des documents requis s’affiche automatiquement en fonction des procédures que vous aurez choisies.",
+      "tags": ["documents", "soumission", "procédures", "pièces à fournir", "incitations"]
+    },
+    {
+      "question": "Devrais-je me déplacer physiquement pour déposer mon dossier ?",
+      "answer": "La plateforme vous permet de déposer votre dossier en ligne et de suivre en temps réel l’avancement de son traitement, à chaque étape.",
+      "tags": ["dépôt en ligne", "soumission", "suivi", "plateforme", "digital"]
+    },
+    {
+      "question": "Comment je peux connaître les procédures à suivre pour bénéficier des incitations à l’investissement ?",
+      "answer": "Dès que vous renseignez les informations relatives à votre projet dans le formulaire de cadrage, les procédures liées aux incitations vous seront automatiquement proposées. Si nécessaire, vous pouvez également échanger directement avec un conseiller du CRI via la plateforme.",
+      "tags": ["incitations", "investissement", "procédures", "formulaire", "accompagnement"]
+    },
+    {
+      "question": "Comment annuler/archiver un dossier en cours de dépôt ?",
+      "answer": "Tout dossier en cours de dépôt sur la plateforme CRI-INVEST qui ne fait l’objet d’aucune modification pendant une période de 60 jours sera automatiquement archivé.",
+      "tags": ["annulation", "archivage", "dossier", "dépôt", "60 jours"]
+    }
+  ]
+}

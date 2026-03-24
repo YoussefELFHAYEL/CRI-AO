@@ -1,0 +1,76 @@
+{
+  "id": "INC-J013",
+  "nom": "Centres Techniques Industriels – Centre Technique des Industries des Equipements pour Véhicules (CETIEV)",
+  "nom_court": "Centres Techniques Industriels – Centre Technique des Ind...",
+  "axe": "",
+  "type_incitation": "autre",
+  "description_courte": "Objectif :\nAider les entreprises marocaines du secteur de l’automobile à améliorer leur compétitivité et à mieux s’intégrer dans le commerce mondial. Missions du CETIEV :\nAccompagner les industriels dans leur développement technologique et participer à la reconnaissance internationale de la filiè...",
+  "description_complete": "Objectif :\nAider les entreprises marocaines du secteur de l’automobile à améliorer leur compétitivité et à mieux s’intégrer dans le commerce mondial.\n\nMissions du CETIEV :\nAccompagner les industriels dans leur développement technologique et participer à la reconnaissance internationale de la filière automobile marocaine.\nProtéger le consommateur marocain à travers le contrôle réglementaire des produits mis sur le marché national.",
+  "avantages": [
+    "Aider les entreprises marocaines du secteur de l’automobile à améliorer leur compétitivité et à mieux s’intégrer dans le commerce mondial.",
+    "Missions du CETIEV :",
+    "Accompagner les industriels dans leur développement technologique et participer à la reconnaissance internationale de la filière automobile marocaine.",
+    "Protéger le consommateur marocain à travers le contrôle réglementaire des produits mis sur le marché national."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05 5 22 58 39 58 / 5 22 58 02 83",
+    "www.cetiev.ma"
+  ],
+  "organisation": {
+    "nom": "CETIEV",
+    "telephone": "05 5 22 58 39 58 / 5 22 58 02 83",
+    "site_web": "www.cetiev.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "commerce"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

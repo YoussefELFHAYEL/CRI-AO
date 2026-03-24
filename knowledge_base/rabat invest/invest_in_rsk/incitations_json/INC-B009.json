@@ -1,0 +1,82 @@
+{
+  "id": "INC-B009",
+  "nom": "MOWAKABA : CONSEIL & EXPERTISE TECHNIQUE TPME\nLean Manufacturing",
+  "nom_court": "MOWAKABA : CONSEIL & EXPERTISE TECHNIQUE TPME\nLean Manufa...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%. Apport de Maroc PME\nPrise en charge le coût de la prestation de service à hauteur de\n80% pour les PME\n90% pour les TPE\n\nBesoins:\nFormation des responsa...",
+  "description_complete": "Accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%.\n\nApport de Maroc PME\nPrise en charge le coût de la prestation de service à hauteur de\n80% pour les PME\n90% pour les TPE\n\nBesoins:\nFormation des responsables d’entreprises aux principes et à la maîtrise de l’excellence opérationnelle: Lean Manufacturing.\nOptimisation et amélioration de la productivité.\nOptimisation du lay-out et des espaces de travail.\nGestion optimale des ressources humaines et matérielles.\nMeilleur service client : flexibilité, réactivité, ponctualité.",
+  "avantages": [
+    "Accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%.",
+    "Apport de Maroc PME",
+    "Prise en charge le coût de la prestation de service à hauteur de",
+    "80% pour les PME",
+    "90% pour les TPE",
+    "Formation des responsables d’entreprises aux principes et à la maîtrise de l’excellence opérationnelle: Lean Manufacturing.",
+    "Optimisation et amélioration de la productivité.",
+    "Optimisation du lay-out et des espaces de travail.",
+    "Gestion optimale des ressources humaines et matérielles.",
+    "Meilleur service client : flexibilité, réactivité, ponctualité."
+  ],
+  "montant_ou_taux": "90%; 80%; 90%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Entreprises existantes ou en amorçage",
+    "chiffre d’affaires annuel est inférieur ou égal à 200 MDH",
+    "secteur industriel ou une activité liée à l’industrie"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 57 44\u000bwww.marocpme.gov.ma"
+  ],
+  "organisation": {
+    "nom": "MAROC PME",
+    "telephone": "05 37 57 44",
+    "site_web": "www.marocpme.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "IS",
+    "IR"
+  ]
+}

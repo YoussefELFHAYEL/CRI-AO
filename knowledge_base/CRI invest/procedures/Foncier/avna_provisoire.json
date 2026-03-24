@@ -1,0 +1,70 @@
+{
+  "procedure_id": "avna_provisoire",
+  "title": "AVNA (Attestation de Vocation Non Agricole) provisoire",
+  "description": "Cette procédure permet d’octroyer une attestation de vocation non agricole provisoire à une propriété agricole ou à vocation agricole, située en totalité ou en partie à l’extérieur du périmètre urbain, pour qu’elle soit susceptible d’être cédée à une personne physique étrangère, une société par actions ou une société dont le capital est détenu en totalité ou en partie par une personne étrangère, afin de réaliser un projet d’investissement autre qu’agricole.",
+  "delai_indicatif": {
+    "total_jours": 33,
+    "etapes": [
+      {
+        "etape": "Dépôt du dossier",
+        "duree_jours": 1
+      },
+      {
+        "etape": "Retour sur la complétude du dossier",
+        "duree_jours": 3
+      },
+      {
+        "etape": "Avis de la CRUI",
+        "duree_jours": 28
+      },
+      {
+        "etape": "Obtention de l’AVNA provisoire",
+        "duree_jours": 33
+      }
+    ]
+  },
+  "pieces_a_fournir": [
+    {
+      "document": "Demande adressée au Président de la CRUI, précisant les actes et autorisations demandées"
+    },
+    {
+      "document": "Engagement de l’investisseur à respecter la réalisation de son projet dans les délais convenus"
+    },
+    {
+      "document": "Note de renseignement",
+      "frais": {
+        "organisme": "Agence Urbaine",
+        "montant": "200 à 600 MAD"
+      }
+    },
+    {
+      "document": "Plan cadastral",
+      "frais": {
+        "organisme": "Cadastre",
+        "montant": "60 à 115 MAD par tirage"
+      }
+    },
+    {
+      "document": "Plan de situation"
+    },
+    {
+      "document": "Plaquette en fonction de la nature du projet"
+    },
+    {
+      "document": "Certificat de propriété récent (moins de 3 mois) ou contrat de location du terrain ou compromis de vente ou tout document justifiant le lien avec le terrain"
+    }
+  ],
+  "referentiel_juridique": [
+    "Dahir n°1-19-18 du 13 février 2019 portant promulgation de la loi 47-18 relative à la réforme des CRI",
+    "Dahir n°1-73-645 du 11 rebia II 1395 (23 avril 1976) relatif à l’acquisition des propriétés agricoles ou à vocation agricole à l’extérieur des périmètres urbains",
+    "Dahir n°1-76-537 du 26 safar 1397 (16 février 1977) modifiant le dahir n°1-73-645",
+    "Lettre royale du 9 janvier 2002 relative à la gestion déconcentrée de l’investissement",
+    "Dahir n°1-04-255 du 16 kaada 1425 (29 décembre 2004) portant promulgation de la loi de finances 2005",
+    "Dahir n°1-11-179 du 25 hija 1432 (22 novembre 2011) portant promulgation de la loi n°32-09 relative à l’organisation de la profession de notaire",
+    "Décret n°2-13-424 du 13 rejeb 1434 (24 mai 2013) approuvant le règlement général de construction",
+    "Circulaire du ministre de l’agriculture et de la pêche maritime n°257 du 21 mars 2014 relative à l’urbanisation des terres agricoles",
+    "Décret n°2-13-18 du 16 ramadan 1435 (14 juillet 2014) relatif aux formalités de l’immatriculation foncière (articles 27, 28 et 29)",
+    "Décret n°2-16-375 du 13 Chaoual 1437 (18 juillet 2016) fixant le tarif des droits de conservation foncière"
+  ],
+  "demarrage_procedure": "Créer un compte sur la plateforme dédiée ou s’adresser directement aux conseillers."
+}

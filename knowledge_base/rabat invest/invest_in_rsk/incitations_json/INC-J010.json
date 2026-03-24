@@ -1,0 +1,86 @@
+{
+  "id": "INC-J010",
+  "nom": "ANAPEC - PROMOTION DE L’EMPLOI DES JEUNES EN MILIEU RURAL (PEJ III)",
+  "nom_court": "ANAPEC - PROMOTION DE L’EMPLOI DES JEUNES EN MILIEU RURAL...",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Le projet appuie une extension de la politique de l’emploi aux zones rurales. Pour ce faire, il collabore avec le ministère du Travail et de l’Insertion professionnelle (MTIP) et l’Agence nationale de promotion de l’emploi et des compétences (ANAPEC)",
+  "description_complete": "Le projet appuie une extension de la politique de l’emploi aux zones rurales. Pour ce faire, il collabore avec le ministère du Travail et de l’Insertion professionnelle (MTIP) et l’Agence nationale de promotion de l’emploi et des compétences (ANAPEC).\nLe projet coopère depuis 2015 avec des institutions marocaines afin de mettre au point des outils pour l’intégration économique des jeunes. Il a introduit et perfectionné ces outils dans deux régions pilotes. L’approche associe les mesures suivantes :\n• Observer les marchés du travail et identifier les secteurs économiques présentant un potentiel d’emploi ;\n• Créer des centres d’information et de conseil dans les zones rurales pour faciliter l’orientation professionnelle et soutenir les jeunes entrepreneurs ;\n• Améliorer l’employabilité, notamment par des possibilités de formation adaptées.",
+  "avantages": [
+    "Le projet appuie une extension de la politique de l’emploi aux zones rurales. Pour ce faire, il collabore avec le ministère du Travail et de l’Insertion professionnelle (MTIP) et l’Agence nationale de promotion de l’emploi et des compétences (ANAPEC).",
+    "Le projet coopère depuis 2015 avec des institutions marocaines afin de mettre au point des outils pour l’intégration économique des jeunes. Il a introduit et perfectionné ces outils dans deux régions pilotes. L’approche associe les mesures suivantes :",
+    "Observer les marchés du travail et identifier les secteurs économiques présentant un potentiel d’emploi ;",
+    "Créer des centres d’information et de conseil dans les zones rurales pour faciliter l’orientation professionnelle et soutenir les jeunes entrepreneurs ;",
+    "Améliorer l’employabilité, notamment par des possibilités de formation adaptées."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Jeune entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Jeunes entrepreneurs du milieu rural."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "www.anapec.org/"
+  ],
+  "organisation": {
+    "nom": "Agence Régionale de l’ANAPEC – Rabat",
+    "telephone": "05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "site_web": "www.anapec.org/",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "emploi",
+    "jeune",
+    "rural",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services",
+    "agriculture"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "emploi",
+    "jeune",
+    "rural",
+    "IS",
+    "IR"
+  ]
+}

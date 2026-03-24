@@ -1,0 +1,106 @@
+{
+  "id": "INC-H071",
+  "nom": "AMÉLIORATION DE LA COMPÉTITIVITÉ DES ENTREPRISES\nGIAC BTP",
+  "nom_court": "AMÉLIORATION DE LA COMPÉTITIVITÉ DES ENTREPRISES\nGIAC BTP",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Améliorer la compétitivité des entreprises par des actions d'études et de conseils en stratégie de développement et des actions de formation en cours d'emploi",
+  "description_complete": "Améliorer la compétitivité des entreprises par des actions d'études et de conseils en stratégie de développement et des actions de formation en cours d'emploi",
+  "avantages": [
+    "Améliorer la compétitivité des entreprises par des actions d'études et de conseils en stratégie de développement et des actions de formation en cours d'emploi"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME",
+      "TPE",
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Etre adhérent au GIAC de BTP",
+    "Etre assujetties à la Taxe de la Formation Professionnelle et présentant une attestation d’éligibilité au CSF justifiant qu’elles sont en situation régulière au titre de cette taxe.",
+    "Opérer dans le secteur de BTP",
+    "De droit marocain",
+    "En situation régulière vis à vis de la CNSS",
+    "En situation régulière fiscale",
+    "Ne faisant pas l'objet de redressement ou de liquidation judiciaire",
+    "Les actions finançables par les GIAC sont:",
+    "1 - Les études d’analyse stratégique (DS) comprenant :",
+    "La détermination d’une stratégie de développement à moyen terme",
+    "La détermination des moyens opérationnels nécessaires à sa réalisation",
+    "L’identification des besoins en compétences qui en découlent.",
+    "2 - Les études d’ingénierie de formation en cours d’emploi (IF) comprenant :",
+    "L’identification des besoins en formation",
+    "L’élaboration des plans de formation qui en découlent."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Demande de financement/subvention:",
+    "Justification de la cotisation, bulletin d'adhésion (G1)",
+    "Attestation d'accès au CSF valabe pour l'année en cours de l'entreprise et de l'organisme de conseil",
+    "Attestation de la CNSS",
+    "Attestation fiscale",
+    "Attestation du chiffre d'affaires",
+    "Statuts ou PV de nomination",
+    "Fiche de renseignement sur l'entreprise (G2)",
+    "Fiche de renseignement sur l'organisme de conseil (G3)",
+    "Fiche de renseignement de l'étude (diagnostique ou ingénierie de formation) (G4)",
+    "Déclaration sur l'honneur pour l'étude légalisée (G5)",
+    "Déclaration de réalisation des actions de formation (G6)",
+    "Proposition d'intervention (G7)",
+    "Demande de remboursement",
+    "Avis de réalisation (G8)",
+    "Facture (G10)",
+    "Rapport de l'étude avec 4 copies et le CD (G11)",
+    "Mode de règlement (copie du chèque, virement, avis de débit, relevé bancaire)",
+    "Coordonnées"
+  ],
+  "organisation": {
+    "nom": "Association professionnelle",
+    "telephone": "",
+    "site_web": "",
+    "adresse": ""
+  },
+  "modalites": "Cotisation annuelle de 250DH.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "emploi",
+    "IS"
+  ],
+  "secteurs_map": [
+    "btp",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge",
+    "tpe",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "emploi",
+    "IS"
+  ]
+}

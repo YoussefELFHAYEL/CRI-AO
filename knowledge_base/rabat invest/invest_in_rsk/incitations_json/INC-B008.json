@@ -1,0 +1,89 @@
+{
+  "id": "INC-B008",
+  "nom": "MOWAKABA\nExcellence opérationnelle",
+  "nom_court": "MOWAKABA\nExcellence opérationnelle",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Un accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%. Apport de Maroc PME\nPrise en charge le coût de la prestation de service à hauteur de\n80% pour les PME\n90% pour les TPE\n\nBesoins :\nAméliorer l’effica...",
+  "description_complete": "Un accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%.\n\nApport de Maroc PME\nPrise en charge le coût de la prestation de service à hauteur de\n80% pour les PME\n90% pour les TPE\n\nBesoins :\nAméliorer l’efficacité de la chaine de valeur de l’entreprise\nGérer la production\nInstaurer le Lean /services dans l’entreprise\nOptimiser la maintenance des équipements et installations\nOptimiser les achats et la chaîne logistique\nAligner l’organisation sur la stratégie\nBénéficier d'une expertise métier spécialisée\nAssurer la conformité de l’entreprise aux normes/bonnes pratiques\nAssurer la conformité à une norme système classique hors intégré (exp. Q,S,E, etc.), métier spécifique (hors intégré) ou à des normes système (max 3 normes)\nProcéder à une certification Produit\nObtenir un label\nObtenir une catégorisation (fiscale, douane, etc.)\nObtenir une catégorisation commune (fiscale et douane, etc.)\nRenforcer le capital humain\nGérer les ressources humaines\nAccompagner l'insertion des compétences: CAP Compétences\nRenforcer les capacités managériales",
+  "avantages": [
+    "Un accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%.",
+    "Apport de Maroc PME",
+    "Prise en charge le coût de la prestation de service à hauteur de",
+    "80% pour les PME",
+    "90% pour les TPE",
+    "Améliorer l’efficacité de la chaine de valeur de l’entreprise",
+    "Gérer la production",
+    "Instaurer le Lean /services dans l’entreprise",
+    "Optimiser la maintenance des équipements et installations",
+    "Optimiser les achats et la chaîne logistique",
+    "Aligner l’organisation sur la stratégie",
+    "Bénéficier d'une expertise métier spécialisée",
+    "Assurer la conformité de l’entreprise aux normes/bonnes pratiques",
+    "Assurer la conformité à une norme système classique hors intégré (exp. Q,S,E, etc.), métier spécifique (hors intégré) ou à des normes système (max 3 normes)",
+    "Procéder à une certification Produit"
+  ],
+  "montant_ou_taux": "90%; 80%; 90%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "très petite",
+      "petite ou moyenne",
+      "moyenne entreprise"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Entreprises existantes ou en amorçage",
+    "Chiffre d’affaires annuel est inférieur ou égal à 200 MDH",
+    "Secteur industriel ou une activité liée à l’industrie"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 57 44\u000bwww.marocpme.gov.ma"
+  ],
+  "organisation": {
+    "nom": "MAROC PME",
+    "telephone": "05 37 57 44",
+    "site_web": "www.marocpme.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "IS",
+    "IR",
+    "douane"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "IS",
+    "IR",
+    "douane"
+  ]
+}

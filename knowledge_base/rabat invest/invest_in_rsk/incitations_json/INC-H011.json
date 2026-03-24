@@ -1,0 +1,97 @@
+{
+  "id": "INC-H011",
+  "nom": "PME LOGIS\nAMDL Agence Marocaine de développement de la logistique",
+  "nom_court": "PME LOGIS\nAMDL Agence Marocaine de développement de la lo...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "PME LOGIS est un programme qui a été conçu par L’AMDL, en partenariat avec la Confédération Générale des Entreprises du Maroc (CGEM), la Fédération du Transport & de la Logistique de la CGEM (FTL – CGEM) et le Groupement Interprofessionnel d’Aide au Conseil (GIAC TRANSLOG), pour la mise à niveau ...",
+  "description_complete": "PME LOGIS est un programme qui a été conçu par L’AMDL, en partenariat avec la Confédération Générale des Entreprises du Maroc (CGEM), la Fédération du Transport & de la Logistique de la CGEM (FTL – CGEM) et le Groupement Interprofessionnel d’Aide au Conseil (GIAC TRANSLOG), pour la mise à niveau logistique des PME marocaines sur la période 2017-2021\n\nPME Logis : destiné aux opérateurs de logistique et aux chargeurs pour la modernisation des pratiques logistiques au sein des PME marocaines.\n\n-Performance opérationnelle / 200 000 DHS / 80%\n-Performance commerciale / 100 000 DHS / 90%\n-Outsourcing /200 000 DHS / 90%\n-Performance supply chain / 200 000 DHS / 90%\n-Digitalisation de la supply chain / 500 000 DHS / 74%\n-Certification et labellisation / 120 000 DHS / 90%\n-Certification des compétences / 25 000 DHS par personne / 60%\n-Best Practices / 3 000 DHS par personne / 100%\n-Formation / 1 500 à 6 000 DHS par personne / 100%",
+  "avantages": [
+    "PME LOGIS est un programme qui a été conçu par L’AMDL, en partenariat avec la Confédération Générale des Entreprises du Maroc (CGEM), la Fédération du Transport & de la Logistique de la CGEM (FTL – CGEM) et le Groupement Interprofessionnel d’Aide au Conseil (GIAC TRANSLOG), pour la mise à niveau logistique des PME marocaines sur la période 2017-2021",
+    "PME Logis : destiné aux opérateurs de logistique et aux chargeurs pour la modernisation des pratiques logistiques au sein des PME marocaines.",
+    "Performance opérationnelle / 200 000 DHS / 80%",
+    "Performance commerciale / 100 000 DHS / 90%",
+    "Outsourcing /200 000 DHS / 90%",
+    "Performance supply chain / 200 000 DHS / 90%",
+    "Digitalisation de la supply chain / 500 000 DHS / 74%",
+    "Certification et labellisation / 120 000 DHS / 90%",
+    "Certification des compétences / 25 000 DHS par personne / 60%",
+    "Best Practices / 3 000 DHS par personne / 100%",
+    "Formation / 1 500 à 6 000 DHS par personne / 100%"
+  ],
+  "montant_ou_taux": "80%; 90%; 90%; 200 000 DH; 100 000 DH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Opérateurs logistiques :",
+    "Prestataires de services logistiques (3PL).",
+    "Commissionnaires de transport, notamment les Freight Forwarders.",
+    "Opérateurs de messagerie.",
+    "Transporteurs routiers de marchandises.",
+    "Transitaires",
+    "Chargeurs :",
+    "Industriels.",
+    "Distributeurs.",
+    "Grossistes et semi-grossistes",
+    "Sont éligibles au financement des produits de ce programme les Petites et Moyennes Entreprises (PME) :",
+    "De droit marocain.",
+    "Ayant un chiffre d’affaires annuel.",
+    "Entre 300 000DH et 200 MDH pour les opérateurs logistiques.",
+    "Entre 3 MDH et 200 MDH pour les chargeurs."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées"
+  ],
+  "organisation": {
+    "nom": "AMDL",
+    "telephone": "",
+    "site_web": "",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "digital",
+    "IS",
+    "transport"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "digital",
+    "IS",
+    "transport"
+  ]
+}

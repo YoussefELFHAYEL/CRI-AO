@@ -1,0 +1,84 @@
+{
+  "id": "INC-H046",
+  "nom": "Exonérations dans le cadre de la convention relative aux projets de l’habitat social",
+  "nom_court": "Exonérations dans le cadre de la convention relative aux ...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Couvrir les coûts des actions de structuration, de développement et de consolidation des consortiums avec un plafond de financement\nde 1,5 Million de dirham TTC assorti d’un accompagnement en expertise technique et ce selon les modalités suivantes :\n• App",
+  "description_complete": "Couvrir les coûts des actions de structuration, de développement et de consolidation des consortiums avec un plafond de financement\nde 1,5 Million de dirham TTC assorti d’un accompagnement en expertise technique et ce selon les modalités suivantes :\n• App",
+  "avantages": [
+    "Couvrir les coûts des actions de structuration, de développement et de consolidation des consortiums avec un plafond de financement",
+    "de 1,5 Million de dirham TTC assorti d’un accompagnement en expertise technique et ce selon les modalités suivantes :"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Projets de construction de 500 logements sociaux, tels que définis par les dispositions de ’article 92 (I- 28°) du Code Général des Impôts :",
+    "unité d’habitation dont la",
+    "superficie couverte est comprise entre 50 et 100 m²",
+    "prix de vente ne dépassant pas 250 000 DH, hors taxe sur la valeur ajoutée."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Une convention, en quatre (04) exemplaires originaux, non datée et dûment signée et cachetée par le promoteur. L’en-tête de la société doit figurer dans première page.",
+    "Un cahier de charges dûment signé et cacheté par le promoteur en deux exemplaires (02) originaux. L’en-tête de la société doit figurer dans la première page.",
+    "Fiche synthétique relative au (x) projet (s) en deux (02) exemplaires dûment signée et cachetée par le promoteur",
+    "Le statut de la société du promoteur immobilier en deux (02) exemplaires.",
+    "Fiche relative à la société (date de création, missions, projets et travaux réalisés, actionnaires ou associés …)",
+    "Lettre d’accompagnement du dossier adressée au Ministre de l’Habitat, de l’Urbanisme et de la politique de la ville.",
+    "Attestation de capacité financière et conventions conclues pour le financement du projet."
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nUne convention, en quatre (04) exemplaires originaux, non datée et dûment signée et cachetée par le promoteur. L’en-tête de la société doit figurer dans première page.\nUn cahier de charges dûment signé et cacheté par le promoteur en deux exemplaires (02) originaux. L’en-tête de la société doit figurer dans la première page.\nFiche synthétique relative au (x) projet (s) en deux (02) exemplaires dûment signée et cachetée par le promoteur\nLe statut de la société du promoteur immobilier en deux (02) exemplaires.\nFiche relative à la société (date de création, missions, projets et travaux réalisés, actionnaires ou associés …)\nLettre d’accompagnement du dossier adressée au Ministre de l’Habitat, de l’Urbanisme et de la politique de la ville.\nAttestation de capacité financière et conventions conclues pour le financement du projet.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "financement",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "btp",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "financement",
+    "IS",
+    "IR"
+  ]
+}

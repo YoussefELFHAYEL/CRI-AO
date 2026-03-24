@@ -1,0 +1,79 @@
+{
+  "id": "INC-E003",
+  "nom": "CGEM\nPREMIÈRE COMMANDE",
+  "nom_court": "CGEM\nPREMIÈRE COMMANDE",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "• «Première commande» il s’agit d’un ordre d’achat plafonné à 50.000 dirhams avec 30% d’acompte et un paiement cash à la livraison. • Il est corrélée au montant du prêt octroyé par la banque dans le cadre du produit INTELAKA",
+  "description_complete": "• «Première commande» il s’agit d’un ordre d’achat plafonné à 50.000 dirhams avec 30% d’acompte et un paiement cash à la livraison.\n• Il est corrélée au montant du prêt octroyé par la banque dans le cadre du produit INTELAKA.\n• Ce plafond devra être consommé sur une durée maximale de 3 ans.\n• A chaque fin de prestation, une attestation de «bonne exécution» est remise par l’entreprise ayant passé commande au prestataire. Ce dernier ne peut cumuler plusieurs commandes en même temps. Une seconde commande pourra être prise dans la limite du plafond et sous réserve de l’obtention de l’attestation de «bonne exécution» obtenue lors de la commande précédente;",
+  "avantages": [
+    "«Première commande» il s’agit d’un ordre d’achat plafonné à 50.000 dirhams avec 30% d’acompte et un paiement cash à la livraison.",
+    "Il est corrélée au montant du prêt octroyé par la banque dans le cadre du produit INTELAKA.",
+    "Ce plafond devra être consommé sur une durée maximale de 3 ans.",
+    "A chaque fin de prestation, une attestation de «bonne exécution» est remise par l’entreprise ayant passé commande au prestataire. Ce dernier ne peut cumuler plusieurs commandes en même temps. Une seconde commande pourra être prise dans la limite du plafond et sous réserve de l’obtention de l’attestation de «bonne exécution» obtenue lors de la commande précédente;"
+  ],
+  "montant_ou_taux": "30%",
+  "duree": "3 ans",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPE",
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Tous les secteurs sont concernés.",
+    "L’accès aux commandes est tributaire de l’accord du dossier de crédit dans le cadre du programme PIAFE par une banque de la place.",
+    "Le promoteur ne pourra prendre que les commandes issues de sa région."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées"
+  ],
+  "organisation": {
+    "nom": "CGEM",
+    "telephone": "",
+    "site_web": "",
+    "adresse": ""
+  },
+  "modalites": "GRATUIT",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "services",
+    "agriculture",
+    "tech",
+    "btp",
+    "commerce"
+  ],
+  "tailles_map": [
+    "ge",
+    "tpe",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "IS",
+    "IR"
+  ]
+}

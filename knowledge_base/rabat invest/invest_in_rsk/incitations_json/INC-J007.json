@@ -1,0 +1,84 @@
+{
+  "id": "INC-J007",
+  "nom": "ANAPEC- Aide à la formation aux secteurs – Secteur de l’industrie automobile",
+  "nom_court": "ANAPEC- Aide à la formation aux secteurs – Secteur de l’i...",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Contribution de l’Etat aux frais de formation. Le barème de remboursement se présente comme suit :\nNiveau Formation à l’embauche Formation continue\nCadre 33000 33.000\nTechnicien 33000 16500\nOpérateur 16500 5500",
+  "description_complete": "Contribution de l’Etat aux frais de formation.\nLe barème de remboursement se présente comme suit :\nNiveau Formation à l’embauche Formation continue\nCadre 33000 33.000\nTechnicien 33000 16500\nOpérateur 16500 5500",
+  "avantages": [
+    "Contribution de l’Etat aux frais de formation.",
+    "Le barème de remboursement se présente comme suit :",
+    "Niveau Formation à l’embauche Formation continue",
+    "Cadre 33000 33.000",
+    "Technicien 33000 16500",
+    "Opérateur 16500 5500"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Entreprise :",
+    "Opérant dans le secteur de l’industrie automobile",
+    "Disposant d’une attestation d’éligibilité, ou d’installation dans une zone dédiée,",
+    "Réalisant au moins 70% du Chiffre d’Affaire à l’export ou fournisseur direct d’entreprises réalisant cette condition",
+    "Diplômé de nationalité marocaine",
+    "Recruté par une entreprise du secteur"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": 70,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "www.anapec.org/"
+  ],
+  "organisation": {
+    "nom": "Agence Régionale de l’ANAPEC – Rabat",
+    "telephone": "05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "site_web": "www.anapec.org/",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "IS",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "IS",
+    "industrie"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "INC-J003",
+  "nom": "ANAPEC – CONTRAT INSERTION AMELIORE",
+  "nom_court": "ANAPEC – CONTRAT INSERTION AMELIORE",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Exonération durant la période de stage et dans la limite d’une rétribution de 6000 DH par mois du paiement : des cotisations patronales et salariales dues à la CNSS/TFP ; de l’Impôt sur le Revenu (IR) pour les candidats inscrits à l’ANAPEC depuis 6 mois et plus ;  Prise en charge par l’Etat, dur...",
+  "description_complete": "Exonération durant la période de stage et dans la limite d’une rétribution de 6000 DH par mois du paiement : des cotisations patronales et salariales dues à la CNSS/TFP ; de l’Impôt sur le Revenu (IR) pour les candidats inscrits à l’ANAPEC depuis 6 mois et plus ;  Prise en charge par l’Etat, durant la période de stage, des cotisations patronales et salariales au titre de l’Assurance Maladie Obligatoire de base (AMO);  Prise en charge directe par l’Etat, pendant une année, de la part patronale de la couverture sociale et de la TFP dues à la CNSS en cas de recrutement du stagiaire sur un contrat de travail, au cours ou à l’issue du stage (PCS).",
+  "avantages": [
+    "Exonération durant la période de stage et dans la limite d’une rétribution de 6000 DH par mois du paiement : des cotisations patronales et salariales dues à la CNSS/TFP ; de l’Impôt sur le Revenu (IR) pour les candidats inscrits à l’ANAPEC depuis 6 mois et plus ;  Prise en charge par l’Etat, durant la période de stage, des cotisations patronales et salariales au titre de l’Assurance Maladie Obligatoire de base (AMO);  Prise en charge directe par l’Etat, pendant une année, de la part patronale de la couverture sociale et de la TFP dues à la CNSS en cas de recrutement du stagiaire sur un contrat de travail, au cours ou à l’issue du stage (PCS)."
+  ],
+  "montant_ou_taux": "6000 DH",
+  "duree": "6 mois",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Indemnité mensuelle octroyée : 1600 à 6000 DH",
+    "Etablir des Contrats de stage de 24 mois maximum"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "www.anapec.org/"
+  ],
+  "organisation": {
+    "nom": "Agence Régionale de l’ANAPEC – Rabat",
+    "telephone": "05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "site_web": "www.anapec.org/",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "vert",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "vert",
+    "IS",
+    "IR"
+  ]
+}

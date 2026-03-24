@@ -1,0 +1,96 @@
+{
+  "id": "INC-J015",
+  "nom": "Centres Techniques Industriels – Centre Marocain des Techniques du Cuir (CMTC)",
+  "nom_court": "Centres Techniques Industriels – Centre Marocain des Tech...",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Missions du CMTC :\nContrôle et évaluation de la qualité des cuirs, des chaussures et de leurs composants, des vêtements, des textiles et des articles de maroquinerie, de bagagerie et de sellerie. Contrôle de la conformité des produits industriels\nInnovation, recherche et étude\nConseil et assistan...",
+  "description_complete": "Missions du CMTC :\nContrôle et évaluation de la qualité des cuirs, des chaussures et de leurs composants, des vêtements, des textiles et des articles de maroquinerie, de bagagerie et de sellerie.\nContrôle de la conformité des produits industriels\nInnovation, recherche et étude\nConseil et assistance technique en production, environnement, santé et sécurité\nFormation de perfectionnement destinée au personnel des entreprises du secteur du cuir\nVeille technologique\nNormalisation\nLes services offerts par le CMTC comprennent :\nEssais et Analyses de laboratoire (Essais physico–mécaniques, Analyses chimiques, Tests d’usage)\nPrestations CAO (Conception et création de modèle de chaussure, Graduation de modèle)\nContrôle de la conformité des produits industriels (Contrôle à l’importation, Contrôle local)\nConseil et Assistance technique (Accompagnement à l’innovation, Etablissement des cahiers des charges, Conseil en production, Conseil en environnement, santé et sécurité)\nFormation de Perfectionnement Etude R & D (Identification des thématiques de recherche intéressant l’industrie, Constitution d’un groupe de partenaires et d’entreprises intéressées, Etude et montage technique et financier du projet)\nIntelligence économique (Gestion des connaissances, Veille de CMTC, Diffusion de l’information).",
+  "avantages": [
+    "Missions du CMTC :",
+    "Contrôle et évaluation de la qualité des cuirs, des chaussures et de leurs composants, des vêtements, des textiles et des articles de maroquinerie, de bagagerie et de sellerie.",
+    "Contrôle de la conformité des produits industriels",
+    "Innovation, recherche et étude",
+    "Conseil et assistance technique en production, environnement, santé et sécurité",
+    "Formation de perfectionnement destinée au personnel des entreprises du secteur du cuir",
+    "Veille technologique",
+    "Normalisation",
+    "Les services offerts par le CMTC comprennent :",
+    "Essais et Analyses de laboratoire (Essais physico–mécaniques, Analyses chimiques, Tests d’usage)",
+    "Prestations CAO (Conception et création de modèle de chaussure, Graduation de modèle)",
+    "Contrôle de la conformité des produits industriels (Contrôle à l’importation, Contrôle local)",
+    "Conseil et Assistance technique (Accompagnement à l’innovation, Etablissement des cahiers des charges, Conseil en production, Conseil en environnement, santé et sécurité)",
+    "Formation de Perfectionnement Etude R & D (Identification des thématiques de recherche intéressant l’industrie, Constitution d’un groupe de partenaires et d’entreprises intéressées, Etude et montage technique et financier du projet)",
+    "Intelligence économique (Gestion des connaissances, Veille de CMTC, Diffusion de l’information)."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Assistance technique",
+    "Essais de laboratoire",
+    "Recherche et développement",
+    "Diagnostic conseil",
+    "Normalisation"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05 22 58 25 20/25",
+    "www.cmtc.ma"
+  ],
+  "organisation": {
+    "nom": "CMTC",
+    "telephone": "05 22 58 25 20/25",
+    "site_web": "www.cmtc.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "innovation",
+    "IS",
+    "IR",
+    "industrie",
+    "environnement"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "innovation",
+    "IS",
+    "IR",
+    "industrie",
+    "environnement"
+  ]
+}

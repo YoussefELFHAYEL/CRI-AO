@@ -1,0 +1,88 @@
+{
+  "id": "INC-H068",
+  "nom": "Impôt sur les sociétés\nImpôt sur le Revenu\nTaxe professionnelle",
+  "nom_court": "Impôt sur les sociétés\nImpôt sur le Revenu\nTaxe professio...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Impôt sur les Sociétés\n• Exonération totale pendant une durée de 10 ans en faveur du titulaire d’une concession d’exploitation de gisements d’hydrocarbures à compter de la date de mise en production régulière. • Exonération des bénéfices et des dividendes distribués par les titulaires d’une conce...",
+  "description_complete": "Impôt sur les Sociétés\n• Exonération totale pendant une durée de 10 ans en faveur du titulaire d’une concession d’exploitation de gisements d’hydrocarbures à compter de la date de mise en production régulière.\n• Exonération des bénéfices et des dividendes distribués par les titulaires d’une concession d’exploitation de gisements d’hydrocarbures, de la retenue à la source relative aux produits des actions ou parts sociales et revenus assimilés.\n\nTaxe sur la Valeur Ajoutée\n• Exonération avec droit à déduction des opérations d’acquisition, des biens et services nécessaires à l’activité des titulaires d’autorisation de reconnaissance, de permis de recherche ou de concessionnaires d’exploitation ainsi que leurs contractants et sous contractants.\n• Ouvre aussi droit à déduction, la taxe ayant grevé :\n\\- le gasoil utilisé pour les besoins d’exploitation des véhicules de transport collectif routier des personnes et des marchandises ainsi que le transport routier des marchandises effectué par les assujettis pour leur compte et par leur propre moyen ;\n\\- le gasoil utilisé pour les besoins d’exploitation des véhicules de transport ferroviaire des personnes et des marchandises ;\n\\- le gasoil et kérosène utilisés pour les besoins du transport aérien.\n• Sont exonérés de la taxe sur la valeur ajoutée à l’importation, les hydrocarbures destinés à l’avitaillement des navires effectuant une navigation en haute mer et des appareils aéronautiques, effectuant une navigation au-delà des frontières à destination de l’étranger et admis en franchise des droits de douane dans les conditions fixées par le code des douanes et impôts indirects.\n• Application du taux réduit de 10% avec droit à déduction aux ventes et livraisons portant sur le gaz de pétrole et autres hydrocarbures gazeux, les huiles de pétrole ou de schistes brutes ou raffinées.\n\nTaxe professionnelle\nLes titulaires d’un permis de recherche ou d’une concession d’exploitation bénéficient de l’exonération totale de la taxe professionnelle",
+  "avantages": [
+    "Impôt sur les Sociétés",
+    "Exonération totale pendant une durée de 10 ans en faveur du titulaire d’une concession d’exploitation de gisements d’hydrocarbures à compter de la date de mise en production régulière.",
+    "Exonération des bénéfices et des dividendes distribués par les titulaires d’une concession d’exploitation de gisements d’hydrocarbures, de la retenue à la source relative aux produits des actions ou parts sociales et revenus assimilés.",
+    "Taxe sur la Valeur Ajoutée",
+    "Exonération avec droit à déduction des opérations d’acquisition, des biens et services nécessaires à l’activité des titulaires d’autorisation de reconnaissance, de permis de recherche ou de concessionnaires d’exploitation ainsi que leurs contractants et sous contractants.",
+    "Ouvre aussi droit à déduction, la taxe ayant grevé :",
+    "le gasoil utilisé pour les besoins d’exploitation des véhicules de transport collectif routier des personnes et des marchandises ainsi que le transport routier des marchandises effectué par les assujettis pour leur compte et par leur propre moyen ;",
+    "le gasoil utilisé pour les besoins d’exploitation des véhicules de transport ferroviaire des personnes et des marchandises ;",
+    "le gasoil et kérosène utilisés pour les besoins du transport aérien.",
+    "Sont exonérés de la taxe sur la valeur ajoutée à l’importation, les hydrocarbures destinés à l’avitaillement des navires effectuant une navigation en haute mer et des appareils aéronautiques, effectuant une navigation au-delà des frontières à destination de l’étranger et admis en franchise des droits de douane dans les conditions fixées par le code des douanes et impôts indirects.",
+    "Application du taux réduit de 10% avec droit à déduction aux ventes et livraisons portant sur le gaz de pétrole et autres hydrocarbures gazeux, les huiles de pétrole ou de schistes brutes ou raffinées.",
+    "Taxe professionnelle",
+    "Les titulaires d’un permis de recherche ou d’une concession d’exploitation bénéficient de l’exonération totale de la taxe professionnelle"
+  ],
+  "montant_ou_taux": "10%",
+  "duree": "10 ans",
+  "cible": {
+    "tailles": [
+      "sociétés"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "IS",
+    "IR",
+    "douane",
+    "transport"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "IS",
+    "IR",
+    "douane",
+    "transport"
+  ]
+}

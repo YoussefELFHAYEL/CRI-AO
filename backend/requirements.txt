@@ -1,0 +1,43 @@
+# Core
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-dotenv==1.0.1
+pydantic==2.10.4
+pydantic-settings==2.7.1
+
+# LangChain (for RAG pipeline components)
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-experimental==0.3.4
+
+# Google Gemini
+google-genai>=1.0.0
+
+# Embeddings & ML
+transformers==4.41.2
+sentence-transformers==3.0.1
+torch>=2.0.0
+
+# Vector Store
+chromadb==0.5.23
+
+# BM25
+rank-bm25==0.2.2
+
+# Supabase
+supabase==2.11.0
+
+# Language Detection
+langdetect==1.0.9
+
+# PDF Processing
+pypdf==5.1.0
+
+# Utilities
+numpy>=1.26.0
+httpx==0.28.1
+python-multipart==0.0.20
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0

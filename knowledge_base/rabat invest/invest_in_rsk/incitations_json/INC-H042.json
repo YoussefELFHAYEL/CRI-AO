@@ -1,0 +1,95 @@
+{
+  "id": "INC-H042",
+  "nom": "TAXE D’HABITATION",
+  "nom_court": "TAXE D’HABITATION",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Votre habitation principale ou secondaire est soumise à la taxe d’habitation. Cette taxe est assise sur la valeur locative du logement,\ndéterminée par voie de comparaison par la commission de recensement",
+  "description_complete": "Votre habitation principale ou secondaire est soumise à la taxe d’habitation. Cette taxe est assise sur la valeur locative du logement,\ndéterminée par voie de comparaison par la commission de recensement.\nCette valeur locative est révisée tous les cinq (5) ans par une augmentation de 2%.\nEn tant que Marocain Résidant à l’Etranger, vous bénéficiez, au titre de votre logement considéré comme habitation principale, d’un abattement\nde 75% de la valeur locative. Si ce logement est occupé à titre gratuit par votre conjoint,\nvos enfants ou vos parents, vous bénéficiez également de cet abattement. Vous êtes en outre exonéré de la taxe d’habitation\nau titre des constructions nouvelles affectées à votre habitation principale et ce pendant une période de cinq (5) ans suivant celle de leur achèvement.\n\nBarème de la taxe d’habitation\n\nTRANCHES DE VALEUR LOCATIVE V.L (DH) TAUX Montant à déduire en DH\n\n0 à 5 000 0% Néant\n5 001 à 20 000 10% 500\n20 001 à 40 000 20% 2 500\n40 001 dirhams et plus 30% 6 500",
+  "avantages": [
+    "Votre habitation principale ou secondaire est soumise à la taxe d’habitation. Cette taxe est assise sur la valeur locative du logement,",
+    "déterminée par voie de comparaison par la commission de recensement.",
+    "Cette valeur locative est révisée tous les cinq (5) ans par une augmentation de 2%.",
+    "En tant que Marocain Résidant à l’Etranger, vous bénéficiez, au titre de votre logement considéré comme habitation principale, d’un abattement",
+    "de 75% de la valeur locative. Si ce logement est occupé à titre gratuit par votre conjoint,",
+    "vos enfants ou vos parents, vous bénéficiez également de cet abattement. Vous êtes en outre exonéré de la taxe d’habitation",
+    "au titre des constructions nouvelles affectées à votre habitation principale et ce pendant une période de cinq (5) ans suivant celle de leur achèvement.",
+    "Barème de la taxe d’habitation",
+    "TRANCHES DE VALEUR LOCATIVE V.L (DH) TAUX Montant à déduire en DH",
+    "0 à 5 000 0% Néant",
+    "5 001 à 20 000 10% 500",
+    "20 001 à 40 000 20% 2 500",
+    "40 001 dirhams et plus 30% 6 500"
+  ],
+  "montant_ou_taux": "2%; 75%; 0%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "MRE"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre",
+    "Vos obligations :",
+    "Déclaration d’achèvement des travaux de construction :",
+    "Si vous procédez à des constructions nouvelles ou à des additions de constructions, vous devez souscrire votre déclaration au plus tard le 31 janvier de l’année suivant celle de l’achèvement des travaux.",
+    "Déclaration de changement de propriété ou d’affectation des immeubles :",
+    "Si vous procédez au changement d’affectation d’immeubles ou au changement de propriété, vous devez souscrire votre déclaration au plus",
+    "tard le 31 janvier de l’année suivant celle du changement.",
+    "Déclaration de vacance :",
+    "Si vous êtes propriétaire ou usufruitier d’immeublessoumis à la taxe d’habitation et qui sont vacants pour cause de grosses réparations ou bien",
+    "destinés à la vente ou à la location, vous devez souscrire, par immeuble, une déclaration de vacance au cours du mois de janvier de l’année suivant celle de la vacance. Cette déclaration, qui vaut demande de décharge de la taxe",
+    "d’habitation, doit comporter la consistance des locaux vacants, ainsi que la période et le motif de la vacance, justifiés par tout moyen de preuve"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Vos obligations :\nDéclaration d’achèvement des travaux de construction :\nSi vous procédez à des constructions nouvelles ou à des additions de constructions, vous devez souscrire votre déclaration au plus tard le 31 janvier de l’année suivant celle de l’achèvement des travaux.\n\nDéclaration de changement de propriété ou d’affectation des immeubles :\nSi vous procédez au changement d’affectation d’immeubles ou au changement de propriété, vous devez souscrire votre déclaration au plus\ntard le 31 janvier de l’année suivant celle du changement.\n\nDéclaration de vacance :\nSi vous êtes propriétaire ou usufruitier d’immeublessoumis à la taxe d’habitation et qui sont vacants pour cause de grosses réparations ou bien\ndestinés à la vente ou à la location, vous devez souscrire, par immeuble, une déclaration de vacance au cours du mois de janvier de l’année suivant celle de la vacance. Cette déclaration, qui vaut demande de décharge de la taxe\nd’habitation, doit comporter la consistance des locaux vacants, ainsi que la période et le motif de la vacance, justifiés par tout moyen de preuve",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "btp"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "IS",
+    "IR"
+  ]
+}

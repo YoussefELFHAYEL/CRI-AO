@@ -1,0 +1,86 @@
+{
+  "id": "INC-E002",
+  "nom": "Maroc Numeric Fund – Capital Risque",
+  "nom_court": "Maroc Numeric Fund – Capital Risque",
+  "axe": "",
+  "type_incitation": "financement",
+  "description_courte": "En phase de capital risque, Maroc Numeric Fund investit dans des startups innovantes de moins de 5 ans, ayant témoigné d’une croissance significative de son chiffre d’affaires, et ayant besoin d’un apport financier pour financer sa croissance au Maroc et à l’international. Le ticket d’investissem...",
+  "description_complete": "En phase de capital risque, Maroc Numeric Fund investit dans des startups innovantes de moins de 5 ans, ayant témoigné d’une croissance significative de son chiffre d’affaires, et ayant besoin d’un apport financier pour financer sa croissance au Maroc et à l’international. Le ticket d’investissement pour cette phase se situe entre 4 et 10 MDH.\nMaroc Numeric Fund prend une participation minoritaire mais significative du capital lors d’un premier tour de financement. Il peut compléter son investissement par un apport en compte courant d’associés ou en obligations convertibles. Le fonds investit uniquement dans des entreprises ayant ou ayant l’intention d’avoir le statut de S.A. (Société Anonyme) ou il participe de manière active aux organes sociaux de l’entreprise.\nLes tickets d’investissement s’établiront de 4 MDH à 10 MDH",
+  "avantages": [
+    "En phase de capital risque, Maroc Numeric Fund investit dans des startups innovantes de moins de 5 ans, ayant témoigné d’une croissance significative de son chiffre d’affaires, et ayant besoin d’un apport financier pour financer sa croissance au Maroc et à l’international. Le ticket d’investissement pour cette phase se situe entre 4 et 10 MDH.",
+    "Maroc Numeric Fund prend une participation minoritaire mais significative du capital lors d’un premier tour de financement. Il peut compléter son investissement par un apport en compte courant d’associés ou en obligations convertibles. Le fonds investit uniquement dans des entreprises ayant ou ayant l’intention d’avoir le statut de S.A. (Société Anonyme) ou il participe de manière active aux organes sociaux de l’entreprise.",
+    "Les tickets d’investissement s’établiront de 4 MDH à 10 MDH"
+  ],
+  "montant_ou_taux": "10 MDH; 4 MDH; 10 MDH",
+  "duree": "5 ans",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Startups innovantes opérant dans le secteur des technologies de l’information et de communication présentant un fort potentiel de croissance. Le projet doit présenter une forme d’innovation par rapport à l’industrie nationale mais celle-ci peut aussi bien résider dans la technologie, le business model, le mode de commercialisation ou la nature même de l’utilisation du produit ou du service.",
+    "Maroc Numeric Fund réserve jusqu’à 20% maximum de ses capitaux pour d’autres secteurs innovants (exemple : biotechnologies, technologies vertes…),",
+    "Sont exclus les projets majoritairement dédiés au commerce électronique, les distributeurs, les importateurs ou les cabinets de formation ou de conseil technologique.",
+    "Sont exclus aussi les projets en concurrence avec les startups de notre portefeuille.",
+    "Maroc Numeric Fund n’investit que dans des sociétés ayant leur siège social au Maroc. Toutefois, tout ou partie de l’activité peut se réaliser à l’étranger ou à l’export."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: +212 5 22 50 30 33",
+    "www.mnf.ma"
+  ],
+  "organisation": {
+    "nom": "Maroc Numeric Fund",
+    "telephone": "+212 5 22 50 30 33",
+    "site_web": "www.mnf.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "financement",
+    "investissement",
+    "startup",
+    "vert",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "financement",
+    "investissement",
+    "startup",
+    "vert",
+    "IS",
+    "IR"
+  ]
+}

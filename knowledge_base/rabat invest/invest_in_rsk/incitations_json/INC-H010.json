@@ -1,0 +1,101 @@
+{
+  "id": "INC-H010",
+  "nom": "PROGRAMME INTEGRE D’APPUI ET DE FINANCEMENT DE L’ENTREPRENEURIAT (PIAFE)",
+  "nom_court": "PROGRAMME INTEGRE D’APPUI ET DE FINANCEMENT DE L’ENTREPRE...",
+  "axe": "",
+  "type_incitation": "financement",
+  "description_courte": "L’offre de financement correspond à des crédits remboursables destinés à financer :\nLes dépenses d’investissement\nLes dépenses d’exploitation\nLe programme comprends trois catégories :\nLes crédits d’investissement et de fonctionnement dits « Intelak »\nLes crédits d’investissement et de fonctionnem...",
+  "description_complete": "L’offre de financement correspond à des crédits remboursables destinés à financer :\nLes dépenses d’investissement\nLes dépenses d’exploitation\nLe programme comprends trois catégories :\nLes crédits d’investissement et de fonctionnement dits « Intelak »\nLes crédits d’investissement et de fonctionnement dits « Intelak Al Moustatmir Al Qarawi »\nLes prêts gratuits « Start-TPE »",
+  "avantages": [
+    "L’offre de financement correspond à des crédits remboursables destinés à financer :",
+    "Les dépenses d’investissement",
+    "Les dépenses d’exploitation",
+    "Le programme comprends trois catégories :",
+    "Les crédits d’investissement et de fonctionnement dits « Intelak »",
+    "Les crédits d’investissement et de fonctionnement dits « Intelak Al Moustatmir Al Qarawi »",
+    "Les prêts gratuits « Start-TPE »"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "très petite",
+      "individuel",
+      "TPE",
+      "auto-entrepreneur"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Jeune entrepreneur",
+      "Auto-entrepreneur",
+      "Startup",
+      "Coopérative",
+      "Exportateur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Pour les entreprises en création",
+    "Un chiffre d’affaires prévisionnel inférieur ou égal à 10 Millions de DH.",
+    "Pour les entreprises existantes ayant leur activité en zone urbaine",
+    "un chiffre d’affaires inférieur ou égal à 10 millions de DH ;",
+    "être créées depuis 5 ans maximum.",
+    "Pour les entreprises ayant leur activité en zone rurale",
+    "Un chiffre d’affaire inférieur ou égal à 10 millions de DH ;",
+    "Être créées depuis 5 ans maximum. Sont dispensés de cette condition les exploitations agricoles qui peuvent être soit des créations nouvelles, soit des reconversions significatives de l’exploitation, soit des investissements innovants ou permettant une modernisation de l’activité.",
+    "Pour les entreprises exportatrices vers l’Afrique",
+    "Un chiffre d’affaires inférieur ou égal à 10 millions de DH sans condition d’ancienneté"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": 5,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537 77 64 00",
+    "www.rabatinvest.ma/"
+  ],
+  "organisation": {
+    "nom": "CRI Rabat-Salé-Kenitra",
+    "telephone": "0537 77 64 00",
+    "site_web": "www.rabatinvest.ma/",
+    "adresse": ""
+  },
+  "modalites": "Pour bénéficier de l’offre de financement, il est indiqué de s’adresser aux banques partenaires du programme et qui offrent les financements définis dans le cadre de ce programme, à savoir : Al Barid Bank, Arab Bank, Attijariwafa Bank, Bank Al-Amal, BMCE Bank, BMCI, CFG Bank, CIH Bank, Crédit Agricole du Maroc, Crédit du Maroc, Crédit Populaire du Maroc, Société Générale Marocaine des Banques.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "crédit",
+    "financement",
+    "investissement",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "agriculture",
+    "industrie",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "crédit",
+    "financement",
+    "investissement",
+    "IS",
+    "IR"
+  ]
+}

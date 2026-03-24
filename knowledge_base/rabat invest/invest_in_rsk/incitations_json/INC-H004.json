@@ -1,0 +1,91 @@
+{
+  "id": "INC-H004",
+  "nom": "Fiscalité/Société Holding Offshore.",
+  "nom_court": "Fiscalité/Société Holding Offshore.",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "20% libératoire de l’IR pour les traitements, émoluments et salaires bruts versés par les sociétés holding offshore à leur personnel salarié\nImpôt sur les sociétés\nImpôt forfaitaire de 500 $ US / an, libératoire de tous impôts et taxes frappant les bénéfices ou revenus de ces sociétés, durant les...",
+  "description_complete": "Impôt sur le revenu\n. 20% libératoire de l’IR pour les traitements, émoluments et salaires bruts versés par les sociétés holding offshore à leur personnel salarié\nImpôt sur les sociétés\nImpôt forfaitaire de 500 $ US / an, libératoire de tous impôts et taxes frappant les bénéfices ou revenus de ces sociétés, durant les 15 premières années qui suivent la date d'installation.\nExonération permanente des dividendes distribués aux actionnaires au prorata du chiffre d’affaires offshore correspondant aux prestations de services exonérées\nTaxe sur la valeur ajoutée\nExonération avec bénéfice du droit à déduction pour les opérations effectuées au profit des banques offshore ou de personnes physiques ou morales non résidentes et payées en monnaies étrangères convertibles. Ces opérations bénéficient du droit à déduction au prorata du chiffre d’affaires exonéré, dans les conditions prévues par le code général des impôts.\nTaxe professionnelle23\nExonération permanente au titre des immeubles occupés par les sièges ou agences\nDroits d’enregistrement et de timbre\nExonération des actes de constitution et d’augmentation de capital\nExonération des acquisitions de terrains nécessaires à l’établissement de leurs sièges, agences et succursales24\n\nNB :\n\n21 Les avantages accordés aux sociétés holding offshore sont exclusifs de tout autre avantage prévu par d’autres dispositions législatives en matière d’encouragement à l’investissement (LF 2010)\n22 Instruction générale des Opérations de Change 2013 + Titre II/chapitre II de la loi n° 58-90 relative aux places financières offshore.\n23 Loi n°47-06 relative à la fiscalité locale des collectivités locales\n24 sous réserve que les immeubles acquis demeurent à l’actif des sociétés holding offshore pendant au moins dix (10) ans à compter de la date de l’obtention de l’agrément",
+  "avantages": [
+    "Impôt sur le revenu",
+    ". 20% libératoire de l’IR pour les traitements, émoluments et salaires bruts versés par les sociétés holding offshore à leur personnel salarié",
+    "Impôt sur les sociétés",
+    "Impôt forfaitaire de 500 $ US / an, libératoire de tous impôts et taxes frappant les bénéfices ou revenus de ces sociétés, durant les 15 premières années qui suivent la date d'installation.",
+    "Exonération permanente des dividendes distribués aux actionnaires au prorata du chiffre d’affaires offshore correspondant aux prestations de services exonérées",
+    "Taxe sur la valeur ajoutée",
+    "Exonération avec bénéfice du droit à déduction pour les opérations effectuées au profit des banques offshore ou de personnes physiques ou morales non résidentes et payées en monnaies étrangères convertibles. Ces opérations bénéficient du droit à déduction au prorata du chiffre d’affaires exonéré, dans les conditions prévues par le code général des impôts.",
+    "Taxe professionnelle23",
+    "Exonération permanente au titre des immeubles occupés par les sièges ou agences",
+    "Droits d’enregistrement et de timbre",
+    "Exonération des actes de constitution et d’augmentation de capital",
+    "Exonération des acquisitions de terrains nécessaires à l’établissement de leurs sièges, agences et succursales24",
+    "21 Les avantages accordés aux sociétés holding offshore sont exclusifs de tout autre avantage prévu par d’autres dispositions législatives en matière d’encouragement à l’investissement (LF 2010)",
+    "22 Instruction générale des Opérations de Change 2013 + Titre II/chapitre II de la loi n° 58-90 relative aux places financières offshore.",
+    "23 Loi n°47-06 relative à la fiscalité locale des collectivités locales"
+  ],
+  "montant_ou_taux": "20%; 500 $",
+  "duree": "permanent",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Notification de l’installation à l'Office des changes dans un délai maximum de 30 jours à compter de la date de l’inscription sur le registre du commerce."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "investissement",
+    "vert",
+    "IS",
+    "IR",
+    "offshore"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "investissement",
+    "vert",
+    "IS",
+    "IR",
+    "offshore"
+  ]
+}

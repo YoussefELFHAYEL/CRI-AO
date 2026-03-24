@@ -1,0 +1,82 @@
+{
+  "id": "INC-J001",
+  "nom": "ANAPEC-IDMAJ",
+  "nom_court": "ANAPEC-IDMAJ",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "• Contrat de droit commun: Une exonération des cotisations CNSS/TFP et de l’IR pendant 24 mois, prolongée de 12 mois ;\n• Contrat d’insertion amélioré : Prise en charge par l’État de la part patronale de la Couverture Sociale, pendant une année, en cas de recrutement des bénéficiaires de contrats ...",
+  "description_complete": "• Contrat de droit commun: Une exonération des cotisations CNSS/TFP et de l’IR pendant 24 mois, prolongée de 12 mois ;\n• Contrat d’insertion amélioré : Prise en charge par l’État de la part patronale de la Couverture Sociale, pendant une année, en cas de recrutement des bénéficiaires de contrats d’insertion sur un contrat à durée indéterminée sans période d’essai, au cours ou à l’issue des 24 mois de stage de formation insertion.\n• Contrat d’Intégration Professionnelle « CIP » : octroi d’une prime de 25 000 DH aux entreprises recrutant des diplômés universitaires sur un contrat à durée indéterminée à l’issue d’un stage de formation intégration de 6 à 9 mois dans le cadre du dispositif des contrats d’insertion.\nEntreprises de droit privé affiliées à la CNSS recrutant des diplômés (de l’enseignement supérieur et de la formation professionnelle) et bacheliers inscrits à l’ANAPEC.",
+  "avantages": [
+    "Contrat de droit commun: Une exonération des cotisations CNSS/TFP et de l’IR pendant 24 mois, prolongée de 12 mois ;",
+    "Contrat d’insertion amélioré : Prise en charge par l’État de la part patronale de la Couverture Sociale, pendant une année, en cas de recrutement des bénéficiaires de contrats d’insertion sur un contrat à durée indéterminée sans période d’essai, au cours ou à l’issue des 24 mois de stage de formation insertion.",
+    "Contrat d’Intégration Professionnelle « CIP » : octroi d’une prime de 25 000 DH aux entreprises recrutant des diplômés universitaires sur un contrat à durée indéterminée à l’issue d’un stage de formation intégration de 6 à 9 mois dans le cadre du dispositif des contrats d’insertion.",
+    "Entreprises de droit privé affiliées à la CNSS recrutant des diplômés (de l’enseignement supérieur et de la formation professionnelle) et bacheliers inscrits à l’ANAPEC."
+  ],
+  "montant_ou_taux": "25 000 DH",
+  "duree": "24 mois",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME",
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "www.anapec.org/"
+  ],
+  "organisation": {
+    "nom": "Agence Régionale de l’ANAPEC – Rabat",
+    "telephone": "05 37 77 81 05 / 05 37 70 39 58/60/63",
+    "site_web": "www.anapec.org/",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "prime",
+    "formation",
+    "vert",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "prime",
+    "formation",
+    "vert",
+    "IS",
+    "IR"
+  ]
+}

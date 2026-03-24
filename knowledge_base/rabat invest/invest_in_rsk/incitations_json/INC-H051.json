@@ -1,0 +1,70 @@
+{
+  "id": "INC-H051",
+  "nom": "Droit d'importation",
+  "nom_court": "Droit d'importation",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Taux minimum de 2,5% ad valorem ou Taux maximum de 10% ad valorem\n• Les biens d’équipement, matériels et outillages ainsi que leurs parties, pièces détachées et accessoires, considérés comme nécessaires à la promotion et au développement de l’investissement.",
+  "description_complete": "Taux minimum de 2,5% ad valorem ou Taux maximum de 10% ad valorem\n• Les biens d’équipement, matériels et outillages ainsi que leurs parties, pièces détachées et accessoires, considérés comme nécessaires à la promotion et au développement de l’investissement.",
+  "avantages": [
+    "Taux minimum de 2,5% ad valorem ou Taux maximum de 10% ad valorem",
+    "Les biens d’équipement, matériels et outillages ainsi que leurs parties, pièces détachées et accessoires, considérés comme nécessaires à la promotion et au développement de l’investissement."
+  ],
+  "montant_ou_taux": "5%; 10%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées"
+  ],
+  "organisation": {
+    "nom": "Administration des Douanes et Impôts Indirects",
+    "telephone": "",
+    "site_web": "",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\n\nCoordonnées",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "investissement",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "tech",
+    "commerce"
+  ],
+  "tailles_map": [
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "investissement",
+    "IS",
+    "IR"
+  ]
+}

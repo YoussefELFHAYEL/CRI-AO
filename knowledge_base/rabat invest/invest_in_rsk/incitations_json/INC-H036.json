@@ -1,0 +1,76 @@
+{
+  "id": "INC-H036",
+  "nom": "Autres avantages",
+  "nom_court": "Autres avantages",
+  "axe": "",
+  "type_incitation": "subvention",
+  "description_courte": "• Dispense de l’obligation d’inscription au registre de commerce ;\n• Dispense des obligations comptables ;\n• Possibilité de domicilier son activité dans sa résidence ou dans les locaux exploités en commun par plusieurs entreprises sans que sa\nrésidence principale ne puisse faire l’objet de saisie...",
+  "description_complete": "• Dispense de l’obligation d’inscription au registre de commerce ;\n• Dispense des obligations comptables ;\n• Possibilité de domicilier son activité dans sa résidence ou dans les locaux exploités en commun par plusieurs entreprises sans que sa\nrésidence principale ne puisse faire l’objet de saisie à raison des dettes dont il est redevable ;\n• Couverture sociale à compter de la date de l’inscription au Registre National de l’autoentrepreneur (RNAE).",
+  "avantages": [
+    "Dispense de l’obligation d’inscription au registre de commerce ;",
+    "Dispense des obligations comptables ;",
+    "Possibilité de domicilier son activité dans sa résidence ou dans les locaux exploités en commun par plusieurs entreprises sans que sa",
+    "résidence principale ne puisse faire l’objet de saisie à raison des dettes dont il est redevable ;",
+    "Couverture sociale à compter de la date de l’inscription au Registre National de l’autoentrepreneur (RNAE)."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "auto-entrepreneur"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Auto-entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "vert",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "tech",
+    "commerce"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "vert",
+    "IS",
+    "IR"
+  ]
+}

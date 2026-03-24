@@ -1,0 +1,89 @@
+{
+  "id": "INC-H028",
+  "nom": "Exonération de la TVA à l’intérieur (ou à l’importation) pendant 24 mois à compter du début d’activité de la société",
+  "nom_court": "Exonération de la TVA à l’intérieur (ou à l’importation) ...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "• Les biens d’investissement à inscrire dans un compte d’immobilisation ;\n• Les autocars, les camions et les biens d’équipement y afférents, à inscrire dans un compte d’immobilisation, acquis par les entreprises de transport international routier ;\n• Les biens d‘équipement destinés à l‘enseigneme...",
+  "description_complete": "• Les biens d’investissement à inscrire dans un compte d’immobilisation ;\n• Les autocars, les camions et les biens d’équipement y afférents, à inscrire dans un compte d’immobilisation, acquis par les entreprises de transport international routier ;\n• Les biens d‘équipement destinés à l‘enseignement privé ou à la formation professionnelle à inscrire dans un compte d‘immobilisation, acquis par les établissements privés d‘enseignement ou de formation professionnelle, à l‘exclusion des véhicules automobiles autres que ceux réservés au transport scolaire collectif et aménagés spécialement à cet effet ;\n• Les biens d’équipement, matériels ou outillages, acquis ou dont l’importation est autorisée par l’Administration, importés ou acquis par les diplômés de la formation professionnelle.",
+  "avantages": [
+    "Les biens d’investissement à inscrire dans un compte d’immobilisation ;",
+    "Les autocars, les camions et les biens d’équipement y afférents, à inscrire dans un compte d’immobilisation, acquis par les entreprises de transport international routier ;",
+    "Les biens d‘équipement destinés à l‘enseignement privé ou à la formation professionnelle à inscrire dans un compte d‘immobilisation, acquis par les établissements privés d‘enseignement ou de formation professionnelle, à l‘exclusion des véhicules automobiles autres que ceux réservés au transport scolaire collectif et aménagés spécialement à cet effet ;",
+    "Les biens d’équipement, matériels ou outillages, acquis ou dont l’importation est autorisée par l’Administration, importés ou acquis par les diplômés de la formation professionnelle."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME",
+      "auto-entrepreneur"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Auto-entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "formation",
+    "investissement",
+    "TVA",
+    "IS",
+    "IR",
+    "transport"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "btp",
+    "tech",
+    "industrie",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "formation",
+    "investissement",
+    "TVA",
+    "IS",
+    "IR",
+    "transport"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "INC-B002",
+  "nom": "TATWIR START UP",
+  "nom_court": "TATWIR START UP",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Offre intégrée d’accompagnement de bout en bout des projets de startups allant de l’idée jusqu’à l’industrialisation en passant par Offre de valeur :\nLa préincubation : sélection des idées de porteurs de projets et l’appui à leur structuration\nL’incubation : accompagnement des porteurs de projets...",
+  "description_complete": "Offre intégrée d’accompagnement de bout en bout des projets de startups allant de l’idée jusqu’à l’industrialisation en passant par Offre de valeur :\nLa préincubation : sélection des idées de porteurs de projets et l’appui à leur structuration\nL’incubation : accompagnement des porteurs de projets de startups sélectionnées pour la transformation de leurs idées en projet viable « INCUB-IDEA » allant jusqu’au démarrage effectif de la startup « INCUB-START »\nL’appui à l’industrialisation\nApport de Maroc PME :\nUne prise en charge totale des phases de préincubation et d’incubation.\nAppui additionnel de 50% du projet de créativité, design et développement de produit industriel avec un plafond de 1,5 MDH TTC.\nSoutien financier 30% plafonné à 2Mdh TTC/projet sous forme d’appui à l’investissement des projets de startups industrielles sélectionnées",
+  "avantages": [
+    "Offre intégrée d’accompagnement de bout en bout des projets de startups allant de l’idée jusqu’à l’industrialisation en passant par Offre de valeur :",
+    "La préincubation : sélection des idées de porteurs de projets et l’appui à leur structuration",
+    "L’incubation : accompagnement des porteurs de projets de startups sélectionnées pour la transformation de leurs idées en projet viable « INCUB-IDEA » allant jusqu’au démarrage effectif de la startup « INCUB-START »",
+    "L’appui à l’industrialisation",
+    "Apport de Maroc PME :",
+    "Une prise en charge totale des phases de préincubation et d’incubation.",
+    "Appui additionnel de 50% du projet de créativité, design et développement de produit industriel avec un plafond de 1,5 MDH TTC.",
+    "Soutien financier 30% plafonné à 2Mdh TTC/projet sous forme d’appui à l’investissement des projets de startups industrielles sélectionnées"
+  ],
+  "montant_ou_taux": "50%; 30%; 5 MDH; 2Mdh",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Startup"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Projets industriels innovants ou de services à forte valeur ajoutée liés à l’industrie."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 57 44\u000bwww.marocpme.gov.ma"
+  ],
+  "organisation": {
+    "nom": "MAROC PME",
+    "telephone": "05 37 57 44",
+    "site_web": "www.marocpme.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "formation",
+    "investissement",
+    "startup",
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "formation",
+    "investissement",
+    "startup",
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

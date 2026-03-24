@@ -1,0 +1,93 @@
+{
+  "id": "INC-C009",
+  "nom": "DAMANE CAPITAL RISQUE",
+  "nom_court": "DAMANE CAPITAL RISQUE",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Garantie des apports en fonds propres ou quasi-fonds propres réalisés par les sociétés de capital-risque. Concours garantis\npports en fonds propres ou quasi-fonds propres sous forme de :\nSouscription d’actions ou de parts sociales\nSouscription d’obligations convertibles\nSouscription de titres par...",
+  "description_complete": "Garantie des apports en fonds propres ou quasi-fonds propres réalisés par les sociétés de capital-risque.\nConcours garantis\npports en fonds propres ou quasi-fonds propres sous forme de :\nSouscription d’actions ou de parts sociales\nSouscription d’obligations convertibles\nSouscription de titres participatifs ou de certificats d’investissement\nAvances en comptes courants associés\nQuotité et plafond de risque\nQuotité de garantie : 60 % des apports en fonds propres et quasi-fonds propres pour les projets innovants (50% pour les autres projets).\nPlafond de risque :\n5.000.000 DH par entreprise\n20.000.000 DH sur une même entreprise ou groupe d’entreprises, tous concours de garantie confondus\nCommission de la garentie\n1,5 % flat, TVA en sus, sur le montant garanti des fonds propres et quasi-fonds propres.\nCommission sur les plus-values\n7% (HT) pour les opérations d'amorçage / 10% (HT) pour les autres opérations.\ncommission sur prime de non conversion des obligations\n10% (HT) sur la prime de non conversion.",
+  "avantages": [
+    "Garantie des apports en fonds propres ou quasi-fonds propres réalisés par les sociétés de capital-risque.",
+    "Concours garantis",
+    "pports en fonds propres ou quasi-fonds propres sous forme de :",
+    "Souscription d’actions ou de parts sociales",
+    "Souscription d’obligations convertibles",
+    "Souscription de titres participatifs ou de certificats d’investissement",
+    "Avances en comptes courants associés",
+    "Quotité et plafond de risque",
+    "Quotité de garantie : 60 % des apports en fonds propres et quasi-fonds propres pour les projets innovants (50% pour les autres projets).",
+    "Plafond de risque :",
+    "5.000.000 DH par entreprise",
+    "20.000.000 DH sur une même entreprise ou groupe d’entreprises, tous concours de garantie confondus",
+    "Commission de la garentie",
+    "1,5 % flat, TVA en sus, sur le montant garanti des fonds propres et quasi-fonds propres.",
+    "Commission sur les plus-values"
+  ],
+  "montant_ou_taux": "60 %; 50%; 5 %; 5.000.000 DH; 20.000.000 DH",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "sociétés"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Projets Finançables",
+    "Apports en fonds propres ou quasi-fonds propres réalisés par les sociétés ayant pour objet l'apport en fonds propres et quasi-fonds propres dans des entreprises éligibles",
+    "Ces apports ne doivent pas être garantis par d’autres organismes."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05377-16868",
+    "www.tamwilcom.ma"
+  ],
+  "organisation": {
+    "nom": "TAMWILCOM",
+    "telephone": "05377-16868",
+    "site_web": "www.tamwilcom.ma",
+    "adresse": ""
+  },
+  "modalites": "traitement des demandes\nLa CCG examine les demandes de garantie dans un délai de 10 jours ouvrables.\nMode de présentation de la demande\nPar l’intermédiaire d’un organisme intervenant dans le secteur du capital investissement.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "prime",
+    "garantie",
+    "investissement",
+    "vert",
+    "TVA",
+    "IS"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "prime",
+    "garantie",
+    "investissement",
+    "vert",
+    "TVA",
+    "IS"
+  ]
+}

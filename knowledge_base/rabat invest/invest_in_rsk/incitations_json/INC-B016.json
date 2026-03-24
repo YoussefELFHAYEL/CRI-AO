@@ -1,0 +1,87 @@
+{
+  "id": "INC-B016",
+  "nom": "Nawat Postinvestissement",
+  "nom_court": "Nawat Postinvestissement",
+  "axe": "",
+  "type_incitation": "accompagnement",
+  "description_courte": "Accompagnement pour le renforcement des compétences entrepreneuriales, managériales et métiers des cibles et mettre à leur disposition du conseil et de l’assistance technique. \\- Contribution financière de Maroc PME :\nMaroc PME prend en charge le coût total des actions d’accompagnement\nBesoins\no ...",
+  "description_complete": "Accompagnement pour le renforcement des compétences entrepreneuriales, managériales et métiers des cibles et mettre à leur disposition du conseil et de l’assistance technique.\n\\- Contribution financière de Maroc PME :\nMaroc PME prend en charge le coût total des actions d’accompagnement\nBesoins\no Développer les compétences managériales.\no Tenir la comptabilité\no Maîtriser la fiscalité.\no Assurer une bonne gestion financière\no Accéder à de nouveaux marchés\no Maîtriser le digital\no Avoir une assistance technique\no Bénéficier du conseil métier.",
+  "avantages": [
+    "Accompagnement pour le renforcement des compétences entrepreneuriales, managériales et métiers des cibles et mettre à leur disposition du conseil et de l’assistance technique.",
+    "Contribution financière de Maroc PME :",
+    "Maroc PME prend en charge le coût total des actions d’accompagnement",
+    "o Développer les compétences managériales.",
+    "o Tenir la comptabilité",
+    "o Maîtriser la fiscalité.",
+    "o Assurer une bonne gestion financière",
+    "o Accéder à de nouveaux marchés",
+    "o Maîtriser le digital",
+    "o Avoir une assistance technique",
+    "o Bénéficier du conseil métier."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "TPE",
+      "auto-entrepreneur"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Auto-entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "o Auto-entrepreneur en activité",
+    "o TPE en activité disposant de documents juridiques justifiant son existence",
+    "o Agissant dans les activités de transformation"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 57 44\u000bwww.marocpme.gov.ma"
+  ],
+  "organisation": {
+    "nom": "MAROC PME",
+    "telephone": "05 37 57 44",
+    "site_web": "www.marocpme.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "investissement",
+    "digital",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "investissement",
+    "digital",
+    "IS",
+    "IR"
+  ]
+}

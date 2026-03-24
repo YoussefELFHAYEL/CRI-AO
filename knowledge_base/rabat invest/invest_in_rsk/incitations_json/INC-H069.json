@@ -1,0 +1,81 @@
+{
+  "id": "INC-H069",
+  "nom": "OFPPT – Contrats Spéciaux de Formation (CSF)",
+  "nom_court": "OFPPT – Contrats Spéciaux de Formation (CSF)",
+  "axe": "",
+  "type_incitation": "financement",
+  "description_courte": "Les CSF sont un mécanisme qui vise l’émergence de la demande des entreprises en formation en cours d’emploi, ainsi que l’amélioration continue des compétences des salariés. Pour en bénéficier, les entreprises doivent effectuer une « Demande de Remboursement des Actions de Formation OFPPT »",
+  "description_complete": "Les CSF sont un mécanisme qui vise l’émergence de la demande des entreprises en formation en cours d’emploi, ainsi que l’amélioration continue des compétences des salariés.\nPour en bénéficier, les entreprises doivent effectuer une « Demande de Remboursement des Actions de Formation OFPPT ». Ayant pour finalité l’amélioration continue des compétences des salariés.\nCe dispositif de financement est le fruit d'un partenariat conclu entre l’OFPPT d’une part, et l’entreprise bénéficiaire d’autre part.",
+  "avantages": [
+    "Les CSF sont un mécanisme qui vise l’émergence de la demande des entreprises en formation en cours d’emploi, ainsi que l’amélioration continue des compétences des salariés.",
+    "Pour en bénéficier, les entreprises doivent effectuer une « Demande de Remboursement des Actions de Formation OFPPT ». Ayant pour finalité l’amélioration continue des compétences des salariés.",
+    "Ce dispositif de financement est le fruit d'un partenariat conclu entre l’OFPPT d’une part, et l’entreprise bénéficiaire d’autre part."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "La vérification de l’éligibilité des entreprises privées et établissements publics, est faite par l’OFPPT sur la base des données mises à jour mensuellement qui lui sont fournies par la CNSS, dans le cadre d’une convention entre les deux organismes.",
+    "Peuvent bénéficier du système des CSF les employeurs assujettis à la taxe de formation professionnelle (TFP) et en situation régulière vis à vis de la CNSS au titre de cette taxe pour « l’Année TFP ».",
+    "« L’Année TFP » est définie comme étant l’année s’étalant entre le 1er juillet de l’Année N-2 et le 30 juin de l’Année N-1."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 05 22 63 44 44",
+    "www.ofppt.ma/"
+  ],
+  "organisation": {
+    "nom": "Office de la formation professionnelle et de la promotion du travail",
+    "telephone": "05 22 63 44 44",
+    "site_web": "www.ofppt.ma/",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "financement",
+    "formation",
+    "emploi",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "financement",
+    "formation",
+    "emploi",
+    "IS",
+    "IR"
+  ]
+}

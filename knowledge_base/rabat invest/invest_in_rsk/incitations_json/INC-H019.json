@@ -1,0 +1,94 @@
+{
+  "id": "INC-H019",
+  "nom": "INDH-PROGRAMME 3\nAmélioration du revenu et inclusion économique des jeunes",
+  "nom_court": "INDH-PROGRAMME 3\nAmélioration du revenu et inclusion écon...",
+  "axe": "",
+  "type_incitation": "financement",
+  "description_courte": "L’INDH entend contribuer à relever le défi de l’inclusion économique des jeunes par une approche intégrée visant à améliorer l’employabilité des jeunes, créer de la valeur au niveau local et assurer la pérennité des projets.:\n\nEmployabilité des jeunes\nRelever le défi de l’employabilité des jeunes...",
+  "description_complete": "L’INDH entend contribuer à relever le défi de l’inclusion économique des jeunes par une approche intégrée visant à améliorer l’employabilité des jeunes, créer de la valeur au niveau local et assurer la pérennité des projets.:\n\nEmployabilité des jeunes\nRelever le défi de l’employabilité des jeunes\nCréation de valeur au niveau local\nPour créer davantage d’emplois et générer plus de valeur ajoutée au niveau local, l’INDH contribuera à l’identification et au soutien des filières porteuses.\nPérennité des TPMEs\nAssurer la pérennité des TPMEs pour créer de la valeur durable\n\n\\*Contribuer à développer l’employabilité des jeunes à travers une meilleure adéquation entre les qualifications et les besoins du marché du travail\n\\\\* Mettre en place un cadre favorisant la coordination entre les différents intervenants, notamment au niveau provincial\n\\\\* Accompagner le développement de projets innovants et contribuer à leur financement",
+  "avantages": [
+    "L’INDH entend contribuer à relever le défi de l’inclusion économique des jeunes par une approche intégrée visant à améliorer l’employabilité des jeunes, créer de la valeur au niveau local et assurer la pérennité des projets.:",
+    "Employabilité des jeunes",
+    "Relever le défi de l’employabilité des jeunes",
+    "Création de valeur au niveau local",
+    "Pour créer davantage d’emplois et générer plus de valeur ajoutée au niveau local, l’INDH contribuera à l’identification et au soutien des filières porteuses.",
+    "Pérennité des TPMEs",
+    "Assurer la pérennité des TPMEs pour créer de la valeur durable",
+    "Contribuer à développer l’employabilité des jeunes à travers une meilleure adéquation entre les qualifications et les besoins du marché du travail",
+    "Mettre en place un cadre favorisant la coordination entre les différents intervenants, notamment au niveau provincial",
+    "Accompagner le développement de projets innovants et contribuer à leur financement"
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "Non spécifié"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Coopératives:",
+    "Associations de bénéficiaires directs;",
+    "Associations intermédiaires dont les responsabilités et les niveaux d’intervention doivent être définis clairement dans le contrat du projet. A noter que les bénéfices générés par le projet reviennent de droit aux bénéficiaires directs ;",
+    "Sociétés de personnes émanant obligatoirement de la population cible de l’INDH,",
+    "Groupements d’intérêt économique",
+    "Les promoteurs doivent avoir un savoir-faire ou une expérience confirmés ou une formation adéquate dans le domaine de l’activité envisagée.",
+    "Le budget total du projet est inferieur ou égal à 250 000 Dh.",
+    "Exceptionnellement et pour certains projets de développement de filières ou structurants, le coût total du projet peut atteindre, sur décision unanime des membres du comité provincial de développement humain (CPDH), 500 000 MAD.",
+    "Sont considérés comme inéligibles les projets reposant sur le travail des enfants, nuisible à l’environnement, ou les projets dont les bénéficiaires ont déjà̀ bénéficié́ d’un financement public destiné à une activité́ économique (ADS)"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "L’octroi des financements est soumis obligatoirement à un accompagnement des porteurs de projet, à l’établissement d’une convention bipartite (entre le CPDH et les bénéficiaires) ou tripartite (entre le CPDH, les bénéficiaires et une association de microcrédit), au suivi et à l’évaluation du projet. Si le projet n’est pas réalisé́ conformément aux conditions préalablement fixées dans la convention, alors l’argent devra être remboursé à l’INDH et les biens acquis avec la subvention resteront propriété́ de l’INDH. Le différentiel entre les coûts réels et les coûts prévisionnels devra également être remboursé."
+  ],
+  "organisation": {
+    "nom": "INDH",
+    "telephone": "05 37 21 55 62/05 37 21 55 77",
+    "site_web": "",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nL’octroi des financements est soumis obligatoirement à un accompagnement des porteurs de projet, à l’établissement d’une convention bipartite (entre le CPDH et les bénéficiaires) ou tripartite (entre le CPDH, les bénéficiaires et une association de microcrédit), au suivi et à l’évaluation du projet. Si le projet n’est pas réalisé́ conformément aux conditions préalablement fixées dans la convention, alors l’argent devra être remboursé à l’INDH et les biens acquis avec la subvention resteront propriété́ de l’INDH. Le différentiel entre les coûts réels et les coûts prévisionnels devra également être remboursé.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "financement",
+    "emploi",
+    "durable",
+    "jeune",
+    "IS"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "btp",
+    "tech",
+    "agriculture",
+    "services"
+  ],
+  "tailles_map": [
+    "tpe",
+    "pme",
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "financement",
+    "emploi",
+    "durable",
+    "jeune",
+    "IS"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "INC-H035",
+  "nom": "Taxe Professionnelle",
+  "nom_court": "Taxe Professionnelle",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Exonération de la taxe professionnelle pendant une période de 5 ans à compter de la date du début d’activité ainsi que les terrains, constructions de\ntoute nature, additions de constructions, matériels et outillages neufs acquis en cours d’exploitation, directement ou par voie de crédit-bail.",
+  "description_complete": "Exonération de la taxe professionnelle pendant une période de 5 ans à compter de la date du début d’activité ainsi que les terrains, constructions de\ntoute nature, additions de constructions, matériels et outillages neufs acquis en cours d’exploitation, directement ou par voie de crédit-bail.",
+  "avantages": [
+    "Exonération de la taxe professionnelle pendant une période de 5 ans à compter de la date du début d’activité ainsi que les terrains, constructions de",
+    "toute nature, additions de constructions, matériels et outillages neufs acquis en cours d’exploitation, directement ou par voie de crédit-bail."
+  ],
+  "montant_ou_taux": "",
+  "duree": "5 ans",
+  "cible": {
+    "tailles": [
+      "auto-entrepreneur"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Auto-entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "crédit",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "tech",
+    "btp"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "crédit",
+    "IS",
+    "IR"
+  ]
+}

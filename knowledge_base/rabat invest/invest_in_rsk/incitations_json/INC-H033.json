@@ -1,0 +1,63 @@
+{
+  "id": "INC-H033",
+  "nom": "Plus values nettes",
+  "nom_court": "Plus values nettes",
+  "axe": "",
+  "type_incitation": "autre",
+  "description_courte": "Les plus-values nettes résultant de la cession ou du retrait des biens corporels et incorporels affectés à l’exercice de l’activité sont imposables par voie de rôle suivant les modalités prévues à l’article 40-I du code général des impôts (C.G.I) et selon les taux du barème prévu au (C.G.I).",
+  "description_complete": "Les plus-values nettes résultant de la cession ou du retrait des biens corporels et incorporels affectés à l’exercice de l’activité sont imposables par voie de rôle suivant les modalités prévues à l’article 40-I du code général des impôts (C.G.I) et selon les taux du barème prévu au (C.G.I).",
+  "avantages": [
+    "Les plus-values nettes résultant de la cession ou du retrait des biens corporels et incorporels affectés à l’exercice de l’activité sont imposables par voie de rôle suivant les modalités prévues à l’article 40-I du code général des impôts (C.G.I) et selon les taux du barème prévu au (C.G.I)."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "auto-entrepreneur"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Auto-entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [],
+  "secteurs_map": [
+    "tech"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": []
+}

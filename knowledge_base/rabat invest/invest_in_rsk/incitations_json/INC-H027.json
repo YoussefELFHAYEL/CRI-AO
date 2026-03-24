@@ -1,0 +1,81 @@
+{
+  "id": "INC-H027",
+  "nom": "Exonération de la TVA à l’importation des biens d’équipement, matériels et outillages pendant 36 mois à compter du début d’activité de la société.",
+  "nom_court": "Exonération de la TVA à l’importation des biens d’équipem...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Cette exonération est accordée également aux parties, pièces détachées et accessoires importés en même temps que les équipements précités. Pour les sociétés qui procèdent à la construction de leurs projets, le délai de 36 mois est à compter à partir de la date de délivrance de l’autorisation de c...",
+  "description_complete": "Cette exonération est accordée également aux parties, pièces détachées et accessoires importés en même temps que les équipements précités.\nPour les sociétés qui procèdent à la construction de leurs projets, le délai de 36 mois est à compter à partir de la date de délivrance de l’autorisation de construire et il est prorogeable de 6 mois en cas de force majeure renouvelable une fois.",
+  "avantages": [
+    "Cette exonération est accordée également aux parties, pièces détachées et accessoires importés en même temps que les équipements précités.",
+    "Pour les sociétés qui procèdent à la construction de leurs projets, le délai de 36 mois est à compter à partir de la date de délivrance de l’autorisation de construire et il est prorogeable de 6 mois en cas de force majeure renouvelable une fois."
+  ],
+  "montant_ou_taux": "",
+  "duree": "36 mois",
+  "cible": {
+    "tailles": [
+      "PME"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Investissement égal ou supérieur à 100 Millions DH.",
+    "Signature avec l’État d’une convention d’investissement approuvée par la Commission des Investissements ."
+  ],
+  "conditions": {
+    "investissement_min": 100000000,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Demande de conclusion d’une convention d’investissement",
+    "Présentation de la société en quelques chiffres précisant les activités, les références, les actionnaires, liste et fonction de l’équipe dirigeante de la société",
+    "Descriptif du projet (présentation du projet)",
+    "Documents juridiques (Statuts de la société / Dernier PV de l’assemblée générale/ Attestation de l’Identifiant Fiscal/ Attestation d’inscription au Registre de commerce",
+    "Foncier : certificat de propriété, plan de situation et plan foncier du terrain à mobiliser, plan de masse, accord de la Commission régionale d’investissement relative à la mobilisation du foncier public",
+    "Business plan détaillé",
+    "Attestation de capacité financière et conventions conclues pour le financement du projet",
+    "Emplois : Note sur le nombre d’emplois directs à créer (ventilés par catégorie et par année / Note sur les emplois indirects / Note sur les emplois induits (à créer à travers les entités devant s’installer dans un centre d’activité ou une zone dédiée)",
+    "Attestation de début d’activité ou attestation de la première autorisation de construire (sachant que seules les sociétés nouvellement créées peuvent bénéficier de l’exonération de TVA)"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nDemande de conclusion d’une convention d’investissement\nPrésentation de la société en quelques chiffres précisant les activités, les références, les actionnaires, liste et fonction de l’équipe dirigeante de la société\nDescriptif du projet (présentation du projet)\nDocuments juridiques (Statuts de la société / Dernier PV de l’assemblée générale/ Attestation de l’Identifiant Fiscal/ Attestation d’inscription au Registre de commerce\nFoncier : certificat de propriété, plan de situation et plan foncier du terrain à mobiliser, plan de masse, accord de la Commission régionale d’investissement relative à la mobilisation du foncier public\nBusiness plan détaillé\nAttestation de capacité financière et conventions conclues pour le financement du projet\nEmplois : Note sur le nombre d’emplois directs à créer (ventilés par catégorie et par année / Note sur les emplois indirects / Note sur les emplois induits (à créer à travers les entités devant s’installer dans un centre d’activité ou une zone dédiée)\nAttestation de début d’activité ou attestation de la première autorisation de construire (sachant que seules les sociétés nouvellement créées peuvent bénéficier de l’exonération de TVA)",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "TVA",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "btp"
+  ],
+  "tailles_map": [
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "TVA",
+    "IS",
+    "IR"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "INC-H012",
+  "nom": "FODEP\nMinistère Délégué auprès du Ministre de l’Énergie, des Mines, de l’Eau et de l’environnement, Chargé de l’Environnement",
+  "nom_court": "FODEP\nMinistère Délégué auprès du Ministre de l’Énergie, ...",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Subvention accordée par le Fonds de Dépollution Industrielle (FODEP)\n\n• Don du FODEP : 20% à 40% du coût du projet de dépollution ;\n• Crédit : 20% à 40% ;\n• Auto-financement : 20% à 40%.",
+  "description_complete": "Subvention accordée par le Fonds de Dépollution Industrielle (FODEP)\n\n• Don du FODEP : 20% à 40% du coût du projet de dépollution ;\n• Crédit : 20% à 40% ;\n• Auto-financement : 20% à 40%.",
+  "avantages": [
+    "Subvention accordée par le Fonds de Dépollution Industrielle (FODEP)",
+    "Don du FODEP : 20% à 40% du coût du projet de dépollution ;",
+    "Crédit : 20% à 40% ;",
+    "Auto-financement : 20% à 40%."
+  ],
+  "montant_ou_taux": "20%; 40%; 20%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Toute entreprise industrielle ou artisanale causant des émissions importantes de pollution de l’environnement et dont le total bilan est inférieur à 400 MDH, avec des projets de :",
+    "Traitement ou élimination des rejets liquides, déchets solides ou émissions gazeuses ;",
+    "Économie de ressources, notamment l’eau et l’énergie ;",
+    "Changement de procédé par l’utilisation d’une technologie propre ;",
+    "Modernisation du secteur de l’huile d’olive par le passage au procédé écologique de deux phases avec l’installation d’un séchoir pour les grignons (Guichet huileries d’olive sans margine) ;",
+    "Changement des fours traditionnels par la mise en place de fours modernes à gaz ou électriques (Guichet potiers)."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": 400000000,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Formulaire de demande de bénéfice dûment rempli et signé selon le modèle établi par la cellule FODEP",
+    "Étude technique conforme aux termes de références préétablis par la cellule FODEP."
+  ],
+  "organisation": {
+    "nom": "Ministère Délégué auprès du Ministre de l’Énergie, des Mines, de l’Eau et de l’environnement, Chargé de l’Environnement",
+    "telephone": "",
+    "site_web": "",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nFormulaire de demande de bénéfice dûment rempli et signé selon le modèle établi par la cellule FODEP\nÉtude technique conforme aux termes de références préétablis par la cellule FODEP.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "subvention",
+    "crédit",
+    "financement",
+    "IS",
+    "IR",
+    "industrie",
+    "énergie",
+    "environnement"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "agriculture",
+    "industrie",
+    "services"
+  ],
+  "tailles_map": [
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "subvention",
+    "crédit",
+    "financement",
+    "IS",
+    "IR",
+    "industrie",
+    "énergie",
+    "environnement"
+  ]
+}

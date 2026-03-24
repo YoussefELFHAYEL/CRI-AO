@@ -1,0 +1,81 @@
+{
+  "id": "INC-H008",
+  "nom": "Change / Société Holding Offshore",
+  "nom_court": "Change / Société Holding Offshore",
+  "axe": "",
+  "type_incitation": "autre",
+  "description_courte": "Possibilité d’ouverture de comptes en devises\nPossibilité d’ouverture de comptes en dirhams convertibles. Ces comptes sont ouverts soit au nom de la clientèle soit au nom des correspondants étrangers des banques marocaines\nPossibilité d’ouverture de comptes spéciaux libellés en dirhams\nLiberté de...",
+  "description_complete": "Possibilité d’ouverture de comptes en devises\nPossibilité d’ouverture de comptes en dirhams convertibles. Ces comptes sont ouverts soit au nom de la clientèle soit au nom des correspondants étrangers des banques marocaines\nPossibilité d’ouverture de comptes spéciaux libellés en dirhams\nLiberté de rapatriement de revenus ou de produits à l’étranger ;\nLiberté de change en ce qui concerne les opérations avec les non-résidents ;\nLiberté d’effectuer toutes opérations financières ou bancaires en monnaies étrangères convertibles pour son propre compte ou pour le compte de personnes physiques ou morales non-résidentes ;\nLiberté d’investir au Maroc et de prendre des participations dans le capital de sociétés\nrésidentes, et ce, conformément à la législation en vigueur.\nPar ailleurs, tous leurs règlements au Maroc doivent être effectués au moyen de comptes en devises ou de comptes étrangers en dirhams convertibles ouverts auprès des banques marocaines intermédiaires agréées.",
+  "avantages": [
+    "Possibilité d’ouverture de comptes en devises",
+    "Possibilité d’ouverture de comptes en dirhams convertibles. Ces comptes sont ouverts soit au nom de la clientèle soit au nom des correspondants étrangers des banques marocaines",
+    "Possibilité d’ouverture de comptes spéciaux libellés en dirhams",
+    "Liberté de rapatriement de revenus ou de produits à l’étranger ;",
+    "Liberté de change en ce qui concerne les opérations avec les non-résidents ;",
+    "Liberté d’effectuer toutes opérations financières ou bancaires en monnaies étrangères convertibles pour son propre compte ou pour le compte de personnes physiques ou morales non-résidentes ;",
+    "Liberté d’investir au Maroc et de prendre des participations dans le capital de sociétés",
+    "résidentes, et ce, conformément à la législation en vigueur.",
+    "Par ailleurs, tous leurs règlements au Maroc doivent être effectués au moyen de comptes en devises ou de comptes étrangers en dirhams convertibles ouverts auprès des banques marocaines intermédiaires agréées."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Notification de l’installation à l'Office des changes dans un délai maximum de 30 jours à compter de la date de l’inscription sur le registre du commerce."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Prendre contact avec un Expert Comptable."
+  ],
+  "organisation": {
+    "nom": "Office des changes",
+    "telephone": "05372-66363",
+    "site_web": "www.oc.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\nPrendre contact avec un Expert Comptable.",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "vert",
+    "IS",
+    "IR",
+    "offshore"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge",
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "vert",
+    "IS",
+    "IR",
+    "offshore"
+  ]
+}

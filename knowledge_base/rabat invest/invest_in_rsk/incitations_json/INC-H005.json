@@ -1,0 +1,76 @@
+{
+  "id": "INC-H005",
+  "nom": "Droits de douane / Banques Offshore",
+  "nom_court": "Droits de douane / Banques Offshore",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Exonération des droits et taxes dus à l’importation de matériel, de mobilier et/biens d'équipement nécessaires à l’exploitation et dispense des formalités du contrôle du commerce extérieur. Remboursement des droits d’importation en cas d’acquisition locale de matériels, mobiliers et biens d’équip...",
+  "description_complete": "Exonération des droits et taxes dus à l’importation de matériel, de mobilier et/biens d'équipement nécessaires à l’exploitation et dispense des formalités du contrôle du commerce extérieur.\nRemboursement des droits d’importation en cas d’acquisition locale de matériels, mobiliers et biens d’équipement d’origine étrangère.",
+  "avantages": [
+    "Exonération des droits et taxes dus à l’importation de matériel, de mobilier et/biens d'équipement nécessaires à l’exploitation et dispense des formalités du contrôle du commerce extérieur.",
+    "Remboursement des droits d’importation en cas d’acquisition locale de matériels, mobiliers et biens d’équipement d’origine étrangère."
+  ],
+  "montant_ou_taux": "",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Obtention d'un agrément délivré par le ministère chargé des Finances après avis de Bank Al-Maghrib",
+    "Exercer comme profession habituelle et principale la réception de dépôts en monnaies étrangères convertibles ;",
+    "Effectuer en ces mêmes monnaies, pour son propre compte ou pour le compte de ses clients toutes opérations financières, de crédit, de bourse ou de change."
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées"
+  ],
+  "organisation": {
+    "nom": "Administration des Douanes et Impôts Indirects",
+    "telephone": "",
+    "site_web": "",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir\n\n\n\nCoordonnées",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "IS",
+    "IR",
+    "douane",
+    "offshore"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "IS",
+    "IR",
+    "douane",
+    "offshore"
+  ]
+}

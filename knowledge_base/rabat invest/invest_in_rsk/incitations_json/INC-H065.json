@@ -1,0 +1,82 @@
+{
+  "id": "INC-H065",
+  "nom": "Impôt sur le Revenu ou Impôt sur les Sociétés",
+  "nom_court": "Impôt sur le Revenu ou Impôt sur les Sociétés",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "Impôt sur le Revenu ou Impôt sur les Sociétés\n\n• Exonération totale permanente de l’IS et de l’IR pour les exploitants agricoles qui réalisent un chiffre d’affaires inférieur à 5.000.000 de dirhams. Toutefois, lorsque le chiffre d’affaires réalisé au cours d’un exercice donné est inférieur à cinq...",
+  "description_complete": "Impôt sur le Revenu ou Impôt sur les Sociétés\n\n• Exonération totale permanente de l’IS et de l’IR pour les exploitants agricoles qui réalisent un chiffre d’affaires inférieur à 5.000.000 de dirhams.\nToutefois, lorsque le chiffre d’affaires réalisé au cours d’un exercice donné est inférieur à cinq millions (5.000.000) de dirhams, cette exonération n’est accordée que lorsque ce chiffre d’affaires est resté inférieur à ce montant pendant trois (3) exercices consécutifs.\n• Imposition permanente aux taux réduits en matière d’impôt sur les sociétés :\nLes exploitations agricoles bénéficient des taux réduits définis dans le barème progressif avec plafonnement du taux marginal de ce barème\npour cette catégorie d’entreprises à 20% au titre de l’impôt sur les sociétés.\n• Imposition permanente au taux réduit en matière d’impôt sur le revenu :\nLes exploitations agricoles bénéficient, au titre des revenus nets imposables, du taux de 20% en matière d’impôt sur le revenu.\n• Réduction de l’impôt sur le revenu:\nLes exploitants agricoles imposables bénéficient d’une réduction d’impôt égale au montant de l’impôt correspondant au montant de leur prise de participation dans le capital des entreprises innovantes en nouvelles technologies, telles que prévues par l’article 6-IV du code général des impôts, à condition que les titres reçus en contrepartie de cette participation soient inscrits dans un compte de l’actif immobilisé. Cette réduction est appliquée sur le montant de l’impôt sur le revenu dû au titre de l’exercice au cours duquel a eu lieu cette prise de participation dans les conditions prévues à l’article 7-XII du code général des impôts.",
+  "avantages": [
+    "Impôt sur le Revenu ou Impôt sur les Sociétés",
+    "Exonération totale permanente de l’IS et de l’IR pour les exploitants agricoles qui réalisent un chiffre d’affaires inférieur à 5.000.000 de dirhams.",
+    "Toutefois, lorsque le chiffre d’affaires réalisé au cours d’un exercice donné est inférieur à cinq millions (5.000.000) de dirhams, cette exonération n’est accordée que lorsque ce chiffre d’affaires est resté inférieur à ce montant pendant trois (3) exercices consécutifs.",
+    "Imposition permanente aux taux réduits en matière d’impôt sur les sociétés :",
+    "Les exploitations agricoles bénéficient des taux réduits définis dans le barème progressif avec plafonnement du taux marginal de ce barème",
+    "pour cette catégorie d’entreprises à 20% au titre de l’impôt sur les sociétés.",
+    "Imposition permanente au taux réduit en matière d’impôt sur le revenu :",
+    "Les exploitations agricoles bénéficient, au titre des revenus nets imposables, du taux de 20% en matière d’impôt sur le revenu.",
+    "Réduction de l’impôt sur le revenu:",
+    "Les exploitants agricoles imposables bénéficient d’une réduction d’impôt égale au montant de l’impôt correspondant au montant de leur prise de participation dans le capital des entreprises innovantes en nouvelles technologies, telles que prévues par l’article 6-IV du code général des impôts, à condition que les titres reçus en contrepartie de cette participation soient inscrits dans un compte de l’actif immobilisé. Cette réduction est appliquée sur le montant de l’impôt sur le revenu dû au titre de l’exercice au cours duquel a eu lieu cette prise de participation dans les conditions prévues à l’article 7-XII du code général des impôts."
+  ],
+  "montant_ou_taux": "20%; 20%",
+  "duree": "permanent",
+  "cible": {
+    "tailles": [
+      "GE"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "exonération",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "btp",
+    "tech",
+    "agriculture",
+    "industrie",
+    "services"
+  ],
+  "tailles_map": [
+    "ge"
+  ],
+  "mots_cles_recherche": [
+    "exonération",
+    "IS",
+    "IR"
+  ]
+}

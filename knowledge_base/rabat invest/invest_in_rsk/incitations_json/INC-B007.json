@@ -1,0 +1,88 @@
+{
+  "id": "INC-B007",
+  "nom": "MOWAKABA\nRESTRUCTURATION DES ENTREPRISES",
+  "nom_court": "MOWAKABA\nRESTRUCTURATION DES ENTREPRISES",
+  "axe": "",
+  "type_incitation": "exoneration",
+  "description_courte": "accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%. Apport de Maroc PME\nPrise en charge le coût de la prestation de service à hauteur de\n80% pour les PME\n90% pour les TPE\n\nBesoins :\nDéfinir la stratégie ...",
+  "description_complete": "accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%.\nApport de Maroc PME\nPrise en charge le coût de la prestation de service à hauteur de\n80% pour les PME\n90% pour les TPE\n\nBesoins :\nDéfinir la stratégie de restructuration de l’entreprise et de gestion de la crise\nEtablir un plan de restructuration - relance\nGérer les liquidités\nOptimiser la trésorerie et sécuriser les liquidités\nElaborer un plan de réduction des coûts\nRestructurer les ressources humaines\nRéorganiser les effectives et mettre en œuvre un plan social\nDéployer une restructuration industrielle\nAccompagner la restructuration industrielle de l’entreprise\nSécuriser et développer les ventes\nSécuriser les ventes\nDéfinir et déployer une stratégie et un plan commercial",
+  "avantages": [
+    "accompagnement personnalisé à travers des prestataires qualifiés et une prise en charge partielle du coût de la prestation pouvant atteindre 90%.",
+    "Apport de Maroc PME",
+    "Prise en charge le coût de la prestation de service à hauteur de",
+    "80% pour les PME",
+    "90% pour les TPE",
+    "Définir la stratégie de restructuration de l’entreprise et de gestion de la crise",
+    "Etablir un plan de restructuration - relance",
+    "Gérer les liquidités",
+    "Optimiser la trésorerie et sécuriser les liquidités",
+    "Elaborer un plan de réduction des coûts",
+    "Restructurer les ressources humaines",
+    "Réorganiser les effectives et mettre en œuvre un plan social",
+    "Déployer une restructuration industrielle",
+    "Accompagner la restructuration industrielle de l’entreprise",
+    "Sécuriser et développer les ventes"
+  ],
+  "montant_ou_taux": "90%; 80%; 90%",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "PME",
+      "TPME"
+    ],
+    "secteurs": [
+      "industrie"
+    ],
+    "profils_speciaux": []
+  },
+  "criteres_eligibilite": [
+    "Entreprises existantes ou en amorçage",
+    "chiffre d’affaires annuel est inférieur ou égal à 200 MDH",
+    "secteur industriel ou une activité liée à l’industrie"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél: 05 37 57 44\u000bwww.marocpme.gov.ma"
+  ],
+  "organisation": {
+    "nom": "MAROC PME",
+    "telephone": "05 37 57 44",
+    "site_web": "www.marocpme.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "IS",
+    "IR",
+    "industrie"
+  ],
+  "secteurs_map": [
+    "commerce",
+    "industrie",
+    "tech",
+    "services"
+  ],
+  "tailles_map": [
+    "pme"
+  ],
+  "mots_cles_recherche": [
+    "IS",
+    "IR",
+    "industrie"
+  ]
+}

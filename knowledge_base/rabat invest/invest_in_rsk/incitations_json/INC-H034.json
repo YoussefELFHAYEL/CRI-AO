@@ -1,0 +1,72 @@
+{
+  "id": "INC-H034",
+  "nom": "Taxe sur la valeur ajoutée",
+  "nom_court": "Taxe sur la valeur ajoutée",
+  "axe": "",
+  "type_incitation": "autre",
+  "description_courte": "L’auto-entrepreneur est hors champ d’application de la TVA puisque son chiffre d’affaires ne dépasse pas le seuil d’assujettissement de la TVA fixé à\n500 000 dhs.",
+  "description_complete": "L’auto-entrepreneur est hors champ d’application de la TVA puisque son chiffre d’affaires ne dépasse pas le seuil d’assujettissement de la TVA fixé à\n500 000 dhs.",
+  "avantages": [
+    "L’auto-entrepreneur est hors champ d’application de la TVA puisque son chiffre d’affaires ne dépasse pas le seuil d’assujettissement de la TVA fixé à",
+    "500 000 dhs."
+  ],
+  "montant_ou_taux": "500 000 dh",
+  "duree": "",
+  "cible": {
+    "tailles": [
+      "auto-entrepreneur"
+    ],
+    "secteurs": [
+      "Non spécifié"
+    ],
+    "profils_speciaux": [
+      "Auto-entrepreneur"
+    ]
+  },
+  "criteres_eligibilite": [
+    "Modalités de mise en œuvre"
+  ],
+  "conditions": {
+    "investissement_min": null,
+    "investissement_max": null,
+    "ca_min": null,
+    "ca_max": null,
+    "anciennete_max_annees": null,
+    "export_min_pct": null,
+    "emplois_min": null
+  },
+  "pieces_a_fournir": [
+    "Coordonnées",
+    "Tél : 0537277052",
+    "www.tax.gov.ma"
+  ],
+  "organisation": {
+    "nom": "Direction Régionale des Impôts",
+    "telephone": "0537277052",
+    "site_web": "www.tax.gov.ma",
+    "adresse": ""
+  },
+  "modalites": "Liste de pièces à fournir",
+  "localisation_applicable": [
+    "rabat",
+    "sale",
+    "kenitra",
+    "toute_region"
+  ],
+  "tags": [
+    "TVA",
+    "IS",
+    "IR"
+  ],
+  "secteurs_map": [
+    "tech"
+  ],
+  "tailles_map": [
+    "tpe"
+  ],
+  "mots_cles_recherche": [
+    "TVA",
+    "IS",
+    "IR"
+  ]
+}
