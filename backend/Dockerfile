@@ -5,8 +5,7 @@ WORKDIR /install
 COPY requirements.txt .
 
 RUN pip install --prefix=/install --no-cache-dir \
-    torch==2.10.0+cpu \
-    -f https://download.pytorch.org/whl/cpu/torch_stable.html
+    torch==2.10.0
 
 RUN pip install --prefix=/install --no-cache-dir -r requirements.txt
 
