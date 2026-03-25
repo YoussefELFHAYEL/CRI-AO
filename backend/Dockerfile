@@ -19,5 +19,5 @@ RUN mkdir -p /app/knowledge_base
 COPY knowledge_base/ /app/knowledge_base/
 
 EXPOSE 8000
-
+RUN ln -s /app/knowledge_base /knowledge_base
 CMD ["sh", "-c", "python ./scripts/load_documents.py && python ./scripts/seed_demo_data.py && uvicorn app.main:app --host 0.0.0.0 --port 8000"]
