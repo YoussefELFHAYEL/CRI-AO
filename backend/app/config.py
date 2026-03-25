@@ -19,7 +19,7 @@ class Settings(BaseSettings):
 
     # Paths
     knowledge_base_path: str = Field(
-        default="../knowledge_base", alias="KNOWLEDGE_BASE_PATH"
+        default="./knowledge_base", alias="KNOWLEDGE_BASE_PATH"
     )
     chroma_persist_dir: str = Field(
         default="./chroma_data", alias="CHROMA_PERSIST_DIR"
