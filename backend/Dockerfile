@@ -24,7 +24,7 @@ COPY backend/data ./data
 COPY backend/scripts ./scripts
 
 # Copy knowledge base inside /app (Changed this line!)
-COPY knowledge_base ./knowledge_base
+COPY knowledge_base /knowledge_base
 
 EXPOSE 8000
 
