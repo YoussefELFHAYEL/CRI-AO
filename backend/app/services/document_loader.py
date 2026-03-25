@@ -121,17 +121,26 @@ def _load_json_file(
                 )
 
         # Add required documents
+        # Add required documents
         if "constitution_dossier" in data:
             dossier = data["constitution_dossier"]
             pieces = dossier.get("pieces_requises", [])
             if pieces:
                 sections.append("\nDocuments requis:")
                 for piece in pieces:
-                    doc_text = piece.get("document", "")
-                    note = (
-                        f" ({piece['note']})" if "note" in piece else ""
-                    )
-                    sections.append(f"  - {doc_text}{note}")
+                    # Handle both string and dict formats
+                    if isinstance(piece, str):
+                        sections.append(f"  - {piece}")
+                    else:
+                        doc_text = piece.get("document", "")
+                        note = (
+                            f" ({piece['note']})" if "note" in piece else ""
+                        )
+                        sections.append(f"  - {doc_text}{note}")
+            
+            remarque = dossier.get("remarque", "")
+            if remarque:
+                sections.append(f"\nRemarque: {remarque}")
 
         # Add how to start
         if "demarrer_procedure" in data:
