@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node node_modules/vite/bin/vite.js build",
-    "preview": "vite preview"
+    "build": "vite build",
+    "start": "vite preview --host --port $PORT"
   },
   "dependencies": {
     "@faker-js/faker": "^10.3.0",
