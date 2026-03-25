@@ -1,30 +1,22 @@
 FROM python:3.12-slim AS builder
-
 WORKDIR /install
-
 COPY backend/requirements.txt .
-
 RUN pip install --prefix=/install --no-cache-dir -r requirements.txt
 
-
 FROM python:3.12-slim
-
 WORKDIR /app
 
-# Copy installed packages from builder
+# Copy dependencies
 COPY --from=builder /install /usr/local
 
-# Copy backend app
+# Copy application files
 COPY backend/app ./app
-
-# Copy data folder
 COPY backend/data ./data
-
-# Copy scripts
 COPY backend/scripts ./scripts
 
-# Copy knowledge base inside /app (Changed this line!)
-COPY knowledge_base /knowledge_base
+# COPY knowledge_base into /app/knowledge_base (Explicitly!)
+RUN mkdir -p /app/knowledge_base
+COPY knowledge_base/ /app/knowledge_base/
 
 EXPOSE 8000
 
