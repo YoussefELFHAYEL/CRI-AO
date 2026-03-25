@@ -3,7 +3,7 @@
  * Handles all communication with the FastAPI backend.
  */
 
-export const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000/api';
+export const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://cri-ao-production.up.railway.app/api';
 const API_BASE = API_BASE_URL;
 
 async function request(endpoint, options = {}) {
