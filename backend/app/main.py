@@ -29,6 +29,11 @@ async def lifespan(app: FastAPI):
 
     # Initialize vector store and BM25 index
     vectorstore = get_vectorstore(settings)
+    if vectorstore is None:
+        logger.warning(
+            "Vector store unavailable — RAG queries will return fallback responses. "
+            "Populate the knowledge base by running: python -m scripts.load_documents"
+        )
     bm25_index, bm25_docs = get_bm25_index(settings)
 
     # Store in app state for access from routers
