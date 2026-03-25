@@ -11,7 +11,6 @@ export default function LandingPage() {
       {/* Navbar Optionnelle */}
       <nav className="landing-nav">
         <div className="logo-area">
-          <span className="logo-icon">🇲🇦</span>
           <span className="logo-text">CRI-RSK Chatbot</span>
         </div>
       </nav>
