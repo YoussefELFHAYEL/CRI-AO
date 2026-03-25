@@ -12,8 +12,6 @@ from langchain.docstore.document import Document
 from langchain_community.vectorstores import Chroma
 
 from app.config import Settings
-from app.services.document_loader import load_all_documents
-from app.services.chunking import chunk_documents
 
 logger = logging.getLogger(__name__)
 

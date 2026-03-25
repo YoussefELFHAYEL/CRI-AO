@@ -32,7 +32,7 @@ async def run_rag_pipeline(
     agent_type: str,
     language: str,
     settings: Settings,
-    vectorstore: Chroma,
+    vectorstore: Optional[Chroma],
     bm25_index: Optional[BM25Okapi],
     bm25_docs: Optional[list[Document]],
     conversation_history: Optional[list[dict]] = None,
@@ -55,6 +55,14 @@ async def run_rag_pipeline(
         conversation_history: Previous messages
 
     """
+    # --- Guard: no vector store available ---
+    if vectorstore is None:
+        logger.warning("RAG pipeline called but vector store is not available.")
+        return {
+            "response": _get_empty_context_fallback(language),
+            "is_fallback": True,
+        }
+
     # --- Step 0: Check Cache ---
     cache_key = f"{agent_type}_{language}_{query.lower().strip()}"
     # NOTE: Cache temporairement désactivé pour permettre de tester les changements en direct!
