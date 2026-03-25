@@ -75,6 +75,10 @@ def _load_json_file(
     file_path: Path, base_path: Path
 ) -> list[Document]:
     """Load a JSON file. Handles FAQ and procedure formats."""
+    if file_path.name == "_all_incitations.json" or file_path.name.startswith("META-"):
+        # Skip bulk and meta files to avoid duplicating the individual INC-*.json files in the vectorstore
+        return []
+
     with open(file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
@@ -144,6 +148,33 @@ def _load_json_file(
             "document_type": "procedure",
             "procedure_title": titre,
         }
+        docs.append(Document(page_content=content, metadata=doc_metadata))
+
+    # Incitation format (individual files like INC-H074.json)
+    elif isinstance(data, dict) and "nom" in data and ("description_complete" in data or "description_courte" in data):
+        titre = data.get("nom", "").replace("\n", " ").strip()
+        desc = data.get("description_complete") or data.get("description_courte", "")
+        montant = data.get("montant_ou_taux", "")
+        
+        sections = [f"FICHE INCITATION / SUBVENTION : {titre}", f"Description : {desc}"]
+        
+        if montant:
+            sections.append(f"Avantages et Montants / Taux : {montant}")
+            
+        cibles = data.get("cibles", [])
+        if cibles:
+            sections.append(f"Cibles : {', '.join(cibles)}")
+            
+        criteres = data.get("criteres_eligibilite", [])
+        if criteres:
+            sections.append("Critères d'éligibilité :\n" + "\n".join([f"- {c}" for c in criteres]))
+            
+        actions = data.get("actions_financables", [])
+        if actions:
+            sections.append("Actions finançables :\n" + "\n".join([f"- {a}" for a in actions]))
+            
+        content = "\n\n".join(sections)
+        doc_metadata = {**metadata, "document_type": "incitation", "incitation_id": data.get("id", "")}
         docs.append(Document(page_content=content, metadata=doc_metadata))
 
     else:

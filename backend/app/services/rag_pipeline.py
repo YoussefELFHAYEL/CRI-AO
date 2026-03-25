@@ -57,9 +57,10 @@ async def run_rag_pipeline(
     """
     # --- Step 0: Check Cache ---
     cache_key = f"{agent_type}_{language}_{query.lower().strip()}"
-    if cache_key in _rag_cache:
-        logger.info(f"RAG Cache hit for: {query[:50]}...")
-        return _rag_cache[cache_key]
+    # NOTE: Cache temporairement désactivé pour permettre de tester les changements en direct!
+    # if cache_key in _rag_cache:
+    #     logger.info(f"RAG Cache hit for: {query[:50]}...")
+    #     return _rag_cache[cache_key]
 
     # --- Internal agent: check for special queries first ---
     if agent_type == "internal":

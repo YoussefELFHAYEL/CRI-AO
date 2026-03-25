@@ -100,17 +100,12 @@ _flow_state: dict[str, dict] = {}
 # Trigger patterns
 # ---------------------------------------------------------------------------
 INCITATION_TRIGGERS = [
-    r"incitation",
-    r"incitatif",
-    r"aide",
-    r"subvention",
-    r"exon[ée]ration",
-    r"avantage.*fiscal",
-    r"incentive",
-    r"tax.*benefit",
-    r"حوافز",
-    r"إعفاء",
-    r"💰\s*incitation",
+    r"^quelles sont les incitations \?$",
+    r"^quelles sont les incitations [àa] l'investissement \?$",
+    r"^assistant\s*incitation",
+    r"^recherche.*par crit[èe]re",
+    r"^trouver.*incitation",
+    r"^💰\s*incitation",
 ]
 
 _TRIGGER_PATTERN = re.compile(
@@ -191,8 +186,8 @@ def get_incitation_step(
     msg = message.lower().strip()
 
     # New flow — start from step 1
-    if state is None or is_incitation_query(msg):
-        _flow_state[conversation_id] = {"step": 1, "selections": []}
+    if state is None or (is_incitation_query(msg) and state.get("step") != 4):
+        _flow_state[conversation_id] = {"step": 1, "selections": [], "page": 0}
         step_data = INCITATION_TREE["step_1"]
         return IncitationStepResponse(
             question="🏠 *Accueil > Incitations*\n\n" + step_data["question"],
@@ -207,6 +202,8 @@ def get_incitation_step(
             state["step"] -= 1
             if len(state["selections"]) > 0:
                 state["selections"].pop()
+            if state["step"] == 3:
+                state["page"] = 0 # reset page if returning to results
         else:
             # Cancel flow entirely
             del _flow_state[conversation_id]
@@ -218,8 +215,21 @@ def get_incitation_step(
                 is_final=True,
                 result="Annulé"
             )
+    elif state["step"] == 4 and msg == 'voir_plus':
+        state["page"] = state.get("page", 0) + 1
+    elif state["step"] == 4:
+        # User typed something unrelated while viewing results
+        del _flow_state[conversation_id]
+        return IncitationStepResponse(
+            question="Menu d'incitations fermé. Veuillez reformuler votre question.",
+            step=0,
+            total_steps=3,
+            options=[],
+            is_final=True,
+            result="Fermé"
+        )
     else:
-        # Move forward
+        # Move forward (user answered a question)
         state["selections"].append(msg)
         state["step"] += 1
 
@@ -252,19 +262,23 @@ def get_incitation_step(
     secteur = selections[0] if len(selections) > 0 else ""
     taille = selections[1] if len(selections) > 1 else ""
     location = selections[2] if len(selections) > 2 else ""
+    
+    page = state.get("page", 0)
 
-    result = _filter_incitations(secteur, taille, location)
+    result_text, has_more = _filter_incitations(secteur, taille, location, page)
 
-    # Clear flow state
-    del _flow_state[conversation_id]
+    # Do not clear flow state so user can paginate
+    options = [ButtonOption(label="🔙 Filtrer à nouveau", value="retour", emoji="🔙")]
+    if has_more:
+        options.insert(0, ButtonOption(label="➕ Suivantes", value="voir_plus", emoji="➕"))
 
     return IncitationStepResponse(
-        question=f"{breadcrumb}\n\n{result}",
-        step=3,
+        question=f"{breadcrumb}\n\n{result_text}",
+        step=4,
         total_steps=3,
-        options=[],
-        is_final=True,
-        result=result,
+        options=options,
+        is_final=False,
+        result=result_text,
     )
 
 
@@ -273,10 +287,10 @@ def get_incitation_step(
 # ---------------------------------------------------------------------------
 
 
-def _filter_incitations(secteur: str, taille: str, location: str) -> str:
+def _filter_incitations(secteur: str, taille: str, location: str, page: int = 0) -> tuple[str, bool]:
     """
     Filter incitations by intersecting META indexes.
-    Returns formatted response string.
+    Returns (formatted response string, has_more boolean).
     """
     # Ensure data is loaded
     _load_incitations_data()
@@ -304,7 +318,7 @@ def _filter_incitations(secteur: str, taille: str, location: str) -> str:
         matching_ids = set(_INCITATIONS_DB.keys())
 
     if not matching_ids:
-        return _no_results_message(secteur, taille, location)
+        return _no_results_message(secteur, taille, location), False
 
     # Get full incitation objects
     matching = [
@@ -321,8 +335,22 @@ def _filter_incitations(secteur: str, taille: str, location: str) -> str:
         )
     )
 
-    total = len(matching)
-    display = matching[:MAX_RESULTS]
+    # De-duplicate by name to avoid 5 identical outputs
+    seen_names = set()
+    unique_matching = []
+    for inc in matching:
+        nom = inc.get("nom", "Sans nom")
+        nom_norm = nom.lower().strip()
+        if nom_norm not in seen_names:
+            seen_names.add(nom_norm)
+            unique_matching.append(inc)
+
+    total = len(unique_matching)
+    
+    start_idx = page * MAX_RESULTS
+    end_idx = start_idx + MAX_RESULTS
+    display = unique_matching[start_idx:end_idx]
+    has_more = end_idx < total
 
     # Build formatted response
     secteur_label = {
@@ -353,15 +381,26 @@ def _filter_incitations(secteur: str, taille: str, location: str) -> str:
         f"📊 **{total} incitation(s) trouvée(s)**\n",
     ]
 
-    for i, inc in enumerate(display, 1):
-        nom = inc.get("nom_court") or inc.get("nom", "Sans nom")
-        # Truncate long names
-        if len(nom) > 80:
-            nom = nom[:77] + "..."
+    for i, inc in enumerate(display, start_idx + 1):
+        nom = inc.get("nom", "Sans nom")
+        # Fix markdown breaking by removing internal newlines
+        nom = nom.replace("\n", " ").strip()
+        
         desc = inc.get("description_courte", "")
-        # Take first line of description
-        desc_short = desc.split("\n")[0][:120] if desc else ""
-        montant = inc.get("montant_ou_taux", "")
+        # Remove newlines for description and allow more length to avoid cutting abruptly
+        if desc:
+            desc = desc.replace("\n", " ").strip()
+            desc_short = desc[:180] + "..." if len(desc) > 180 else desc
+        else:
+            desc_short = ""
+            
+        # Format and deduplicate amounts (70%; 70%; 100DH -> 70% / 100DH)
+        raw_montant = inc.get("montant_ou_taux", "")
+        montant = ""
+        if raw_montant:
+            parts = [p.strip() for p in raw_montant.split(";") if p.strip()]
+            montant = " / ".join(list(dict.fromkeys(parts)))
+            
         duree = inc.get("duree", "")
         org = inc.get("organisation", {}).get("nom", "")
 
@@ -376,17 +415,20 @@ def _filter_incitations(secteur: str, taille: str, location: str) -> str:
             lines.append(f"   🏛️ Organisme : {org}")
         lines.append("")  # blank line between entries
 
-    if total > MAX_RESULTS:
+    if has_more:
         lines.append(
-            f"📌 **Et {total - MAX_RESULTS} autres incitations disponibles.**"
+            f"📌 **Et {total - end_idx} autres incitations disponibles.**\n"
+            f"*(Cliquez sur ➕ Suivantes pour voir la page suivante)*"
         )
+    else:
+        lines.append(f"🏁 **Fin des résultats ({total} au total).**")
 
     lines.append(
         "\n📞 Pour un accompagnement personnalisé, contactez le CRI-RSK :\n"
         "📞 05 37 77 64 00 | 📧 contact@rabatinvest.ma"
     )
 
-    return "\n".join(lines)
+    return "\n".join(lines), has_more
 
 
 def _no_results_message(secteur: str, taille: str, location: str) -> str:

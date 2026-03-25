@@ -135,25 +135,6 @@ export default function DemoPanel({
           </div>
         )}
 
-        {/* 4. RAG & Multilingue */}
-        <SectionHeader id="rag" icon="🌍" title="RAG & Multilingue" />
-        {expandedSection === 'rag' && (
-          <div style={{ marginBottom: '15px', paddingLeft: '10px' }}>
-             <button className="demo-scenario-btn" style={{ width: '100%', padding: '8px', fontSize: '12px', marginBottom: '6px' }}
-               onClick={() => runScenario('rag-fr', ['Comment créer une SARL au Maroc ?'], 'public')} disabled={playingId !== null}>
-              🇫🇷 Créer une SARL
-            </button>
-            <button className="demo-scenario-btn" style={{ width: '100%', padding: '8px', fontSize: '12px', marginBottom: '6px' }}
-               onClick={() => runScenario('rag-ar', ['ما هي الوثائق المطلوبة لإنشاء شركة في المغرب؟'], 'public')} disabled={playingId !== null}>
-              🇲🇦 Question Arabe
-            </button>
-            <button className="demo-scenario-btn" style={{ width: '100%', padding: '8px', fontSize: '12px' }}
-               onClick={() => runScenario('rag-en', ['What are the advantages of investing in Rabat?'], 'public')} disabled={playingId !== null}>
-              🇬🇧 Invest in Rabat (EN)
-            </button>
-          </div>
-        )}
-
         {/* 5. Escalade Humaine */}
         <SectionHeader id="esc" icon="🚨" title="Escalade Humaine" />
         {expandedSection === 'esc' && (
