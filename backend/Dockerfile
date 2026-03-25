@@ -23,8 +23,8 @@ COPY backend/data ./data
 # Copy scripts
 COPY backend/scripts ./scripts
 
-# Copy knowledge base to root
-COPY knowledge_base /knowledge_base
+# Copy knowledge base inside /app (Changed this line!)
+COPY knowledge_base ./knowledge_base
 
 EXPOSE 8000
 
