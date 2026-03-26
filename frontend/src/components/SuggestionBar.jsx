@@ -4,7 +4,7 @@ const PUBLIC_SUGGESTIONS = [
   { label: '❓ FAQ', value: 'Quels sont les différents délais de dépôt et de traitement du recours ?' },
   { label: '💰 Incitations', value: 'Quelles sont les incitations à l\'investissement ?' },
   { label: '📋 Suivre dossier', value: 'Je voudrais suivre mon dossier INV-2024-001' },
-  { label: '❔ Question', value: 'quelles sont les incitations pour AMÉLIORATION DE LA LA COMPÉTITIVITÉ DES ENTREPRISES GIAC Hôtellerie et tourisme ?' },
+  { label: '❔ Question', value: 'Quelles sont les incitations mises en place par le GIAC Hôtellerie et Tourisme pour améliorer la compétitivité des entreprises du secteur ?' },
   { label: '🌍 Hello', value: 'Hello, I\'d like information about investing' },
   { label: '🇲🇦 مرحبا', value: 'مرحبا، أريد معلومات عن الاستثمار' },
 ];
