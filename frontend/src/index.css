@@ -602,9 +602,9 @@ body, html {
    RESPONSIVE LAYOUT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 @media (max-width: 992px) {
-  /* Hide demo panel on medium screens, make it a floating button if needed */
+  /* Hide demo panel on medium screens */
   .demo-panel {
-    display: none;
+    display: none !important;
   }
 }
 
@@ -689,4 +689,53 @@ body, html {
 
 .message-content strong {
   font-weight: 600;
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   RATING STARS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+.rating-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+  padding: 4px 0;
+}
+
+.rating-label {
+  font-size: 12px;
+  color: #667781;
+  font-style: italic;
+}
+
+.rating-stars {
+  display: flex;
+  gap: 2px;
+}
+
+.rating-star {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #ccc;
+  padding: 2px;
+  line-height: 1;
+  transition: color 0.15s, transform 0.15s;
+}
+
+.rating-star:hover:not(:disabled) {
+  transform: scale(1.2);
+}
+
+.rating-star.active {
+  color: #f5a623;
+}
+
+.rating-star.submitted {
+  cursor: default;
+}
+
+.rating-star:disabled {
+  opacity: 0.8;
 }
