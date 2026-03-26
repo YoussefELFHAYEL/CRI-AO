@@ -10,7 +10,7 @@ const WELCOME_MESSAGES = {
   public: {
     fr: "Bonjour ! 👋 Que souhaitez-vous faire ?",
     buttons: [
-      { label: "Informations et procédures", value: "Je cherche des informations", emoji: "1️⃣" },
+      { label: "Informations et procédures", value: "Je cherche des informations sur l’investissement à Rabat dans le domaine industriel.", emoji: "1️⃣" },
       { label: "Incitations et aides", value: "Quelles sont les incitations ?", emoji: "2️⃣" },
       { label: "Suivre mon dossier", value: "Je voudrais suivre mon dossier", emoji: "3️⃣" },
       { label: "Parler à un agent", value: "Je veux parler à un agent humain", emoji: "4️⃣" }
