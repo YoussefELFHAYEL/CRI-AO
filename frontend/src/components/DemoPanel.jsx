@@ -14,7 +14,7 @@ export default function DemoPanel({
   onSwitchAgent,
 }) {
   const [playingId, setPlayingId] = useState(null);
-  const [expandedSection, setExpandedSection] = useState('dossiers');
+  const [expandedSection, setExpandedSection] = useState(null);
 
   const runScenario = async (id, messages, targetAgent = 'public') => {
     setPlayingId(id);
