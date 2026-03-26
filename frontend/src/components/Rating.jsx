@@ -16,6 +16,8 @@ export default function Rating({ messageId, currentRating, onRate }) {
     }
   };
 
+  const isActive = (star) => star <= (hoveredStar || currentRating || 0);
+
   return (
     <div className="rating-container" id={`rating-${messageId}`}>
       <span className="rating-label">Évaluer :</span>
@@ -24,7 +26,7 @@ export default function Rating({ messageId, currentRating, onRate }) {
           <button
             key={star}
             className={`rating-star ${
-              star <= (hoveredStar || currentRating || 0) ? 'active' : ''
+              isActive(star) ? 'active' : ''
             } ${submitted ? 'submitted' : ''}`}
             onClick={() => handleClick(star)}
             onMouseEnter={() => !submitted && setHoveredStar(star)}
@@ -32,7 +34,7 @@ export default function Rating({ messageId, currentRating, onRate }) {
             disabled={submitted}
             aria-label={`${star} étoile${star > 1 ? 's' : ''}`}
           >
-            ⭐
+            {isActive(star) ? '★' : '☆'}
           </button>
         ))}
       </div>
