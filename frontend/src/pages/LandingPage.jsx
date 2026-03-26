@@ -83,7 +83,7 @@ export default function LandingPage() {
           <div className="tech-item"><Database size={40} /><span>PostgreSQL & pgvector</span></div>
           <div className="tech-item"><span style={{fontSize: '40px'}}>🐍</span><span>FastAPI & Python</span></div>
           <div className="tech-item"><span style={{fontSize: '40px'}}>⚛️</span><span>React & Vite</span></div>
-          <div className="tech-item"><span style={{fontSize: '40px'}}>🧠</span><span>OpenAI & HuggingFace</span></div>
+          <div className="tech-item"><span style={{fontSize: '40px'}}>🧠</span><span>LLM & HuggingFace</span></div>
           <div className="tech-item"><span style={{fontSize: '40px'}}>⚡</span><span>Redis & Upstash</span></div>
         </div>
       </section>
