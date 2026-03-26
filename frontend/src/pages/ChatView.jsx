@@ -58,7 +58,6 @@ export default function ChatView() {
       <div className="main-chat">
         {!agentType ? (
           <div className="empty-state">
-            <div style={{fontSize: '80px', marginBottom: '20px'}}>🇲🇦</div>
             <h1>CRI-RSK Chatbot</h1>
             <p>Sélectionnez un assistant dans le menu de gauche pour démarrer.</p>
             <p style={{fontSize: '12px', marginTop: '10px'}}>Centre Régional d'Investissement de Rabat-Salé-Kénitra</p>
